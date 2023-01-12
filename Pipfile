@@ -1,23 +1,19 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-
-[dev-packages]
-twine = "*"
-setuptools-scm = "*"
-pre-commit = "*"
-mypy = "*"
-types-requests = "*"
-typing-extensions = "*"
-flake8 = "*"
-flake8-bugbear = "*"
-flake8-docstrings = "*"
-pytest = "*"
-pytest-env = "*"
-pytest-cov = "*"
+name = "pypi"
 
 [packages]
+jupyterlab = "*"
+pandas = "*"
+altair = "*"
+pygithub = "*"
+bs4 = "*"
+markdown = "*"
+rich = "*"
+ipywidgets = "*"
+
+[dev-packages]
 
 [requires]
 python_version = "3.9"
