@@ -1,0 +1,52 @@
+[
+  {
+    "org": "hartfordcourant",
+    "name": "colt_park",
+    "created_at": "2015-05-22 20:09:44"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "ctnow_blarkers",
+    "created_at": "2015-05-29 16:06:24"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "flapper-news",
+    "created_at": "2015-10-23 16:53:39"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "google-sheets-table",
+    "created_at": "2015-05-15 20:22:30"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "marteka_hiking",
+    "created_at": "2015-05-08 16:30:23"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "mytowns_headlines",
+    "created_at": "2015-05-01 18:38:10"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "traffic",
+    "created_at": "2015-06-02 20:25:08"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "trending",
+    "created_at": "2015-08-03 17:51:49"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "uconn_scoreboards",
+    "created_at": "2015-04-30 17:02:27"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "v247",
+    "created_at": "2017-09-28 19:47:30"
+  }
+]

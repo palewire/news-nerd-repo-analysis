@@ -1,0 +1,137 @@
+[
+  {
+    "org": "theeconomist",
+    "name": "big-mac-data",
+    "created_at": "2018-07-06 13:43:09"
+  },
+  {
+    "org": "theeconomist",
+    "name": "graphic-detail-data",
+    "created_at": "2018-10-09 10:03:07"
+  },
+  {
+    "org": "theeconomist",
+    "name": "oecd_regional_inequality",
+    "created_at": "2018-11-09 12:52:11"
+  },
+  {
+    "org": "theeconomist",
+    "name": "us-potus-model",
+    "created_at": "2020-02-14 17:29:59"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-excess-deaths-tracker",
+    "created_at": "2020-05-15 13:44:35"
+  },
+  {
+    "org": "theeconomist",
+    "name": "vbm-turnout-analysis",
+    "created_at": "2020-08-20 16:27:11"
+  },
+  {
+    "org": "theeconomist",
+    "name": "Grim-Tallies",
+    "created_at": "2020-09-25 09:58:27"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-italy-herd-immunity-GD",
+    "created_at": "2020-10-28 19:44:51"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-us-seroprevalence-model",
+    "created_at": "2020-12-10 18:03:50"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-age-adjusted-ifr",
+    "created_at": "2021-01-04 13:54:37"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-uk-seroprevalence-model",
+    "created_at": "2021-01-07 15:09:21"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-risk-estimator",
+    "created_at": "2021-03-11 09:26:26"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-the-economist-global-excess-deaths-model",
+    "created_at": "2021-05-12 17:24:01"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-wuhan-excess-deaths",
+    "created_at": "2021-05-28 09:35:39"
+  },
+  {
+    "org": "theeconomist",
+    "name": "covid-19-after-a-stumbling-start-the-eu-is-vaccinating-at-a-fast-pace",
+    "created_at": "2021-06-24 12:36:13"
+  },
+  {
+    "org": "theeconomist",
+    "name": "in-person-voting-covid-19",
+    "created_at": "2021-08-31 22:17:13"
+  },
+  {
+    "org": "theeconomist",
+    "name": "2021-germany-election-model-PUBLIC",
+    "created_at": "2021-09-21 16:00:35"
+  },
+  {
+    "org": "theeconomist",
+    "name": "serverless-http",
+    "created_at": "2021-10-19 08:23:31"
+  },
+  {
+    "org": "theeconomist",
+    "name": "normalcy-index-data",
+    "created_at": "2021-11-25 13:29:25"
+  },
+  {
+    "org": "theeconomist",
+    "name": "GraphicDetail_WagesAndPlaces",
+    "created_at": "2022-01-28 16:45:10"
+  },
+  {
+    "org": "theeconomist",
+    "name": "malaria-eradication-estimates",
+    "created_at": "2022-02-01 11:39:07"
+  },
+  {
+    "org": "theeconomist",
+    "name": "2022-france-election-model",
+    "created_at": "2022-02-14 18:32:56"
+  },
+  {
+    "org": "theeconomist",
+    "name": "GraphicDetail_GlobalGrain",
+    "created_at": "2022-06-23 10:57:01"
+  },
+  {
+    "org": "theeconomist",
+    "name": "the-economist-conquests",
+    "created_at": "2022-10-21 10:23:20"
+  },
+  {
+    "org": "theeconomist",
+    "name": "us-midterms-2022-change-data",
+    "created_at": "2022-10-31 17:44:48"
+  },
+  {
+    "org": "theeconomist",
+    "name": "RoadGridOrientation",
+    "created_at": "2022-12-01 11:05:55"
+  },
+  {
+    "org": "theeconomist",
+    "name": "2022-iran-protests",
+    "created_at": "2022-12-08 15:03:39"
+  }
+]

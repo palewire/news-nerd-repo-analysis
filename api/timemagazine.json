@@ -1,0 +1,142 @@
+[
+  {
+    "org": "timemagazine",
+    "name": "time-interactive",
+    "created_at": "2013-11-02 16:58:09"
+  },
+  {
+    "org": "timemagazine",
+    "name": "node-astronomy",
+    "created_at": "2013-11-11 21:48:16"
+  },
+  {
+    "org": "timemagazine",
+    "name": "death-penalty-data",
+    "created_at": "2014-03-21 14:35:24"
+  },
+  {
+    "org": "timemagazine",
+    "name": "social-microshare",
+    "created_at": "2014-04-04 16:15:50"
+  },
+  {
+    "org": "timemagazine",
+    "name": "wikipedia-rankings",
+    "created_at": "2014-05-27 14:01:46"
+  },
+  {
+    "org": "timemagazine",
+    "name": "retrosheets",
+    "created_at": "2014-05-27 20:10:42"
+  },
+  {
+    "org": "timemagazine",
+    "name": "redistrict_america",
+    "created_at": "2014-06-27 18:27:19"
+  },
+  {
+    "org": "timemagazine",
+    "name": "movie-data",
+    "created_at": "2015-03-10 19:06:23"
+  },
+  {
+    "org": "timemagazine",
+    "name": "county-health-rankings",
+    "created_at": "2015-04-22 18:03:14"
+  },
+  {
+    "org": "timemagazine",
+    "name": "trademarks",
+    "created_at": "2015-05-01 20:52:58"
+  },
+  {
+    "org": "timemagazine",
+    "name": "natural_disasters",
+    "created_at": "2015-05-26 21:51:03"
+  },
+  {
+    "org": "timemagazine",
+    "name": "presidential-election-results",
+    "created_at": "2015-07-18 16:46:46"
+  },
+  {
+    "org": "timemagazine",
+    "name": "geographies_by_lat_long",
+    "created_at": "2015-09-13 16:50:20"
+  },
+  {
+    "org": "timemagazine",
+    "name": "perfect-games",
+    "created_at": "2015-09-28 14:22:41"
+  },
+  {
+    "org": "timemagazine",
+    "name": "nearest_city",
+    "created_at": "2016-05-26 19:54:32"
+  },
+  {
+    "org": "timemagazine",
+    "name": "usflag",
+    "created_at": "2016-06-30 12:40:43"
+  },
+  {
+    "org": "timemagazine",
+    "name": "CommonJSON",
+    "created_at": "2016-08-06 16:08:10"
+  },
+  {
+    "org": "timemagazine",
+    "name": "marriage_by_degrees",
+    "created_at": "2016-09-16 07:50:43"
+  },
+  {
+    "org": "timemagazine",
+    "name": "census_tables_in_r",
+    "created_at": "2016-12-17 16:31:01"
+  },
+  {
+    "org": "timemagazine",
+    "name": "ipums_county_identification",
+    "created_at": "2016-12-17 21:49:30"
+  },
+  {
+    "org": "timemagazine",
+    "name": "data-source-files",
+    "created_at": "2017-01-08 17:10:02"
+  },
+  {
+    "org": "timemagazine",
+    "name": "total-births-per-year",
+    "created_at": "2017-05-23 02:50:51"
+  },
+  {
+    "org": "timemagazine",
+    "name": "georgia-special-election",
+    "created_at": "2017-06-21 11:42:30"
+  },
+  {
+    "org": "timemagazine",
+    "name": "combine_paths",
+    "created_at": "2017-06-26 12:10:42"
+  },
+  {
+    "org": "timemagazine",
+    "name": "ArtSVG",
+    "created_at": "2017-07-03 15:48:01"
+  },
+  {
+    "org": "timemagazine",
+    "name": "eclipse_coordinates",
+    "created_at": "2017-08-14 14:42:26"
+  },
+  {
+    "org": "timemagazine",
+    "name": "maplist",
+    "created_at": "2017-10-20 20:24:31"
+  },
+  {
+    "org": "timemagazine",
+    "name": "wikidata-search",
+    "created_at": "2018-06-18 17:39:50"
+  }
+]

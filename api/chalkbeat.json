@@ -1,0 +1,112 @@
+[
+  {
+    "org": "chalkbeat",
+    "name": "MORI",
+    "created_at": "2016-09-06 15:52:50"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "Chartbuilder",
+    "created_at": "2017-03-22 18:51:09"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "2017-ny-renewal-grads",
+    "created_at": "2017-06-21 14:22:28"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "ai2html",
+    "created_at": "2019-02-06 16:39:13"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "dailygraphics-next",
+    "created_at": "2019-02-06 16:39:58"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "dailygraphics-templates",
+    "created_at": "2019-02-06 16:41:05"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "lunchbox",
+    "created_at": "2019-02-06 16:42:20"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "audiogram",
+    "created_at": "2019-02-06 16:47:02"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "app-template",
+    "created_at": "2019-02-13 16:48:33"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "viz-app",
+    "created_at": "2019-02-27 23:11:27"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "interactive-template",
+    "created_at": "2019-12-02 20:13:03"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "teacher-movement",
+    "created_at": "2020-09-08 18:36:40"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "nyc-covid-data",
+    "created_at": "2020-10-13 00:02:38"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "in-covid-data",
+    "created_at": "2020-10-13 14:30:46"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "tn-covid-data",
+    "created_at": "2020-11-09 16:01:24"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "urlwatch",
+    "created_at": "2020-11-30 04:31:04"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "mi-covid-data",
+    "created_at": "2020-12-15 04:36:12"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "highcharts-editor",
+    "created_at": "2021-02-06 17:53:00"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "powertoys",
+    "created_at": "2021-11-02 18:12:48"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "sidechain",
+    "created_at": "2021-12-14 21:42:11"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "sunshine",
+    "created_at": "2022-01-11 17:49:59"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "patchbay",
+    "created_at": "2022-09-07 20:23:24"
+  }
+]

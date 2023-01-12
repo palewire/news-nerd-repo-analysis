@@ -1,0 +1,92 @@
+[
+  {
+    "org": "miamiherald",
+    "name": "data-viz_capital-punishment-cases",
+    "created_at": "2016-09-22 21:46:07"
+  },
+  {
+    "org": "miamiherald",
+    "name": "florida-topojson-sources",
+    "created_at": "2016-09-23 16:28:09"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_starter",
+    "created_at": "2016-09-27 17:03:49"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_fl-economic-insecurity",
+    "created_at": "2016-09-28 16:58:16"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_miami-dade-airbnb",
+    "created_at": "2016-10-13 20:00:41"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_miami-dade-foodapps-search",
+    "created_at": "2016-10-27 20:54:04"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_us-electoral-vote-slider",
+    "created_at": "2016-11-02 18:30:52"
+  },
+  {
+    "org": "miamiherald",
+    "name": "elex2016homepage",
+    "created_at": "2016-11-02 22:21:12"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_zika-tracker",
+    "created_at": "2016-11-18 00:05:59"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_miami-dade-opioid-overdoses",
+    "created_at": "2016-11-30 16:41:30"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_carto-template",
+    "created_at": "2016-12-07 22:40:18"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_miami-dade-housing-costs",
+    "created_at": "2016-12-15 16:57:32"
+  },
+  {
+    "org": "miamiherald",
+    "name": "munch-madness",
+    "created_at": "2017-03-17 16:02:33"
+  },
+  {
+    "org": "miamiherald",
+    "name": "alexa-skill",
+    "created_at": "2017-04-10 21:07:32"
+  },
+  {
+    "org": "miamiherald",
+    "name": "accuweather-stormdata-test",
+    "created_at": "2017-04-13 18:37:19"
+  },
+  {
+    "org": "miamiherald",
+    "name": "data-viz_fl-hurricane-tracker",
+    "created_at": "2017-04-24 16:01:35"
+  },
+  {
+    "org": "miamiherald",
+    "name": "guides",
+    "created_at": "2017-04-27 19:51:26"
+  },
+  {
+    "org": "miamiherald",
+    "name": "affordability-dashboard",
+    "created_at": "2022-06-16 19:03:08"
+  }
+]

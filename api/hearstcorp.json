@@ -1,0 +1,157 @@
+[
+  {
+    "org": "hearstcorp",
+    "name": "hearstcorp.github.io",
+    "created_at": "2014-01-12 22:58:30"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "SamlSPBundle",
+    "created_at": "2014-07-07 20:52:26"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "lightsaml",
+    "created_at": "2014-07-07 20:52:46"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "DoctrineEncryptBundle",
+    "created_at": "2014-07-07 20:53:06"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "kinesis-hrm",
+    "created_at": "2014-07-07 20:56:33"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "Mashery-PHP-API",
+    "created_at": "2014-07-24 21:05:38"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "elasticsearch-key-aware-search",
+    "created_at": "2015-02-10 13:51:11"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "hopscotch",
+    "created_at": "2015-02-10 16:22:38"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "FOSCommentBundle",
+    "created_at": "2015-02-10 16:24:54"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "LinkedIn-API-client",
+    "created_at": "2015-02-10 17:20:56"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "VichUploaderBundle",
+    "created_at": "2015-02-10 17:21:26"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "Fetch",
+    "created_at": "2015-04-03 14:01:44"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "blackbox",
+    "created_at": "2015-04-03 17:29:42"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "jiracards",
+    "created_at": "2015-06-19 20:58:37"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-jsonbfield",
+    "created_at": "2015-06-19 21:06:47"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "test",
+    "created_at": "2015-08-24 02:46:35"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-rest-swagger",
+    "created_at": "2015-10-01 18:39:40"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "swagger-ui",
+    "created_at": "2015-10-14 21:57:19"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-cors-headers",
+    "created_at": "2016-03-04 17:54:29"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-cacheops",
+    "created_at": "2016-05-09 21:28:20"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "docker-logs-mux",
+    "created_at": "2016-05-11 18:47:25"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "deis",
+    "created_at": "2016-08-31 22:20:30"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "ffmpegthumbnailer",
+    "created_at": "2016-09-08 14:52:11"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "mediaos",
+    "created_at": "2016-09-20 22:39:13"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-zipkin",
+    "created_at": "2016-10-21 17:32:25"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "hearst-jwplayer",
+    "created_at": "2017-01-19 20:43:19"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "rover-wiki",
+    "created_at": "2017-04-18 20:42:16"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "faiss",
+    "created_at": "2018-07-16 18:13:54"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "kaldi",
+    "created_at": "2018-08-24 15:56:43"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "docker-airflow",
+    "created_at": "2019-01-22 19:59:11"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-nose2",
+    "created_at": "2022-11-15 21:12:01"
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "org": "scpr",
+    "name": "paperclip",
+    "created_at": "2011-06-29 21:46:06"
+  },
+  {
+    "org": "scpr",
+    "name": "AudioHack",
+    "created_at": "2011-08-21 17:11:30"
+  },
+  {
+    "org": "scpr",
+    "name": "delayed_paperclip",
+    "created_at": "2011-09-16 22:09:44"
+  },
+  {
+    "org": "scpr",
+    "name": "redis-content-store",
+    "created_at": "2011-10-14 18:06:02"
+  },
+  {
+    "org": "scpr",
+    "name": "mini_exiftool",
+    "created_at": "2011-11-18 17:59:38"
+  },
+  {
+    "org": "scpr",
+    "name": "formtastic-bootstrap",
+    "created_at": "2012-03-30 18:12:45"
+  },
+  {
+    "org": "scpr",
+    "name": "Podroller",
+    "created_at": "2012-04-20 17:56:04"
+  },
+  {
+    "org": "scpr",
+    "name": "streamio-ffmpeg",
+    "created_at": "2012-04-23 17:28:39"
+  },
+  {
+    "org": "scpr",
+    "name": "Newsroom",
+    "created_at": "2012-07-13 05:14:06"
+  },
+  {
+    "org": "scpr",
+    "name": "wordpress_import_to_rails",
+    "created_at": "2012-07-13 07:49:46"
+  },
+  {
+    "org": "scpr",
+    "name": "KPCC-Guides",
+    "created_at": "2012-07-30 23:18:25"
+  },
+  {
+    "org": "scpr",
+    "name": "prison_letters",
+    "created_at": "2012-08-17 00:51:39"
+  },
+  {
+    "org": "scpr",
+    "name": "salaries_project",
+    "created_at": "2012-11-06 22:46:55"
+  },
+  {
+    "org": "scpr",
+    "name": "static-projects",
+    "created_at": "2012-11-08 20:11:29"
+  },
+  {
+    "org": "scpr",
+    "name": "latimes-table-stacker",
+    "created_at": "2012-11-19 17:42:50"
+  },
+  {
+    "org": "scpr",
+    "name": "premailer",
+    "created_at": "2013-01-17 20:14:15"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-email-newsletters",
+    "created_at": "2013-01-17 22:33:10"
+  },
+  {
+    "org": "scpr",
+    "name": "outpost",
+    "created_at": "2013-02-15 21:50:03"
+  },
+  {
+    "org": "scpr",
+    "name": "AudioVision",
+    "created_at": "2013-02-28 10:21:05"
+  },
+  {
+    "org": "scpr",
+    "name": "outpost-asset_host",
+    "created_at": "2013-04-01 18:56:31"
+  },
+  {
+    "org": "scpr",
+    "name": "outpost-aggregator",
+    "created_at": "2013-04-09 10:06:53"
+  },
+  {
+    "org": "scpr",
+    "name": "outpost-publishing",
+    "created_at": "2013-04-15 23:10:12"
+  },
+  {
+    "org": "scpr",
+    "name": "asset_host_client",
+    "created_at": "2013-04-16 19:28:25"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-static-pages",
+    "created_at": "2013-04-17 23:46:10"
+  },
+  {
+    "org": "scpr",
+    "name": "api-docs",
+    "created_at": "2013-05-24 18:31:01"
+  },
+  {
+    "org": "scpr",
+    "name": "firetracker",
+    "created_at": "2013-07-01 23:37:12"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc-reader",
+    "created_at": "2013-08-07 08:09:58"
+  },
+  {
+    "org": "scpr",
+    "name": "ckeditor-rails",
+    "created_at": "2013-08-22 17:09:28"
+  },
+  {
+    "org": "scpr",
+    "name": "scripts",
+    "created_at": "2013-08-28 18:52:19"
+  },
+  {
+    "org": "scpr",
+    "name": "oembed-manual",
+    "created_at": "2013-09-20 20:48:54"
+  },
+  {
+    "org": "scpr",
+    "name": "embeditor-rails",
+    "created_at": "2013-09-28 01:13:46"
+  },
+  {
+    "org": "scpr",
+    "name": "secretary-rails",
+    "created_at": "2013-10-30 09:17:34"
+  },
+  {
+    "org": "scpr",
+    "name": "audio_vision-ruby",
+    "created_at": "2013-11-19 17:54:12"
+  },
+  {
+    "org": "scpr",
+    "name": "calif-earthquakes",
+    "created_at": "2013-12-06 22:11:20"
+  },
+  {
+    "org": "scpr",
+    "name": "outpost-secretary",
+    "created_at": "2013-12-12 09:49:40"
+  },
+  {
+    "org": "scpr",
+    "name": "KPCC-Android-Prototype",
+    "created_at": "2014-01-03 09:05:07"
+  },
+  {
+    "org": "scpr",
+    "name": "deprecated-StreamMachine",
+    "created_at": "2014-01-31 01:14:04"
+  },
+  {
+    "org": "scpr",
+    "name": "SCPRParse",
+    "created_at": "2014-02-04 00:56:00"
+  },
+  {
+    "org": "scpr",
+    "name": "FFmpeg",
+    "created_at": "2014-02-18 19:26:09"
+  },
+  {
+    "org": "scpr",
+    "name": "timeline-data-generator",
+    "created_at": "2014-02-21 21:26:04"
+  },
+  {
+    "org": "scpr",
+    "name": "AdHost",
+    "created_at": "2014-03-19 03:26:54"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-minimal-styles",
+    "created_at": "2014-03-25 23:17:09"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc.js",
+    "created_at": "2014-05-21 19:53:27"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-longreads",
+    "created_at": "2014-06-16 08:05:04"
+  },
+  {
+    "org": "scpr",
+    "name": "oncentral-flats",
+    "created_at": "2014-06-22 18:57:09"
+  },
+  {
+    "org": "scpr",
+    "name": "hubot-scpr-slack",
+    "created_at": "2014-06-24 18:07:37"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc-rb",
+    "created_at": "2014-06-28 07:24:16"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc-audio-aggregator-prototype",
+    "created_at": "2014-07-07 21:29:22"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc-audio-aggregator",
+    "created_at": "2014-07-08 19:20:27"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc-data-team",
+    "created_at": "2014-08-01 23:34:35"
+  },
+  {
+    "org": "scpr",
+    "name": "quiz-generator",
+    "created_at": "2014-08-11 18:57:18"
+  },
+  {
+    "org": "scpr",
+    "name": "resque-brain",
+    "created_at": "2014-09-11 09:58:26"
+  },
+  {
+    "org": "scpr",
+    "name": "KPCC-iPhone-Prototypes",
+    "created_at": "2014-10-13 17:56:56"
+  },
+  {
+    "org": "scpr",
+    "name": "consul-elected",
+    "created_at": "2014-12-10 20:46:45"
+  },
+  {
+    "org": "scpr",
+    "name": "resque-pool",
+    "created_at": "2014-12-26 13:48:20"
+  },
+  {
+    "org": "scpr",
+    "name": "sm-dashboard",
+    "created_at": "2015-01-28 21:51:14"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-media-scripts",
+    "created_at": "2015-02-11 14:04:19"
+  },
+  {
+    "org": "scpr",
+    "name": "hackday-freq-fm",
+    "created_at": "2015-02-26 18:06:43"
+  },
+  {
+    "org": "scpr",
+    "name": "hackday-news_quiz",
+    "created_at": "2015-02-26 18:41:24"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-timeline",
+    "created_at": "2015-03-25 19:02:44"
+  },
+  {
+    "org": "scpr",
+    "name": "es-reindex",
+    "created_at": "2015-04-08 18:25:49"
+  },
+  {
+    "org": "scpr",
+    "name": "ois-transcribable",
+    "created_at": "2015-05-27 17:05:04"
+  },
+  {
+    "org": "scpr",
+    "name": "Chartbuilder",
+    "created_at": "2015-06-26 16:47:19"
+  },
+  {
+    "org": "scpr",
+    "name": "npr",
+    "created_at": "2015-07-05 12:21:54"
+  },
+  {
+    "org": "scpr",
+    "name": "api-stub-server",
+    "created_at": "2015-08-09 06:56:18"
+  },
+  {
+    "org": "scpr",
+    "name": "lita-slack",
+    "created_at": "2015-08-27 19:34:28"
+  },
+  {
+    "org": "scpr",
+    "name": "ois",
+    "created_at": "2015-10-23 16:16:51"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-internal-sso",
+    "created_at": "2015-12-15 16:39:15"
+  },
+  {
+    "org": "scpr",
+    "name": "cali_water_reports",
+    "created_at": "2015-12-18 19:35:02"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-homepage-prototype",
+    "created_at": "2016-01-19 00:50:25"
+  },
+  {
+    "org": "scpr",
+    "name": "restore-percona-backup",
+    "created_at": "2016-02-12 17:48:40"
+  },
+  {
+    "org": "scpr",
+    "name": "jquery-scrolldepth",
+    "created_at": "2016-04-06 23:10:57"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-style-guide",
+    "created_at": "2016-04-14 22:20:27"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc_backroom_handshakes",
+    "created_at": "2016-04-28 23:55:56"
+  },
+  {
+    "org": "scpr",
+    "name": "apple-news-rb",
+    "created_at": "2016-08-18 19:01:49"
+  },
+  {
+    "org": "scpr",
+    "name": "pfs-email-serverless",
+    "created_at": "2016-09-29 16:37:25"
+  },
+  {
+    "org": "scpr",
+    "name": "awesome-interactive-journalism",
+    "created_at": "2016-09-30 23:59:42"
+  },
+  {
+    "org": "scpr",
+    "name": "parse-dashboard",
+    "created_at": "2016-10-07 16:32:04"
+  },
+  {
+    "org": "scpr",
+    "name": "parse-ruby-client",
+    "created_at": "2016-10-18 21:50:28"
+  },
+  {
+    "org": "scpr",
+    "name": "swift-experiments",
+    "created_at": "2016-10-25 05:18:22"
+  },
+  {
+    "org": "scpr",
+    "name": "grand-central",
+    "created_at": "2016-11-04 00:36:03"
+  },
+  {
+    "org": "scpr",
+    "name": "portable-holes",
+    "created_at": "2016-12-08 01:24:25"
+  },
+  {
+    "org": "scpr",
+    "name": "hsp",
+    "created_at": "2016-12-28 03:16:54"
+  },
+  {
+    "org": "scpr",
+    "name": "scpr-health-dashboard",
+    "created_at": "2017-03-27 21:32:39"
+  },
+  {
+    "org": "scpr",
+    "name": "asset_host_kpcc",
+    "created_at": "2017-04-27 18:28:10"
+  },
+  {
+    "org": "scpr",
+    "name": "facebook-on-air-notifier",
+    "created_at": "2017-06-01 04:33:35"
+  },
+  {
+    "org": "scpr",
+    "name": "kpcc.style",
+    "created_at": "2017-08-08 19:15:24"
+  },
+  {
+    "org": "scpr",
+    "name": "lunchbox",
+    "created_at": "2017-08-30 16:18:58"
+  },
+  {
+    "org": "scpr",
+    "name": "KPCC-API-Swift",
+    "created_at": "2018-01-22 21:00:44"
+  },
+  {
+    "org": "scpr",
+    "name": "evidence",
+    "created_at": "2018-02-01 18:02:54"
+  },
+  {
+    "org": "scpr",
+    "name": "megaphone_client",
+    "created_at": "2018-03-13 22:45:44"
+  },
+  {
+    "org": "scpr",
+    "name": "docker-chartbuilder",
+    "created_at": "2018-04-12 21:56:20"
+  },
+  {
+    "org": "scpr",
+    "name": "photographic_memory",
+    "created_at": "2018-05-02 20:52:01"
+  },
+  {
+    "org": "scpr",
+    "name": "mt-data-api-cache-control-override",
+    "created_at": "2018-06-25 17:38:56"
+  },
+  {
+    "org": "scpr",
+    "name": "s3-write-stream",
+    "created_at": "2018-07-05 22:00:26"
+  },
+  {
+    "org": "scpr",
+    "name": "california-counties-by-zip",
+    "created_at": "2018-07-05 22:01:09"
+  },
+  {
+    "org": "scpr",
+    "name": "geojson-mend",
+    "created_at": "2018-07-05 22:01:59"
+  },
+  {
+    "org": "scpr",
+    "name": "windowtamer",
+    "created_at": "2018-07-05 22:08:39"
+  },
+  {
+    "org": "scpr",
+    "name": "snapshot-lambdas",
+    "created_at": "2018-07-06 20:07:22"
+  },
+  {
+    "org": "scpr",
+    "name": "homework-fullstack",
+    "created_at": "2018-08-02 15:09:36"
+  },
+  {
+    "org": "scpr",
+    "name": "training-git",
+    "created_at": "2018-11-29 18:16:41"
+  },
+  {
+    "org": "scpr",
+    "name": "lambda-podbooster",
+    "created_at": "2018-12-13 06:23:54"
+  },
+  {
+    "org": "scpr",
+    "name": "boilerplate-static-site",
+    "created_at": "2019-01-14 21:28:53"
+  },
+  {
+    "org": "scpr",
+    "name": "lambda-megaphone-validator",
+    "created_at": "2019-02-01 17:14:28"
+  },
+  {
+    "org": "scpr",
+    "name": "docker-admin-chartwerk",
+    "created_at": "2019-02-28 18:26:26"
+  },
+  {
+    "org": "scpr",
+    "name": "Persistence-Swift",
+    "created_at": "2019-03-21 21:09:46"
+  },
+  {
+    "org": "scpr",
+    "name": "sm-log-exporter",
+    "created_at": "2019-06-06 21:14:42"
+  },
+  {
+    "org": "scpr",
+    "name": "polling-booth",
+    "created_at": "2019-06-25 16:09:50"
+  },
+  {
+    "org": "scpr",
+    "name": "docker-mysql-client",
+    "created_at": "2019-07-31 17:51:47"
+  },
+  {
+    "org": "scpr",
+    "name": "lambda-midroll-migrator",
+    "created_at": "2020-01-17 18:30:29"
+  },
+  {
+    "org": "scpr",
+    "name": "omnystudio_client",
+    "created_at": "2020-01-30 22:42:32"
+  },
+  {
+    "org": "scpr",
+    "name": "old-archive.scpr.org",
+    "created_at": "2021-07-02 18:20:11"
+  },
+  {
+    "org": "scpr",
+    "name": "local-election-results-etl",
+    "created_at": "2022-11-11 00:47:03"
+  }
+]

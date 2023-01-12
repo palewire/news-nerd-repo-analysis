@@ -1,0 +1,342 @@
+[
+  {
+    "org": "newsapps",
+    "name": "ctabustracker",
+    "created_at": "2010-06-29 21:22:52"
+  },
+  {
+    "org": "newsapps",
+    "name": "beeswithmachineguns",
+    "created_at": "2010-06-29 21:26:18"
+  },
+  {
+    "org": "newsapps",
+    "name": "hello_newsroom",
+    "created_at": "2010-07-08 14:09:25"
+  },
+  {
+    "org": "newsapps",
+    "name": "latimes-mappingla-geopy",
+    "created_at": "2010-07-26 22:07:20"
+  },
+  {
+    "org": "newsapps",
+    "name": "wordpress-deploy",
+    "created_at": "2010-10-05 20:47:46"
+  },
+  {
+    "org": "newsapps",
+    "name": "refine-stats",
+    "created_at": "2010-11-17 22:45:05"
+  },
+  {
+    "org": "newsapps",
+    "name": "tostones",
+    "created_at": "2010-11-19 14:55:01"
+  },
+  {
+    "org": "newsapps",
+    "name": "agent-plugins",
+    "created_at": "2010-11-20 03:17:29"
+  },
+  {
+    "org": "newsapps",
+    "name": "boundaryservice",
+    "created_at": "2011-01-28 20:29:49"
+  },
+  {
+    "org": "newsapps",
+    "name": "cloud-commander",
+    "created_at": "2011-02-22 21:57:09"
+  },
+  {
+    "org": "newsapps",
+    "name": "servers",
+    "created_at": "2011-02-22 22:02:27"
+  },
+  {
+    "org": "newsapps",
+    "name": "making-maps-demo",
+    "created_at": "2011-03-08 17:26:19"
+  },
+  {
+    "org": "newsapps",
+    "name": "appengine-autotweeter",
+    "created_at": "2011-04-07 16:07:25"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-boundaryservice",
+    "created_at": "2011-05-12 01:05:28"
+  },
+  {
+    "org": "newsapps",
+    "name": "englewood",
+    "created_at": "2011-07-15 21:43:04"
+  },
+  {
+    "org": "newsapps",
+    "name": "wordpress-mtv",
+    "created_at": "2011-10-10 15:46:27"
+  },
+  {
+    "org": "newsapps",
+    "name": "wp-project",
+    "created_at": "2011-11-02 20:47:49"
+  },
+  {
+    "org": "newsapps",
+    "name": "wordpress-mtv-examples",
+    "created_at": "2011-11-04 14:22:22"
+  },
+  {
+    "org": "newsapps",
+    "name": "wp-project-tools",
+    "created_at": "2012-01-14 17:11:27"
+  },
+  {
+    "org": "newsapps",
+    "name": "hm-core",
+    "created_at": "2012-02-16 19:59:52"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-tablefu",
+    "created_at": "2012-05-21 22:02:26"
+  },
+  {
+    "org": "newsapps",
+    "name": "gallery",
+    "created_at": "2012-05-29 20:43:06"
+  },
+  {
+    "org": "newsapps",
+    "name": "layercake",
+    "created_at": "2012-05-29 21:01:49"
+  },
+  {
+    "org": "newsapps",
+    "name": "flask-bakery",
+    "created_at": "2012-05-31 22:00:57"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-tastypie",
+    "created_at": "2012-10-01 16:22:47"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribapps-gis",
+    "created_at": "2012-10-17 22:22:44"
+  },
+  {
+    "org": "newsapps",
+    "name": "story-carder",
+    "created_at": "2012-10-23 22:08:13"
+  },
+  {
+    "org": "newsapps",
+    "name": "p2p-python",
+    "created_at": "2012-10-27 02:04:59"
+  },
+  {
+    "org": "newsapps",
+    "name": "requests",
+    "created_at": "2013-01-14 20:27:10"
+  },
+  {
+    "org": "newsapps",
+    "name": "pandascrapers",
+    "created_at": "2013-03-01 20:43:53"
+  },
+  {
+    "org": "newsapps",
+    "name": "aggdraw",
+    "created_at": "2013-03-20 15:05:32"
+  },
+  {
+    "org": "newsapps",
+    "name": "chicagocrime",
+    "created_at": "2013-03-20 20:35:33"
+  },
+  {
+    "org": "newsapps",
+    "name": "deploy-tools",
+    "created_at": "2013-03-26 19:43:48"
+  },
+  {
+    "org": "newsapps",
+    "name": "guides",
+    "created_at": "2013-03-29 22:05:25"
+  },
+  {
+    "org": "newsapps",
+    "name": "awsmonitors",
+    "created_at": "2013-04-02 15:30:56"
+  },
+  {
+    "org": "newsapps",
+    "name": "swimlanes",
+    "created_at": "2013-04-09 16:42:27"
+  },
+  {
+    "org": "newsapps",
+    "name": "tarbell-0.8",
+    "created_at": "2013-05-01 03:12:28"
+  },
+  {
+    "org": "newsapps",
+    "name": "panda",
+    "created_at": "2013-05-21 20:56:46"
+  },
+  {
+    "org": "newsapps",
+    "name": "document-viewer",
+    "created_at": "2013-05-22 18:41:55"
+  },
+  {
+    "org": "newsapps",
+    "name": "p2p_test",
+    "created_at": "2013-06-28 20:16:33"
+  },
+  {
+    "org": "newsapps",
+    "name": "icalendar",
+    "created_at": "2013-08-26 20:57:26"
+  },
+  {
+    "org": "newsapps",
+    "name": "sphinx_rtd_theme",
+    "created_at": "2013-12-12 23:04:30"
+  },
+  {
+    "org": "newsapps",
+    "name": "ilcampaignfinance",
+    "created_at": "2014-01-06 22:33:08"
+  },
+  {
+    "org": "newsapps",
+    "name": "bootstrap-v2",
+    "created_at": "2014-03-13 16:02:02"
+  },
+  {
+    "org": "newsapps",
+    "name": "bootstrap",
+    "created_at": "2014-03-13 16:07:13"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-boundaries",
+    "created_at": "2014-04-18 16:25:22"
+  },
+  {
+    "org": "newsapps",
+    "name": "electioncenter-slides",
+    "created_at": "2014-07-01 04:52:10"
+  },
+  {
+    "org": "newsapps",
+    "name": "build-with-tarbell",
+    "created_at": "2014-07-01 04:53:02"
+  },
+  {
+    "org": "newsapps",
+    "name": "tarbell-readme",
+    "created_at": "2014-07-27 12:43:07"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-bakery",
+    "created_at": "2015-01-12 17:03:46"
+  },
+  {
+    "org": "newsapps",
+    "name": "bing-bulk-geocoder",
+    "created_at": "2015-02-03 16:23:32"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-tribune-omniture",
+    "created_at": "2015-03-09 22:09:55"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-chicago-elections",
+    "created_at": "2015-03-31 18:03:18"
+  },
+  {
+    "org": "newsapps",
+    "name": "flask-slackunfuddle",
+    "created_at": "2015-04-20 20:59:57"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-chicago",
+    "created_at": "2015-04-23 22:21:03"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-autosharing",
+    "created_at": "2015-06-01 19:42:43"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-sportsdirect",
+    "created_at": "2015-08-27 17:51:29"
+  },
+  {
+    "org": "newsapps",
+    "name": "tarbell-cookbook",
+    "created_at": "2015-09-11 19:57:08"
+  },
+  {
+    "org": "newsapps",
+    "name": "jobs",
+    "created_at": "2016-01-07 22:37:41"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-illinois-school-report-card",
+    "created_at": "2016-01-08 21:10:34"
+  },
+  {
+    "org": "newsapps",
+    "name": "public-notebooks",
+    "created_at": "2016-01-26 23:25:15"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribune-bing-geocoder",
+    "created_at": "2016-01-27 19:46:53"
+  },
+  {
+    "org": "newsapps",
+    "name": "ipra_portal_scraper",
+    "created_at": "2016-06-03 20:06:13"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribune-pollster",
+    "created_at": "2016-07-25 18:55:10"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribune-bootstrap-3-js",
+    "created_at": "2016-09-08 23:29:15"
+  },
+  {
+    "org": "newsapps",
+    "name": "ncaa-high-school-course-scraper",
+    "created_at": "2016-09-16 23:53:59"
+  },
+  {
+    "org": "newsapps",
+    "name": "dataviz-bookmarklets",
+    "created_at": "2016-09-21 18:38:28"
+  },
+  {
+    "org": "newsapps",
+    "name": "gatsby-test",
+    "created_at": "2019-08-08 16:28:58"
+  }
+]
