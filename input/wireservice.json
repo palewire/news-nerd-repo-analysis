@@ -1,0 +1,152 @@
+[
+  {
+    "org": "wireservice",
+    "name": "csvkit",
+    "full_name": "wireservice/csvkit",
+    "created_at": "2011-04-01 03:00:30",
+    "fork": false,
+    "stargazers_count": 5292,
+    "forks_count": 581,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "ffs",
+    "full_name": "wireservice/ffs",
+    "created_at": "2011-08-23 13:51:44",
+    "fork": false,
+    "stargazers_count": 116,
+    "forks_count": 42,
+    "language": null
+  },
+  {
+    "org": "wireservice",
+    "name": "agate",
+    "full_name": "wireservice/agate",
+    "created_at": "2014-04-25 13:59:09",
+    "fork": false,
+    "stargazers_count": 1118,
+    "forks_count": 148,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "proof",
+    "full_name": "wireservice/proof",
+    "created_at": "2015-08-31 21:35:53",
+    "fork": false,
+    "stargazers_count": 227,
+    "forks_count": 23,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "agate-sql",
+    "full_name": "wireservice/agate-sql",
+    "created_at": "2015-09-22 02:53:56",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 13,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "agate-stats",
+    "full_name": "wireservice/agate-stats",
+    "created_at": "2015-09-26 01:30:34",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "agate-excel",
+    "full_name": "wireservice/agate-excel",
+    "created_at": "2015-11-05 20:21:07",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 11,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "agate-dbf",
+    "full_name": "wireservice/agate-dbf",
+    "created_at": "2016-01-23 22:15:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "agate-remote",
+    "full_name": "wireservice/agate-remote",
+    "created_at": "2016-02-05 23:03:45",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "agate-lookup",
+    "full_name": "wireservice/agate-lookup",
+    "created_at": "2016-02-06 05:10:10",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "lookup",
+    "full_name": "wireservice/lookup",
+    "created_at": "2016-02-06 05:10:37",
+    "fork": false,
+    "stargazers_count": 99,
+    "forks_count": 15,
+    "language": "HTML"
+  },
+  {
+    "org": "wireservice",
+    "name": "leather",
+    "full_name": "wireservice/leather",
+    "created_at": "2016-05-17 21:26:25",
+    "fork": false,
+    "stargazers_count": 311,
+    "forks_count": 26,
+    "language": "Python"
+  },
+  {
+    "org": "wireservice",
+    "name": "wireservice",
+    "full_name": "wireservice/wireservice",
+    "created_at": "2016-06-09 00:54:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "wireservice",
+    "name": "lookupr",
+    "full_name": "wireservice/lookupr",
+    "created_at": "2017-04-24 16:44:43",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "R"
+  },
+  {
+    "org": "wireservice",
+    "name": "workbench-lookup",
+    "full_name": "wireservice/workbench-lookup",
+    "created_at": "2019-05-19 16:59:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  }
+]

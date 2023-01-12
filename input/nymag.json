@@ -1,0 +1,392 @@
+[
+  {
+    "org": "nymag",
+    "name": "dollar-slice",
+    "full_name": "nymag/dollar-slice",
+    "created_at": "2015-01-07 08:20:54",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 4,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "nunjucks-filters",
+    "full_name": "nymag/nunjucks-filters",
+    "created_at": "2015-03-18 21:45:26",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "lodash-ny-util",
+    "full_name": "nymag/lodash-ny-util",
+    "created_at": "2015-03-23 17:17:50",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "multiplex-templates",
+    "full_name": "nymag/multiplex-templates",
+    "created_at": "2015-03-24 19:06:14",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "responsive-filenames",
+    "full_name": "nymag/responsive-filenames",
+    "created_at": "2015-03-27 16:29:15",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "grok",
+    "full_name": "nymag/grok",
+    "created_at": "2015-03-27 23:22:56",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "nymag",
+    "name": "gulp-folder-changed",
+    "full_name": "nymag/gulp-folder-changed",
+    "created_at": "2015-04-14 16:20:09",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "text-model",
+    "full_name": "nymag/text-model",
+    "created_at": "2015-08-12 19:32:59",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "cardkit",
+    "full_name": "nymag/cardkit",
+    "created_at": "2015-09-17 16:35:16",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "CSS"
+  },
+  {
+    "org": "nymag",
+    "name": "generator-clay",
+    "full_name": "nymag/generator-clay",
+    "created_at": "2015-10-07 17:53:29",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "express-nymag-user",
+    "full_name": "nymag/express-nymag-user",
+    "created_at": "2015-10-13 20:41:20",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "health-check",
+    "full_name": "nymag/health-check",
+    "created_at": "2015-12-11 22:40:57",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "es-tool",
+    "full_name": "nymag/es-tool",
+    "created_at": "2016-01-28 02:39:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "generator-clay-component",
+    "full_name": "nymag/generator-clay-component",
+    "created_at": "2016-03-31 15:04:30",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "dom",
+    "full_name": "nymag/dom",
+    "created_at": "2016-04-07 14:14:26",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "cid",
+    "full_name": "nymag/cid",
+    "created_at": "2016-04-07 15:19:20",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "html5-skin",
+    "full_name": "nymag/html5-skin",
+    "created_at": "2016-05-31 15:10:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "medium-editor-phrase",
+    "full_name": "nymag/medium-editor-phrase",
+    "created_at": "2016-08-08 15:10:29",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 9,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "clay-space-edit",
+    "full_name": "nymag/clay-space-edit",
+    "created_at": "2016-08-11 21:10:38",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "eslint-plugin-html",
+    "full_name": "nymag/eslint-plugin-html",
+    "created_at": "2016-10-19 20:41:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "mixpanel-node",
+    "full_name": "nymag/mixpanel-node",
+    "created_at": "2017-01-04 16:41:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "clay-sitemaps",
+    "full_name": "nymag/clay-sitemaps",
+    "created_at": "2017-02-16 16:33:57",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "big-query-importer",
+    "full_name": "nymag/big-query-importer",
+    "created_at": "2017-03-30 21:01:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "nymag-fs",
+    "full_name": "nymag/nymag-fs",
+    "created_at": "2017-04-14 16:09:51",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "clay-utils",
+    "full_name": "nymag/clay-utils",
+    "created_at": "2017-04-19 14:52:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "clay-build-js",
+    "full_name": "nymag/clay-build-js",
+    "created_at": "2017-06-09 18:47:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "talk",
+    "full_name": "nymag/talk",
+    "created_at": "2017-12-04 16:48:30",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "elasticsearch-streamer",
+    "full_name": "nymag/elasticsearch-streamer",
+    "created_at": "2018-02-28 18:48:58",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "medusa",
+    "full_name": "nymag/medusa",
+    "created_at": "2018-03-20 13:37:17",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "cuneiform-cmpt",
+    "full_name": "nymag/cuneiform-cmpt",
+    "created_at": "2018-05-02 16:59:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "replace-layout",
+    "full_name": "nymag/replace-layout",
+    "created_at": "2018-06-04 19:04:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "airmail",
+    "full_name": "nymag/airmail",
+    "created_at": "2019-02-05 15:40:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "nymag",
+    "name": "airmail-dockerhub",
+    "full_name": "nymag/airmail-dockerhub",
+    "created_at": "2019-02-07 22:18:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Dockerfile"
+  },
+  {
+    "org": "nymag",
+    "name": "songbird",
+    "full_name": "nymag/songbird",
+    "created_at": "2019-02-20 16:04:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "handlebars",
+    "full_name": "nymag/handlebars",
+    "created_at": "2019-05-16 21:06:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "zenpy",
+    "full_name": "nymag/zenpy",
+    "created_at": "2020-02-03 16:49:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nymag",
+    "name": "pipelinewise-tap-postgres",
+    "full_name": "nymag/pipelinewise-tap-postgres",
+    "created_at": "2021-06-02 20:07:48",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nymag",
+    "name": "2021-voxmedia-fse-challenge",
+    "full_name": "nymag/2021-voxmedia-fse-challenge",
+    "created_at": "2021-06-16 15:23:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nymag",
+    "name": "challenge-template",
+    "full_name": "nymag/challenge-template",
+    "created_at": "2021-08-20 16:47:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

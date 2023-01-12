@@ -1,0 +1,162 @@
+[
+  {
+    "org": "cbcnews",
+    "name": "CSV-Splitter",
+    "full_name": "CBCNews/CSV-Splitter",
+    "created_at": "2014-04-24 15:34:31",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "cbcnews",
+    "name": "datawrapper",
+    "full_name": "CBCNews/datawrapper",
+    "created_at": "2014-04-29 00:37:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "cbcnews",
+    "name": "englewood.js",
+    "full_name": "CBCNews/englewood.js",
+    "created_at": "2014-04-29 21:15:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "gs-proxy",
+    "full_name": "CBCNews/gs-proxy",
+    "created_at": "2014-04-29 21:17:46",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "cbcnews",
+    "name": "overview-server",
+    "full_name": "CBCNews/overview-server",
+    "created_at": "2014-04-29 21:18:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Scala"
+  },
+  {
+    "org": "cbcnews",
+    "name": "Emphasis",
+    "full_name": "CBCNews/Emphasis",
+    "created_at": "2014-04-29 21:30:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "Chartbuilder",
+    "full_name": "CBCNews/Chartbuilder",
+    "created_at": "2014-05-05 14:28:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "csv-to-geojson",
+    "full_name": "CBCNews/csv-to-geojson",
+    "created_at": "2014-05-06 15:50:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "leaflet-simple-csv",
+    "full_name": "CBCNews/leaflet-simple-csv",
+    "created_at": "2014-05-06 16:22:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "Leaflet.geoCSV",
+    "full_name": "CBCNews/Leaflet.geoCSV",
+    "created_at": "2014-05-06 16:22:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "chartr",
+    "full_name": "CBCNews/chartr",
+    "created_at": "2014-05-08 19:02:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "cbcnews",
+    "name": "staticmapmaker",
+    "full_name": "CBCNews/staticmapmaker",
+    "created_at": "2014-05-14 14:55:47",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "geo-base",
+    "full_name": "CBCNews/geo-base",
+    "created_at": "2014-06-13 15:59:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "cbcnews",
+    "name": "tablemap",
+    "full_name": "CBCNews/tablemap",
+    "created_at": "2014-07-11 17:22:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "cbcnews",
+    "name": "guides",
+    "full_name": "CBCNews/guides",
+    "created_at": "2014-07-18 21:51:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "cbcnews",
+    "name": "user-submitted-leaflet",
+    "full_name": "CBCNews/user-submitted-leaflet",
+    "created_at": "2014-07-23 20:17:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

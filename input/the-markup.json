@@ -1,0 +1,632 @@
+[
+  {
+    "org": "the-markup",
+    "name": "investigation-google-search-audit",
+    "full_name": "the-markup/investigation-google-search-audit",
+    "created_at": "2020-02-19 19:21:53",
+    "fork": false,
+    "stargazers_count": 31,
+    "forks_count": 5,
+    "language": "HTML"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-wheres-my-email",
+    "full_name": "the-markup/investigation-wheres-my-email",
+    "created_at": "2020-02-24 15:39:32",
+    "fork": false,
+    "stargazers_count": 38,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-allstates-algorithm",
+    "full_name": "the-markup/investigation-allstates-algorithm",
+    "created_at": "2020-02-24 22:47:45",
+    "fork": false,
+    "stargazers_count": 56,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-tenant-screening",
+    "full_name": "the-markup/investigation-tenant-screening",
+    "created_at": "2020-04-01 20:02:27",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 5,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-covid19-testing-guidelines",
+    "full_name": "the-markup/investigation-covid19-testing-guidelines",
+    "created_at": "2020-04-14 18:37:00",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-amazon-banned-items",
+    "full_name": "the-markup/investigation-amazon-banned-items",
+    "created_at": "2020-05-28 16:05:44",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-amazon-banned-items-screenshots",
+    "full_name": "the-markup/investigation-amazon-banned-items-screenshots",
+    "created_at": "2020-05-28 16:35:56",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-unemployment-wait-times",
+    "full_name": "the-markup/investigation-unemployment-wait-times",
+    "created_at": "2020-06-23 14:09:23",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-google-keyword-planner",
+    "full_name": "the-markup/investigation-google-keyword-planner",
+    "created_at": "2020-07-20 16:06:38",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-florida-online-attendance",
+    "full_name": "the-markup/investigation-florida-online-attendance",
+    "created_at": "2020-08-12 23:48:07",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "tool-simple-search",
+    "full_name": "the-markup/tool-simple-search",
+    "created_at": "2020-08-31 21:24:12",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-amazon-peptides",
+    "full_name": "the-markup/investigation-amazon-peptides",
+    "created_at": "2020-09-08 17:11:10",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "blacklight-collector",
+    "full_name": "the-markup/blacklight-collector",
+    "created_at": "2020-09-16 22:49:16",
+    "fork": false,
+    "stargazers_count": 162,
+    "forks_count": 25,
+    "language": "TypeScript"
+  },
+  {
+    "org": "the-markup",
+    "name": "blacklight-reporter",
+    "full_name": "the-markup/blacklight-reporter",
+    "created_at": "2020-09-22 01:10:18",
+    "fork": false,
+    "stargazers_count": 16,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-blacklight-the-high-cost-of-free",
+    "full_name": "the-markup/investigation-blacklight-the-high-cost-of-free",
+    "created_at": "2020-09-22 01:25:57",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-fb-ads-biden-trump-pricing",
+    "full_name": "the-markup/investigation-fb-ads-biden-trump-pricing",
+    "created_at": "2020-10-28 20:39:12",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-georgia",
+    "full_name": "the-markup/citizen-browser-georgia",
+    "created_at": "2021-01-04 17:49:34",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-capitol-riot",
+    "full_name": "the-markup/citizen-browser-capitol-riot",
+    "created_at": "2021-01-12 21:26:17",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-fb-political-groups",
+    "full_name": "the-markup/citizen-browser-fb-political-groups",
+    "created_at": "2021-01-15 16:38:49",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-hashtag-demographics",
+    "full_name": "the-markup/citizen-browser-hashtag-demographics",
+    "created_at": "2021-02-02 21:30:26",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-fb-political-groups-technical-difficulties",
+    "full_name": "the-markup/citizen-browser-fb-political-groups-technical-difficulties",
+    "created_at": "2021-02-11 20:43:23",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-flags",
+    "full_name": "the-markup/citizen-browser-flags",
+    "created_at": "2021-02-12 22:07:22",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "tool-amazon-brand-detector",
+    "full_name": "the-markup/tool-amazon-brand-detector",
+    "created_at": "2021-02-22 22:50:50",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-markup",
+    "name": "split-screen-news-sources",
+    "full_name": "the-markup/split-screen-news-sources",
+    "created_at": "2021-03-03 15:53:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-covid-public-info",
+    "full_name": "the-markup/citizen-browser-covid-public-info",
+    "created_at": "2021-03-03 17:58:18",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-youtube-ad-placements",
+    "full_name": "the-markup/investigation-youtube-ad-placements",
+    "created_at": "2021-03-09 20:55:48",
+    "fork": false,
+    "stargazers_count": 28,
+    "forks_count": 4,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "state_covid-19-vaccine_websites_audit",
+    "full_name": "the-markup/state_covid-19-vaccine_websites_audit",
+    "created_at": "2021-03-23 19:31:42",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-data-broker-lobbying",
+    "full_name": "the-markup/investigation-data-broker-lobbying",
+    "created_at": "2021-03-29 22:50:18",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 5,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-pharmaceuticals",
+    "full_name": "the-markup/citizen-browser-pharmaceuticals",
+    "created_at": "2021-05-04 14:26:30",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-antivaxx-groups",
+    "full_name": "the-markup/citizen-browser-antivaxx-groups",
+    "created_at": "2021-05-17 20:29:28",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-nyc-high-school-admissions",
+    "full_name": "the-markup/investigation-nyc-high-school-admissions",
+    "created_at": "2021-05-26 03:20:04",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-gig-spending",
+    "full_name": "the-markup/investigation-gig-spending",
+    "created_at": "2021-06-16 23:26:55",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-fb-still-recommends-political-groups",
+    "full_name": "the-markup/citizen-browser-fb-still-recommends-political-groups",
+    "created_at": "2021-06-21 17:10:18",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-newsletter",
+    "full_name": "the-markup/citizen-browser-newsletter",
+    "created_at": "2021-06-25 14:20:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-gig-carjacking",
+    "full_name": "the-markup/investigation-gig-carjacking",
+    "created_at": "2021-07-21 14:19:16",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "pinterest-hate",
+    "full_name": "the-markup/pinterest-hate",
+    "created_at": "2021-08-05 21:46:23",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-daily-wire-targeting",
+    "full_name": "the-markup/citizen-browser-daily-wire-targeting",
+    "created_at": "2021-08-09 21:50:01",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-amazon-brands",
+    "full_name": "the-markup/investigation-amazon-brands",
+    "created_at": "2021-08-19 19:15:01",
+    "fork": false,
+    "stargazers_count": 60,
+    "forks_count": 10,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-redlining",
+    "full_name": "the-markup/investigation-redlining",
+    "created_at": "2021-08-24 16:07:02",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 7,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "redistributable-graphics-denied",
+    "full_name": "the-markup/redistributable-graphics-denied",
+    "created_at": "2021-08-24 17:40:48",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-ebb-lifeline",
+    "full_name": "the-markup/investigation-ebb-lifeline",
+    "created_at": "2021-08-30 02:53:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-political-groups-germany",
+    "full_name": "the-markup/citizen-browser-political-groups-germany",
+    "created_at": "2021-09-21 15:24:45",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "location-data-industry",
+    "full_name": "the-markup/location-data-industry",
+    "created_at": "2021-09-28 17:24:28",
+    "fork": false,
+    "stargazers_count": 62,
+    "forks_count": 6,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-widely-viewed-content",
+    "full_name": "the-markup/citizen-browser-widely-viewed-content",
+    "created_at": "2021-10-08 17:06:10",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "facebook-report-verification",
+    "full_name": "the-markup/facebook-report-verification",
+    "created_at": "2021-10-14 15:09:12",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-nonprofit-privacy",
+    "full_name": "the-markup/investigation-nonprofit-privacy",
+    "created_at": "2021-10-20 14:53:39",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-ca-geofence-warrants",
+    "full_name": "the-markup/investigation-ca-geofence-warrants",
+    "created_at": "2021-10-29 19:14:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-prediction-bias",
+    "full_name": "the-markup/investigation-prediction-bias",
+    "created_at": "2021-12-01 01:57:39",
+    "fork": false,
+    "stargazers_count": 23,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-amazon-covid",
+    "full_name": "the-markup/investigation-amazon-covid",
+    "created_at": "2021-12-15 18:27:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "citizen-browser-jan6-2022",
+    "full_name": "the-markup/citizen-browser-jan6-2022",
+    "created_at": "2022-01-05 20:55:24",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "smol-links",
+    "full_name": "the-markup/smol-links",
+    "created_at": "2022-01-07 14:51:10",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "the-markup",
+    "name": "xmode-apps",
+    "full_name": "the-markup/xmode-apps",
+    "created_at": "2022-01-25 22:21:49",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-amazon-covid-notifications",
+    "full_name": "the-markup/investigation-amazon-covid-notifications",
+    "created_at": "2022-02-09 14:13:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "life360-security",
+    "full_name": "the-markup/life360-security",
+    "created_at": "2022-02-15 17:56:33",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "meta-crypto-ads",
+    "full_name": "the-markup/meta-crypto-ads",
+    "created_at": "2022-02-16 20:35:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "Online-dispute-resolution",
+    "full_name": "the-markup/Online-dispute-resolution",
+    "created_at": "2022-03-14 15:53:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "data-gig-worker-deaths",
+    "full_name": "the-markup/data-gig-worker-deaths",
+    "created_at": "2022-04-05 19:17:41",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "meta-pixel-student-aid",
+    "full_name": "the-markup/meta-pixel-student-aid",
+    "created_at": "2022-04-27 11:44:59",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "facebook-removed-interests",
+    "full_name": "the-markup/facebook-removed-interests",
+    "created_at": "2022-05-03 17:31:41",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-isp",
+    "full_name": "the-markup/investigation-isp",
+    "created_at": "2022-06-30 17:39:31",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-markup",
+    "name": "vehicle-data-collection",
+    "full_name": "the-markup/vehicle-data-collection",
+    "created_at": "2022-07-26 21:08:48",
+    "fork": false,
+    "stargazers_count": 32,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "meta-pixel-taxes",
+    "full_name": "the-markup/meta-pixel-taxes",
+    "created_at": "2022-11-16 20:41:28",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-markup",
+    "name": "investigation-d2c-privacy",
+    "full_name": "the-markup/investigation-d2c-privacy",
+    "created_at": "2022-12-09 15:03:42",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": null
+  }
+]

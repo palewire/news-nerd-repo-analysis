@@ -1,0 +1,982 @@
+[
+  {
+    "org": "freedomofpress",
+    "name": "securedrop",
+    "full_name": "freedomofpress/securedrop",
+    "created_at": "2012-01-11 19:57:55",
+    "fork": false,
+    "stargazers_count": 3386,
+    "forks_count": 681,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "encryption-works",
+    "full_name": "freedomofpress/encryption-works",
+    "created_at": "2013-08-13 23:18:30",
+    "fork": false,
+    "stargazers_count": 350,
+    "forks_count": 63,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-grsecurity",
+    "full_name": "freedomofpress/ansible-role-grsecurity",
+    "created_at": "2015-02-08 01:45:32",
+    "fork": false,
+    "stargazers_count": 51,
+    "forks_count": 14,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ossec",
+    "full_name": "freedomofpress/ossec",
+    "created_at": "2015-02-08 18:46:24",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 3,
+    "language": "Shell"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "pulse",
+    "full_name": "freedomofpress/pulse",
+    "created_at": "2015-07-01 18:52:28",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-beats",
+    "full_name": "freedomofpress/ansible-role-beats",
+    "created_at": "2015-08-28 22:53:14",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 6,
+    "language": "Makefile"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "sunder",
+    "full_name": "freedomofpress/sunder",
+    "created_at": "2015-12-22 19:20:38",
+    "fork": false,
+    "stargazers_count": 160,
+    "forks_count": 13,
+    "language": "JavaScript"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "redmine_openpgp",
+    "full_name": "freedomofpress/redmine_openpgp",
+    "created_at": "2016-01-29 19:27:32",
+    "fork": true,
+    "stargazers_count": 9,
+    "forks_count": 6,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-jitsi-meet",
+    "full_name": "freedomofpress/ansible-role-jitsi-meet",
+    "created_at": "2016-03-01 17:56:47",
+    "fork": false,
+    "stargazers_count": 23,
+    "forks_count": 28,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-paxctld",
+    "full_name": "freedomofpress/ansible-role-paxctld",
+    "created_at": "2016-03-08 19:55:45",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-elk",
+    "full_name": "freedomofpress/ansible-role-elk",
+    "created_at": "2016-03-08 22:13:37",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 13,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "redmine_docs",
+    "full_name": "freedomofpress/redmine_docs",
+    "created_at": "2016-03-09 21:13:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "fingerprint-securedrop",
+    "full_name": "freedomofpress/fingerprint-securedrop",
+    "created_at": "2016-04-08 19:01:22",
+    "fork": false,
+    "stargazers_count": 27,
+    "forks_count": 14,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-riemann",
+    "full_name": "freedomofpress/ansible-role-riemann",
+    "created_at": "2016-04-21 23:55:10",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "logserver-integration",
+    "full_name": "freedomofpress/logserver-integration",
+    "created_at": "2016-04-25 15:29:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Makefile"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securethenews",
+    "full_name": "freedomofpress/securethenews",
+    "created_at": "2016-05-24 23:04:31",
+    "fork": false,
+    "stargazers_count": 96,
+    "forks_count": 27,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-reachability-monitor",
+    "full_name": "freedomofpress/securedrop-reachability-monitor",
+    "created_at": "2016-06-16 00:13:54",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-build-debian-package",
+    "full_name": "freedomofpress/ansible-role-build-debian-package",
+    "created_at": "2016-06-20 21:19:29",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "redmine_cc_addresses",
+    "full_name": "freedomofpress/redmine_cc_addresses",
+    "created_at": "2016-10-14 13:54:23",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-django",
+    "full_name": "freedomofpress/ansible-role-django",
+    "created_at": "2016-10-31 21:20:10",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-jenkins-config",
+    "full_name": "freedomofpress/ansible-role-jenkins-config",
+    "created_at": "2016-11-07 02:20:00",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 2,
+    "language": "Groovy"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-openssl-node",
+    "full_name": "freedomofpress/ansible-role-openssl-node",
+    "created_at": "2016-11-07 19:03:33",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-ntfy",
+    "full_name": "freedomofpress/ansible-role-ntfy",
+    "created_at": "2016-11-18 01:07:00",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-semaphor",
+    "full_name": "freedomofpress/ansible-role-semaphor",
+    "created_at": "2016-12-01 18:44:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-packer",
+    "full_name": "freedomofpress/ansible-role-packer",
+    "created_at": "2017-01-06 19:38:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "packer-templates",
+    "full_name": "freedomofpress/packer-templates",
+    "created_at": "2017-02-10 23:39:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "packer-qemu-templates",
+    "full_name": "freedomofpress/packer-qemu-templates",
+    "created_at": "2017-02-14 17:39:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Batchfile"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "due_date_reminder",
+    "full_name": "freedomofpress/due_date_reminder",
+    "created_at": "2017-02-17 21:46:59",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "wa-knn-fingerprint-securedrop",
+    "full_name": "freedomofpress/wa-knn-fingerprint-securedrop",
+    "created_at": "2017-02-24 21:43:09",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "pressfreedomtracker.us",
+    "full_name": "freedomofpress/pressfreedomtracker.us",
+    "created_at": "2017-04-06 18:34:17",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-doctl",
+    "full_name": "freedomofpress/ansible-role-doctl",
+    "created_at": "2017-04-22 23:14:55",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-docker-registry",
+    "full_name": "freedomofpress/ansible-role-docker-registry",
+    "created_at": "2017-04-22 23:18:32",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-dockermachine",
+    "full_name": "freedomofpress/ansible-role-dockermachine",
+    "created_at": "2017-05-02 14:51:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-signal-cli",
+    "full_name": "freedomofpress/ansible-role-signal-cli",
+    "created_at": "2017-05-02 17:14:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "django-logging",
+    "full_name": "freedomofpress/django-logging",
+    "created_at": "2017-06-08 22:56:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-elastalert",
+    "full_name": "freedomofpress/ansible-role-elastalert",
+    "created_at": "2017-06-26 00:55:02",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 9,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-kibana",
+    "full_name": "freedomofpress/ansible-role-kibana",
+    "created_at": "2017-07-09 01:12:53",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-workstation",
+    "full_name": "freedomofpress/securedrop-workstation",
+    "created_at": "2017-07-18 16:46:06",
+    "fork": false,
+    "stargazers_count": 116,
+    "forks_count": 34,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-elastic-curator",
+    "full_name": "freedomofpress/ansible-role-elastic-curator",
+    "created_at": "2017-07-25 15:21:43",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Makefile"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop.org",
+    "full_name": "freedomofpress/securedrop.org",
+    "created_at": "2017-08-04 18:25:17",
+    "fork": false,
+    "stargazers_count": 41,
+    "forks_count": 7,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "containers",
+    "full_name": "freedomofpress/containers",
+    "created_at": "2017-09-01 15:13:53",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-grsecurity-build",
+    "full_name": "freedomofpress/ansible-role-grsecurity-build",
+    "created_at": "2017-09-13 04:44:09",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 5,
+    "language": "Roff"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-grsecurity-install",
+    "full_name": "freedomofpress/ansible-role-grsecurity-install",
+    "created_at": "2017-09-13 05:45:40",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-subgraph-packages",
+    "full_name": "freedomofpress/ansible-role-subgraph-packages",
+    "created_at": "2017-10-04 18:54:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-signal-desktop",
+    "full_name": "freedomofpress/ansible-role-signal-desktop",
+    "created_at": "2017-11-01 15:01:00",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "gotham-grabber",
+    "full_name": "freedomofpress/gotham-grabber",
+    "created_at": "2017-11-08 01:15:01",
+    "fork": false,
+    "stargazers_count": 37,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-systemd-service",
+    "full_name": "freedomofpress/ansible-role-systemd-service",
+    "created_at": "2017-12-07 18:22:59",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "sdstatus",
+    "full_name": "freedomofpress/sdstatus",
+    "created_at": "2018-03-28 10:00:15",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 5,
+    "language": "Rust"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "trackthenews",
+    "full_name": "freedomofpress/trackthenews",
+    "created_at": "2018-05-21 20:42:12",
+    "fork": false,
+    "stargazers_count": 123,
+    "forks_count": 18,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-styleguide",
+    "full_name": "freedomofpress/securedrop-styleguide",
+    "created_at": "2018-06-27 21:22:33",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "sd-helper",
+    "full_name": "freedomofpress/sd-helper",
+    "created_at": "2018-07-17 14:08:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "qubes-template-securedrop-workstation",
+    "full_name": "freedomofpress/qubes-template-securedrop-workstation",
+    "created_at": "2018-07-17 21:29:40",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Makefile"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-client",
+    "full_name": "freedomofpress/securedrop-client",
+    "created_at": "2018-07-19 00:31:37",
+    "fork": false,
+    "stargazers_count": 33,
+    "forks_count": 37,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-sdk",
+    "full_name": "freedomofpress/securedrop-sdk",
+    "created_at": "2018-08-01 13:09:11",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 15,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-ux",
+    "full_name": "freedomofpress/securedrop-ux",
+    "created_at": "2018-08-15 00:33:23",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-proxy",
+    "full_name": "freedomofpress/securedrop-proxy",
+    "created_at": "2018-08-16 04:31:01",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "terraform-aws-vpc",
+    "full_name": "freedomofpress/terraform-aws-vpc",
+    "created_at": "2018-09-05 02:38:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HCL"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-debian-packaging-guide",
+    "full_name": "freedomofpress/securedrop-debian-packaging-guide",
+    "created_at": "2018-09-17 21:26:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-builder",
+    "full_name": "freedomofpress/securedrop-builder",
+    "created_at": "2018-09-27 16:52:44",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 9,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-i18n",
+    "full_name": "freedomofpress/securedrop-i18n",
+    "created_at": "2018-11-07 19:20:51",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "pdf-redact-tools",
+    "full_name": "freedomofpress/pdf-redact-tools",
+    "created_at": "2018-11-09 00:01:47",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "python-gnupg",
+    "full_name": "freedomofpress/python-gnupg",
+    "created_at": "2019-01-29 01:33:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "npm-audit-plus",
+    "full_name": "freedomofpress/npm-audit-plus",
+    "created_at": "2019-04-11 17:17:15",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-dev-packages-lfs",
+    "full_name": "freedomofpress/securedrop-dev-packages-lfs",
+    "created_at": "2019-06-10 16:57:12",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-export",
+    "full_name": "freedomofpress/securedrop-export",
+    "created_at": "2019-07-19 20:49:00",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "terraform-google-gke",
+    "full_name": "freedomofpress/terraform-google-gke",
+    "created_at": "2019-09-03 22:44:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "build-logs",
+    "full_name": "freedomofpress/build-logs",
+    "created_at": "2019-10-09 19:47:12",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Roff"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-workstation-dev-rpm-packages-lfs",
+    "full_name": "freedomofpress/securedrop-workstation-dev-rpm-packages-lfs",
+    "created_at": "2019-11-05 23:40:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "install_nextcloud",
+    "full_name": "freedomofpress/install_nextcloud",
+    "created_at": "2019-11-19 20:04:11",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-log",
+    "full_name": "freedomofpress/securedrop-log",
+    "created_at": "2019-12-04 14:56:10",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "threat-modeling",
+    "full_name": "freedomofpress/threat-modeling",
+    "created_at": "2019-12-07 04:42:56",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-workstation-prod-rpm-packages-lfs",
+    "full_name": "freedomofpress/securedrop-workstation-prod-rpm-packages-lfs",
+    "created_at": "2019-12-10 18:56:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "dangerzone",
+    "full_name": "freedomofpress/dangerzone",
+    "created_at": "2020-01-06 20:42:37",
+    "fork": false,
+    "stargazers_count": 2152,
+    "forks_count": 110,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-workstation-docs",
+    "full_name": "freedomofpress/securedrop-workstation-docs",
+    "created_at": "2020-01-13 16:08:02",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 4,
+    "language": "Dockerfile"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "redmine_incoming_emails",
+    "full_name": "freedomofpress/redmine_incoming_emails",
+    "created_at": "2020-03-26 08:34:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-https-everywhere-ruleset",
+    "full_name": "freedomofpress/securedrop-https-everywhere-ruleset",
+    "created_at": "2020-04-09 19:30:04",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "container-onion-service",
+    "full_name": "freedomofpress/container-onion-service",
+    "created_at": "2020-07-28 22:09:29",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Shell"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-docs",
+    "full_name": "freedomofpress/securedrop-docs",
+    "created_at": "2020-08-25 22:40:02",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 23,
+    "language": "Shell"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ingress-nginx",
+    "full_name": "freedomofpress/ingress-nginx",
+    "created_at": "2020-09-18 14:57:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "kernel-builder",
+    "full_name": "freedomofpress/kernel-builder",
+    "created_at": "2020-09-19 01:36:27",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "Shell"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-e2e",
+    "full_name": "freedomofpress/securedrop-e2e",
+    "created_at": "2020-10-16 20:39:54",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 3,
+    "language": "Rust"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "signal-protocol",
+    "full_name": "freedomofpress/signal-protocol",
+    "created_at": "2020-10-23 18:22:41",
+    "fork": false,
+    "stargazers_count": 21,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "libsignal-client",
+    "full_name": "freedomofpress/libsignal-client",
+    "created_at": "2020-11-23 21:59:08",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Rust"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "pshtt",
+    "full_name": "freedomofpress/pshtt",
+    "created_at": "2021-01-12 21:27:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": ".github",
+    "full_name": "freedomofpress/.github",
+    "created_at": "2021-02-08 22:41:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "signal-groups",
+    "full_name": "freedomofpress/signal-groups",
+    "created_at": "2021-02-24 17:12:27",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Rust"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-vm-images",
+    "full_name": "freedomofpress/securedrop-vm-images",
+    "created_at": "2021-03-31 21:52:05",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "wagtail-supertable",
+    "full_name": "freedomofpress/wagtail-supertable",
+    "created_at": "2021-04-08 20:20:14",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-role-docker",
+    "full_name": "freedomofpress/ansible-role-docker",
+    "created_at": "2021-04-15 22:16:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "secure-fs",
+    "full_name": "freedomofpress/secure-fs",
+    "created_at": "2021-05-21 23:49:39",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-letsencrypt",
+    "full_name": "freedomofpress/ansible-letsencrypt",
+    "created_at": "2021-10-21 02:51:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "ansible-backup",
+    "full_name": "freedomofpress/ansible-backup",
+    "created_at": "2021-12-08 03:12:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-grsec",
+    "full_name": "freedomofpress/securedrop-grsec",
+    "created_at": "2022-03-16 18:10:47",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "freedomofpress",
+    "name": "dangerzone.rocks",
+    "full_name": "freedomofpress/dangerzone.rocks",
+    "created_at": "2022-05-09 22:54:02",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-dev-docs",
+    "full_name": "freedomofpress/securedrop-dev-docs",
+    "created_at": "2022-08-25 22:00:02",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 3,
+    "language": "Shell"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "securedrop-updater",
+    "full_name": "freedomofpress/securedrop-updater",
+    "created_at": "2022-09-20 16:22:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "apt-tools-prod",
+    "full_name": "freedomofpress/apt-tools-prod",
+    "created_at": "2022-10-04 17:53:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "freedomofpress",
+    "name": "yum-tools-prod",
+    "full_name": "freedomofpress/yum-tools-prod",
+    "created_at": "2022-10-04 17:53:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "org": "sourcefabric",
+    "name": "Newscoop",
+    "full_name": "sourcefabric/Newscoop",
+    "created_at": "2010-05-13 10:54:05",
+    "fork": false,
+    "stargazers_count": 250,
+    "forks_count": 151,
+    "language": "PHP"
+  },
+  {
+    "org": "sourcefabric",
+    "name": "airtime",
+    "full_name": "sourcefabric/airtime",
+    "created_at": "2010-05-13 11:24:15",
+    "fork": false,
+    "stargazers_count": 608,
+    "forks_count": 269,
+    "language": "PHP"
+  },
+  {
+    "org": "sourcefabric",
+    "name": "angular-sir-trevor",
+    "full_name": "sourcefabric/angular-sir-trevor",
+    "created_at": "2016-09-26 10:46:16",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  }
+]

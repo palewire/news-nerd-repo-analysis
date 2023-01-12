@@ -1,0 +1,392 @@
+[
+  {
+    "org": "datanews",
+    "name": "datanews.github.io",
+    "full_name": "datanews/datanews.github.io",
+    "created_at": "2014-07-06 19:50:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "ny-marathon",
+    "full_name": "datanews/ny-marathon",
+    "created_at": "2014-10-30 22:11:19",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "minimaps",
+    "full_name": "datanews/minimaps",
+    "created_at": "2014-11-05 19:55:27",
+    "fork": false,
+    "stargazers_count": 35,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "foil",
+    "full_name": "datanews/foil",
+    "created_at": "2015-01-16 16:05:49",
+    "fork": false,
+    "stargazers_count": 19,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "mta-unlimited",
+    "full_name": "datanews/mta-unlimited",
+    "created_at": "2015-01-21 16:59:24",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "geo",
+    "full_name": "datanews/geo",
+    "created_at": "2015-02-18 16:30:55",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "mean-streets",
+    "full_name": "datanews/mean-streets",
+    "created_at": "2015-02-19 21:04:23",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 20,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "boroface",
+    "full_name": "datanews/boroface",
+    "created_at": "2015-02-22 03:42:02",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "datanews",
+    "name": "NotoriousBOT",
+    "full_name": "datanews/NotoriousBOT",
+    "created_at": "2015-02-26 20:03:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "data-inventories",
+    "full_name": "datanews/data-inventories",
+    "created_at": "2015-03-05 15:42:11",
+    "fork": false,
+    "stargazers_count": 46,
+    "forks_count": 4,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "vaccinations",
+    "full_name": "datanews/vaccinations",
+    "created_at": "2015-04-02 21:21:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "calculon",
+    "full_name": "datanews/calculon",
+    "created_at": "2015-04-14 20:22:38",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Arduino"
+  },
+  {
+    "org": "datanews",
+    "name": "tik-tok",
+    "full_name": "datanews/tik-tok",
+    "created_at": "2015-04-23 16:33:15",
+    "fork": false,
+    "stargazers_count": 88,
+    "forks_count": 35,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "amtrak-geojson",
+    "full_name": "datanews/amtrak-geojson",
+    "created_at": "2015-05-14 20:53:45",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "recipes",
+    "full_name": "datanews/recipes",
+    "created_at": "2015-05-21 15:10:29",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "thunder",
+    "full_name": "datanews/thunder",
+    "created_at": "2015-06-09 18:37:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "datanews",
+    "name": "license-plates",
+    "full_name": "datanews/license-plates",
+    "created_at": "2015-08-04 00:50:28",
+    "fork": false,
+    "stargazers_count": 25,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "track-fires",
+    "full_name": "datanews/track-fires",
+    "created_at": "2015-08-18 15:34:30",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "illegal-hotel-inspections",
+    "full_name": "datanews/illegal-hotel-inspections",
+    "created_at": "2015-09-16 17:04:24",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "locator",
+    "full_name": "datanews/locator",
+    "created_at": "2015-10-21 16:05:31",
+    "fork": false,
+    "stargazers_count": 21,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "track-cleanings",
+    "full_name": "datanews/track-cleanings",
+    "created_at": "2015-10-26 18:30:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "subway-stair-closures",
+    "full_name": "datanews/subway-stair-closures",
+    "created_at": "2015-11-12 17:18:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "mta-styles",
+    "full_name": "datanews/mta-styles",
+    "created_at": "2015-11-12 17:46:10",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "film-permits",
+    "full_name": "datanews/film-permits",
+    "created_at": "2016-02-22 16:58:55",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "charter-attrition-2013-14",
+    "full_name": "datanews/charter-attrition-2013-14",
+    "created_at": "2016-03-15 03:48:00",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "tables",
+    "full_name": "datanews/tables",
+    "created_at": "2016-03-15 17:44:39",
+    "fork": false,
+    "stargazers_count": 90,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "elevators",
+    "full_name": "datanews/elevators",
+    "created_at": "2016-03-28 14:10:31",
+    "fork": false,
+    "stargazers_count": 41,
+    "forks_count": 5,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "nyc-schools-water-20160325",
+    "full_name": "datanews/nyc-schools-water-20160325",
+    "created_at": "2016-03-30 20:09:56",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "nj-liquor-licenses",
+    "full_name": "datanews/nj-liquor-licenses",
+    "created_at": "2016-05-13 19:22:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "section-8",
+    "full_name": "datanews/section-8",
+    "created_at": "2016-05-18 20:18:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "blitzen",
+    "full_name": "datanews/blitzen",
+    "created_at": "2016-07-18 21:02:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "datanews",
+    "name": "playtime",
+    "full_name": "datanews/playtime",
+    "created_at": "2016-07-20 16:49:20",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "datanews",
+    "name": "harlem-heat",
+    "full_name": "datanews/harlem-heat",
+    "created_at": "2016-07-25 18:57:13",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "Arduino"
+  },
+  {
+    "org": "datanews",
+    "name": "landslide",
+    "full_name": "datanews/landslide",
+    "created_at": "2016-10-13 21:10:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "datanews",
+    "name": "catalog-it",
+    "full_name": "datanews/catalog-it",
+    "created_at": "2016-11-17 17:48:37",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "fass",
+    "full_name": "datanews/fass",
+    "created_at": "2017-01-09 21:59:43",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "election-guide",
+    "full_name": "datanews/election-guide",
+    "created_at": "2017-02-01 15:42:56",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datanews",
+    "name": "nyc-homeless-facilities",
+    "full_name": "datanews/nyc-homeless-facilities",
+    "created_at": "2017-04-10 17:17:47",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datanews",
+    "name": "ny-primary-2018",
+    "full_name": "datanews/ny-primary-2018",
+    "created_at": "2018-06-14 20:47:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "org": "hearstcorp",
+    "name": "hearstcorp.github.io",
+    "full_name": "HearstCorp/hearstcorp.github.io",
+    "created_at": "2014-01-12 22:58:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "SamlSPBundle",
+    "full_name": "HearstCorp/SamlSPBundle",
+    "created_at": "2014-07-07 20:52:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "lightsaml",
+    "full_name": "HearstCorp/lightsaml",
+    "created_at": "2014-07-07 20:52:46",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hearstcorp",
+    "name": "DoctrineEncryptBundle",
+    "full_name": "HearstCorp/DoctrineEncryptBundle",
+    "created_at": "2014-07-07 20:53:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "kinesis-hrm",
+    "full_name": "HearstCorp/kinesis-hrm",
+    "created_at": "2014-07-07 20:56:33",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "hearstcorp",
+    "name": "Mashery-PHP-API",
+    "full_name": "HearstCorp/Mashery-PHP-API",
+    "created_at": "2014-07-24 21:05:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hearstcorp",
+    "name": "elasticsearch-key-aware-search",
+    "full_name": "HearstCorp/elasticsearch-key-aware-search",
+    "created_at": "2015-02-10 13:51:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "hopscotch",
+    "full_name": "HearstCorp/hopscotch",
+    "created_at": "2015-02-10 16:22:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "FOSCommentBundle",
+    "full_name": "HearstCorp/FOSCommentBundle",
+    "created_at": "2015-02-10 16:24:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "LinkedIn-API-client",
+    "full_name": "HearstCorp/LinkedIn-API-client",
+    "created_at": "2015-02-10 17:20:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "VichUploaderBundle",
+    "full_name": "HearstCorp/VichUploaderBundle",
+    "created_at": "2015-02-10 17:21:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "Fetch",
+    "full_name": "HearstCorp/Fetch",
+    "created_at": "2015-04-03 14:01:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "blackbox",
+    "full_name": "HearstCorp/blackbox",
+    "created_at": "2015-04-03 17:29:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "jiracards",
+    "full_name": "HearstCorp/jiracards",
+    "created_at": "2015-06-19 20:58:37",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-jsonbfield",
+    "full_name": "HearstCorp/django-jsonbfield",
+    "created_at": "2015-06-19 21:06:47",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "test",
+    "full_name": "HearstCorp/test",
+    "created_at": "2015-08-24 02:46:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-rest-swagger",
+    "full_name": "HearstCorp/django-rest-swagger",
+    "created_at": "2015-10-01 18:39:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "swagger-ui",
+    "full_name": "HearstCorp/swagger-ui",
+    "created_at": "2015-10-14 21:57:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-cors-headers",
+    "full_name": "HearstCorp/django-cors-headers",
+    "created_at": "2016-03-04 17:54:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-cacheops",
+    "full_name": "HearstCorp/django-cacheops",
+    "created_at": "2016-05-09 21:28:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "docker-logs-mux",
+    "full_name": "HearstCorp/docker-logs-mux",
+    "created_at": "2016-05-11 18:47:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "deis",
+    "full_name": "HearstCorp/deis",
+    "created_at": "2016-08-31 22:20:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "ffmpegthumbnailer",
+    "full_name": "HearstCorp/ffmpegthumbnailer",
+    "created_at": "2016-09-08 14:52:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "C++"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "mediaos",
+    "full_name": "HearstCorp/mediaos",
+    "created_at": "2016-09-20 22:39:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-zipkin",
+    "full_name": "HearstCorp/django-zipkin",
+    "created_at": "2016-10-21 17:32:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "hearst-jwplayer",
+    "full_name": "HearstCorp/hearst-jwplayer",
+    "created_at": "2017-01-19 20:43:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "rover-wiki",
+    "full_name": "HearstCorp/rover-wiki",
+    "created_at": "2017-04-18 20:42:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hearstcorp",
+    "name": "faiss",
+    "full_name": "HearstCorp/faiss",
+    "created_at": "2018-07-16 18:13:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "C++"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "kaldi",
+    "full_name": "HearstCorp/kaldi",
+    "created_at": "2018-08-24 15:56:43",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "docker-airflow",
+    "full_name": "HearstCorp/docker-airflow",
+    "created_at": "2019-01-22 19:59:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "hearstcorp",
+    "name": "django-nose2",
+    "full_name": "HearstCorp/django-nose2",
+    "created_at": "2022-11-15 21:12:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  }
+]

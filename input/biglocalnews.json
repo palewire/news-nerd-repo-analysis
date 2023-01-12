@@ -1,0 +1,232 @@
+[
+  {
+    "org": "biglocalnews",
+    "name": "california-wildfires",
+    "full_name": "biglocalnews/california-wildfires",
+    "created_at": "2019-01-11 01:42:27",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "bln-python-client",
+    "full_name": "biglocalnews/bln-python-client",
+    "created_at": "2020-03-05 16:57:06",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "covid19-tweets",
+    "full_name": "biglocalnews/covid19-tweets",
+    "created_at": "2020-03-27 02:04:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "warn-scraper",
+    "full_name": "biglocalnews/warn-scraper",
+    "created_at": "2020-05-11 22:50:21",
+    "fork": false,
+    "stargazers_count": 15,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "covid-world-scraper",
+    "full_name": "biglocalnews/covid-world-scraper",
+    "created_at": "2020-06-04 22:10:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "civic-scraper",
+    "full_name": "biglocalnews/civic-scraper",
+    "created_at": "2020-06-16 01:03:12",
+    "fork": false,
+    "stargazers_count": 23,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "legistar-scraper-demo",
+    "full_name": "biglocalnews/legistar-scraper-demo",
+    "created_at": "2020-06-30 21:55:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "court-scraper",
+    "full_name": "biglocalnews/court-scraper",
+    "created_at": "2020-08-07 23:28:48",
+    "fork": false,
+    "stargazers_count": 38,
+    "forks_count": 11,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "warn-california-analysis",
+    "full_name": "biglocalnews/warn-california-analysis",
+    "created_at": "2020-09-18 17:49:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "aw-scripts",
+    "full_name": "biglocalnews/aw-scripts",
+    "created_at": "2020-10-17 01:37:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "aw-legistar-scraper-selenium",
+    "full_name": "biglocalnews/aw-legistar-scraper-selenium",
+    "created_at": "2021-03-03 20:44:56",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "bln-etl",
+    "full_name": "biglocalnews/bln-etl",
+    "created_at": "2021-05-26 22:38:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "warn-transformer",
+    "full_name": "biglocalnews/warn-transformer",
+    "created_at": "2021-07-02 17:36:45",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "upload-files",
+    "full_name": "biglocalnews/upload-files",
+    "created_at": "2022-02-01 00:40:46",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "warn-github-flow",
+    "full_name": "biglocalnews/warn-github-flow",
+    "created_at": "2022-02-18 21:46:48",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": "Makefile"
+  },
+  {
+    "org": "biglocalnews",
+    "name": ".github",
+    "full_name": "biglocalnews/.github",
+    "created_at": "2022-02-25 18:32:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "biglocalnews",
+    "name": "bylines",
+    "full_name": "biglocalnews/bylines",
+    "created_at": "2022-03-10 11:23:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "biglocalnews",
+    "name": "prefect-flow-template",
+    "full_name": "biglocalnews/prefect-flow-template",
+    "created_at": "2022-03-28 17:40:01",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "squarelet",
+    "full_name": "biglocalnews/squarelet",
+    "created_at": "2022-06-02 17:53:24",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "biglocalnews",
+    "name": "gcp-storage-emulator",
+    "full_name": "biglocalnews/gcp-storage-emulator",
+    "created_at": "2022-07-06 18:28:52",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "scraping-workshop",
+    "full_name": "biglocalnews/scraping-workshop",
+    "created_at": "2022-07-23 01:45:30",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "local-election-results-etl",
+    "full_name": "biglocalnews/local-election-results-etl",
+    "created_at": "2022-10-13 12:21:13",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "biglocalnews",
+    "name": "usc-crime-reports-scraper",
+    "full_name": "biglocalnews/usc-crime-reports-scraper",
+    "created_at": "2022-12-05 21:41:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  }
+]

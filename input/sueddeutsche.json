@@ -1,0 +1,542 @@
+[
+  {
+    "org": "sueddeutsche",
+    "name": "json-editor",
+    "full_name": "sueddeutsche/json-editor",
+    "created_at": "2015-02-11 13:15:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "dashing-js",
+    "full_name": "sueddeutsche/dashing-js",
+    "created_at": "2015-07-30 07:13:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "webdrivercss",
+    "full_name": "sueddeutsche/webdrivercss",
+    "created_at": "2015-09-07 09:23:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "apostrophe-site",
+    "full_name": "sueddeutsche/apostrophe-site",
+    "created_at": "2015-12-15 13:49:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "apostrophe",
+    "full_name": "sueddeutsche/apostrophe",
+    "created_at": "2015-12-15 13:50:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "uploadfs",
+    "full_name": "sueddeutsche/uploadfs",
+    "created_at": "2015-12-15 13:56:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "apostrophe-blog-2",
+    "full_name": "sueddeutsche/apostrophe-blog-2",
+    "created_at": "2015-12-16 08:30:43",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "apostrophe-site-map",
+    "full_name": "sueddeutsche/apostrophe-site-map",
+    "created_at": "2016-01-14 09:38:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "appy",
+    "full_name": "sueddeutsche/appy",
+    "created_at": "2016-01-26 08:11:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "apostrophe-pages",
+    "full_name": "sueddeutsche/apostrophe-pages",
+    "created_at": "2016-03-07 11:46:57",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "sitemap.js",
+    "full_name": "sueddeutsche/sitemap.js",
+    "created_at": "2016-03-09 13:50:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "stats-replace-webpack-plugin",
+    "full_name": "sueddeutsche/stats-replace-webpack-plugin",
+    "created_at": "2016-07-04 14:29:56",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "sz-data",
+    "full_name": "sueddeutsche/sz-data",
+    "created_at": "2016-07-07 09:14:30",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "gen-better-polls",
+    "full_name": "sueddeutsche/gen-better-polls",
+    "created_at": "2016-10-27 10:19:29",
+    "fork": false,
+    "stargazers_count": 23,
+    "forks_count": 3,
+    "language": "R"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "jenkins-cli",
+    "full_name": "sueddeutsche/jenkins-cli",
+    "created_at": "2017-01-06 10:42:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "with-observable",
+    "full_name": "sueddeutsche/with-observable",
+    "created_at": "2017-01-13 12:17:17",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "jenkins-api",
+    "full_name": "sueddeutsche/jenkins-api",
+    "created_at": "2017-01-20 15:21:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "json-data-services",
+    "full_name": "sueddeutsche/json-data-services",
+    "created_at": "2017-01-23 13:13:14",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "dylan-nobelprize",
+    "full_name": "sueddeutsche/dylan-nobelprize",
+    "created_at": "2017-02-16 13:52:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "handlebars-render-loader",
+    "full_name": "sueddeutsche/handlebars-render-loader",
+    "created_at": "2017-02-28 08:52:47",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "mithril-material-forms",
+    "full_name": "sueddeutsche/mithril-material-forms",
+    "created_at": "2017-03-04 08:09:49",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "livingdocs",
+    "full_name": "sueddeutsche/livingdocs",
+    "created_at": "2017-04-11 14:52:16",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "chunk-rename-webpack-plugin",
+    "full_name": "sueddeutsche/chunk-rename-webpack-plugin",
+    "created_at": "2017-05-17 13:45:24",
+    "fork": false,
+    "stargazers_count": 25,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "json-sync",
+    "full_name": "sueddeutsche/json-sync",
+    "created_at": "2017-07-29 19:58:17",
+    "fork": true,
+    "stargazers_count": 10,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "editron",
+    "full_name": "sueddeutsche/editron",
+    "created_at": "2017-08-25 17:04:22",
+    "fork": false,
+    "stargazers_count": 29,
+    "forks_count": 4,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "editron-index-editor",
+    "full_name": "sueddeutsche/editron-index-editor",
+    "created_at": "2017-08-25 17:07:43",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "editron-wysiwyg-editor",
+    "full_name": "sueddeutsche/editron-wysiwyg-editor",
+    "created_at": "2017-08-25 17:09:31",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "editron-script-editor",
+    "full_name": "sueddeutsche/editron-script-editor",
+    "created_at": "2017-08-25 17:10:57",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "editron-sync-service",
+    "full_name": "sueddeutsche/editron-sync-service",
+    "created_at": "2017-09-24 20:02:54",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "afd-im-bundestag",
+    "full_name": "sueddeutsche/afd-im-bundestag",
+    "created_at": "2018-04-24 09:30:15",
+    "fork": false,
+    "stargazers_count": 32,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "rladies-presentation",
+    "full_name": "sueddeutsche/rladies-presentation",
+    "created_at": "2018-08-01 12:26:07",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "hurricane_geodata_app",
+    "full_name": "sueddeutsche/hurricane_geodata_app",
+    "created_at": "2019-08-01 14:42:42",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "drawio2ink",
+    "full_name": "sueddeutsche/drawio2ink",
+    "created_at": "2019-08-19 12:08:21",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "poll-collect",
+    "full_name": "sueddeutsche/poll-collect",
+    "created_at": "2019-10-25 15:32:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "sz-poll-collect",
+    "full_name": "sueddeutsche/sz-poll-collect",
+    "created_at": "2019-10-25 16:03:28",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "political-german-word-embeddings",
+    "full_name": "sueddeutsche/political-german-word-embeddings",
+    "created_at": "2020-02-10 15:50:52",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "foxy",
+    "full_name": "sueddeutsche/foxy",
+    "created_at": "2020-03-02 15:08:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "corona_automated_charts",
+    "full_name": "sueddeutsche/corona_automated_charts",
+    "created_at": "2020-03-20 08:14:57",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "language": "R"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "prosemirror-recreate-transform",
+    "full_name": "sueddeutsche/prosemirror-recreate-transform",
+    "created_at": "2020-03-31 14:58:11",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 4,
+    "language": "TypeScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "lambda-request-handler",
+    "full_name": "sueddeutsche/lambda-request-handler",
+    "created_at": "2020-04-15 16:18:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "ksend",
+    "full_name": "sueddeutsche/ksend",
+    "created_at": "2020-11-03 14:55:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "render",
+    "full_name": "sueddeutsche/render",
+    "created_at": "2020-11-05 17:28:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "herd-immunity-guesstimate",
+    "full_name": "sueddeutsche/herd-immunity-guesstimate",
+    "created_at": "2020-11-27 15:16:42",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "workadventure",
+    "full_name": "sueddeutsche/workadventure",
+    "created_at": "2021-03-25 14:37:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "gha-tftools",
+    "full_name": "sueddeutsche/gha-tftools",
+    "created_at": "2021-09-14 14:32:35",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "Shell"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "gha-aws-webidentity-token",
+    "full_name": "sueddeutsche/gha-aws-webidentity-token",
+    "created_at": "2021-09-22 13:33:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "gha-npm-auth",
+    "full_name": "sueddeutsche/gha-npm-auth",
+    "created_at": "2022-03-07 10:11:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "gha-npm-cache",
+    "full_name": "sueddeutsche/gha-npm-cache",
+    "created_at": "2022-03-07 10:28:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "gha-npm-safe-install-from-private-repo",
+    "full_name": "sueddeutsche/gha-npm-safe-install-from-private-repo",
+    "created_at": "2022-04-27 08:18:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "online-tfmod-http-monitoring",
+    "full_name": "sueddeutsche/online-tfmod-http-monitoring",
+    "created_at": "2022-04-30 09:20:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HCL"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "szde-renovate-config",
+    "full_name": "sueddeutsche/szde-renovate-config",
+    "created_at": "2022-06-08 11:02:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "gha-datadog-deployments",
+    "full_name": "sueddeutsche/gha-datadog-deployments",
+    "created_at": "2022-07-25 09:37:33",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "szdm-fluxcd-kustomize-check",
+    "full_name": "sueddeutsche/szdm-fluxcd-kustomize-check",
+    "created_at": "2022-09-28 15:46:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "sueddeutsche",
+    "name": "er-shipit2022-jahresrueckblick",
+    "full_name": "sueddeutsche/er-shipit2022-jahresrueckblick",
+    "created_at": "2022-12-07 09:43:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  }
+]

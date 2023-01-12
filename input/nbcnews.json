@@ -1,0 +1,392 @@
+[
+  {
+    "org": "nbcnews",
+    "name": "slides",
+    "full_name": "nbcnews/slides",
+    "created_at": "2013-03-12 21:55:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "nbcnews",
+    "name": "autodisablerjs",
+    "full_name": "nbcnews/autodisablerjs",
+    "created_at": "2015-05-14 16:52:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "okra-testdata",
+    "full_name": "nbcnews/okra-testdata",
+    "created_at": "2015-07-24 14:19:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "react-native-mail",
+    "full_name": "nbcnews/react-native-mail",
+    "created_at": "2015-08-07 16:15:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Objective-C"
+  },
+  {
+    "org": "nbcnews",
+    "name": "react-autocomplete",
+    "full_name": "nbcnews/react-autocomplete",
+    "created_at": "2015-08-07 16:15:49",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "heroku-buildpack-multi",
+    "full_name": "nbcnews/heroku-buildpack-multi",
+    "created_at": "2015-08-18 18:14:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "nbcnews",
+    "name": "react-native",
+    "full_name": "nbcnews/react-native",
+    "created_at": "2015-08-26 16:16:20",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "react-native-chart",
+    "full_name": "nbcnews/react-native-chart",
+    "created_at": "2015-10-13 20:37:16",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "nbcnews",
+    "name": "ndp-video-perf",
+    "full_name": "nbcnews/ndp-video-perf",
+    "created_at": "2016-03-15 20:48:43",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "NMW",
+    "full_name": "nbcnews/NMW",
+    "created_at": "2016-05-27 18:19:41",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "jetpack",
+    "full_name": "nbcnews/jetpack",
+    "created_at": "2017-01-13 18:08:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "storygist",
+    "full_name": "nbcnews/storygist",
+    "created_at": "2017-05-01 16:13:12",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "uncover",
+    "full_name": "nbcnews/uncover",
+    "created_at": "2017-05-05 16:52:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "nbcnews",
+    "name": "machinist",
+    "full_name": "nbcnews/machinist",
+    "created_at": "2017-06-27 18:36:47",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "anc-news-api",
+    "full_name": "nbcnews/anc-news-api",
+    "created_at": "2017-07-12 22:17:38",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "psa-check",
+    "full_name": "nbcnews/psa-check",
+    "created_at": "2017-08-06 17:04:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "octopus-vr",
+    "full_name": "nbcnews/octopus-vr",
+    "created_at": "2017-10-14 17:57:21",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "nbcnews",
+    "name": "fe-coding-challenge",
+    "full_name": "nbcnews/fe-coding-challenge",
+    "created_at": "2018-02-26 19:32:42",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "iOS-Frameworks",
+    "full_name": "nbcnews/iOS-Frameworks",
+    "created_at": "2018-03-23 17:27:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "brslint",
+    "full_name": "nbcnews/brslint",
+    "created_at": "2018-10-30 20:55:49",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "klaxon",
+    "full_name": "nbcnews/klaxon",
+    "created_at": "2018-11-14 05:29:02",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "nbcnews",
+    "name": "node_acl_knex",
+    "full_name": "nbcnews/node_acl_knex",
+    "created_at": "2019-03-29 18:25:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "SwiftNotifications",
+    "full_name": "nbcnews/SwiftNotifications",
+    "created_at": "2019-04-11 18:00:05",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Swift"
+  },
+  {
+    "org": "nbcnews",
+    "name": "data-data-data",
+    "full_name": "nbcnews/data-data-data",
+    "created_at": "2019-04-18 18:53:24",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "SwiftFP",
+    "full_name": "nbcnews/SwiftFP",
+    "created_at": "2019-05-09 01:16:22",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "alpinelib",
+    "full_name": "nbcnews/alpinelib",
+    "created_at": "2019-07-02 20:56:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nbcnews",
+    "name": "renovate-config",
+    "full_name": "nbcnews/renovate-config",
+    "created_at": "2019-08-15 15:58:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "graphql",
+    "full_name": "nbcnews/graphql",
+    "created_at": "2020-03-30 21:21:15",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "nbcnews",
+    "name": "terraform-k3s-aws-cluster",
+    "full_name": "nbcnews/terraform-k3s-aws-cluster",
+    "created_at": "2020-06-05 14:11:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "docker-nd-golang",
+    "full_name": "nbcnews/docker-nd-golang",
+    "created_at": "2020-06-18 19:53:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "aws-media-insights-engine",
+    "full_name": "nbcnews/aws-media-insights-engine",
+    "created_at": "2020-07-14 19:15:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "quill",
+    "full_name": "nbcnews/quill",
+    "created_at": "2020-10-05 21:10:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "Lightning-CLI",
+    "full_name": "nbcnews/Lightning-CLI",
+    "created_at": "2021-01-28 23:17:29",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nbcnews",
+    "name": "iterate-ios",
+    "full_name": "nbcnews/iterate-ios",
+    "created_at": "2021-07-20 16:50:17",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Swift"
+  },
+  {
+    "org": "nbcnews",
+    "name": "DE-Coding-Challenge",
+    "full_name": "nbcnews/DE-Coding-Challenge",
+    "created_at": "2021-12-21 16:04:08",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nbcnews",
+    "name": "lambda-action",
+    "full_name": "nbcnews/lambda-action",
+    "created_at": "2022-02-17 19:57:48",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "nbcnews",
+    "name": "drone-lambda",
+    "full_name": "nbcnews/drone-lambda",
+    "created_at": "2022-02-17 19:59:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "genqlient",
+    "full_name": "nbcnews/genqlient",
+    "created_at": "2022-05-28 04:13:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nbcnews",
+    "name": "jsoncrack.com",
+    "full_name": "nbcnews/jsoncrack.com",
+    "created_at": "2023-01-10 22:41:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

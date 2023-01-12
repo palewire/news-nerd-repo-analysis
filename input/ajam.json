@@ -1,0 +1,292 @@
+[
+  {
+    "org": "ajam",
+    "name": "guides",
+    "full_name": "ajam/guides",
+    "created_at": "2013-09-25 13:36:46",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "ajam",
+    "name": "javascript",
+    "full_name": "ajam/javascript",
+    "created_at": "2013-09-25 13:37:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "ajam",
+    "name": "vortext",
+    "full_name": "ajam/vortext",
+    "created_at": "2013-10-18 18:54:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "ajam",
+    "name": "banquo-server",
+    "full_name": "ajam/banquo-server",
+    "created_at": "2013-10-28 20:29:22",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 9,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "banquo",
+    "full_name": "ajam/banquo",
+    "created_at": "2013-10-28 20:38:48",
+    "fork": true,
+    "stargazers_count": 17,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "tablespoon",
+    "full_name": "ajam/tablespoon",
+    "created_at": "2014-01-10 21:35:21",
+    "fork": false,
+    "stargazers_count": 15,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "doc-cloud-embed",
+    "full_name": "ajam/doc-cloud-embed",
+    "created_at": "2014-02-24 15:37:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "ajam",
+    "name": "kestrel-cli",
+    "full_name": "ajam/kestrel-cli",
+    "created_at": "2014-03-22 04:58:40",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "kestrel",
+    "full_name": "ajam/kestrel",
+    "created_at": "2014-03-22 23:06:06",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "pulp",
+    "full_name": "ajam/pulp",
+    "created_at": "2014-04-28 20:56:21",
+    "fork": false,
+    "stargazers_count": 89,
+    "forks_count": 17,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "heron",
+    "full_name": "ajam/heron",
+    "created_at": "2014-05-13 19:38:11",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "datajam",
+    "full_name": "ajam/datajam",
+    "created_at": "2014-06-03 21:22:47",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "ajam",
+    "name": "pulp-press",
+    "full_name": "ajam/pulp-press",
+    "created_at": "2014-06-18 16:54:12",
+    "fork": false,
+    "stargazers_count": 25,
+    "forks_count": 4,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "2014_payday-nation-data",
+    "full_name": "ajam/2014_payday-nation-data",
+    "created_at": "2014-06-19 14:56:32",
+    "fork": false,
+    "stargazers_count": 23,
+    "forks_count": 8,
+    "language": null
+  },
+  {
+    "org": "ajam",
+    "name": "sprout-wrap",
+    "full_name": "ajam/sprout-wrap",
+    "created_at": "2014-07-31 21:40:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "ajam",
+    "name": "sprout-osx-apps",
+    "full_name": "ajam/sprout-osx-apps",
+    "created_at": "2014-08-04 15:39:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "ajam",
+    "name": "facelift",
+    "full_name": "ajam/facelift",
+    "created_at": "2014-10-16 22:32:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "detect_swipe",
+    "full_name": "ajam/detect_swipe",
+    "created_at": "2014-10-25 14:05:34",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "topline",
+    "full_name": "ajam/topline",
+    "created_at": "2015-01-12 22:23:37",
+    "fork": false,
+    "stargazers_count": 31,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "all-my-charts",
+    "full_name": "ajam/all-my-charts",
+    "created_at": "2015-02-26 21:44:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "amtrak-188",
+    "full_name": "ajam/amtrak-188",
+    "created_at": "2015-05-14 19:49:00",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "ajam",
+    "name": "Chartbuilder",
+    "full_name": "ajam/Chartbuilder",
+    "created_at": "2015-07-07 15:53:44",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "aufbau",
+    "full_name": "ajam/aufbau",
+    "created_at": "2015-07-20 18:48:56",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "chartbuilder-electron",
+    "full_name": "ajam/chartbuilder-electron",
+    "created_at": "2015-07-22 15:21:08",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "ajam",
+    "name": "aufbau-files",
+    "full_name": "ajam/aufbau-files",
+    "created_at": "2015-07-28 05:31:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "aufbau-example-app",
+    "full_name": "ajam/aufbau-example-app",
+    "created_at": "2015-07-31 16:15:46",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "ajam",
+    "name": "tarbell-big-read-template",
+    "full_name": "ajam/tarbell-big-read-template",
+    "created_at": "2015-08-24 21:50:06",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 6,
+    "language": "CSS"
+  },
+  {
+    "org": "ajam",
+    "name": "2015_11_food-allergy-food-insecurity-data",
+    "full_name": "ajam/2015_11_food-allergy-food-insecurity-data",
+    "created_at": "2015-11-20 20:36:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "ajam",
+    "name": "hookshot",
+    "full_name": "ajam/hookshot",
+    "created_at": "2015-12-28 22:26:21",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  }
+]

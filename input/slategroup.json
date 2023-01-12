@@ -1,0 +1,552 @@
+[
+  {
+    "org": "slategroup",
+    "name": "jquery_lazyload",
+    "full_name": "slategroup/jquery_lazyload",
+    "created_at": "2011-10-01 01:52:33",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "tsg-analytics-plugin",
+    "full_name": "slategroup/tsg-analytics-plugin",
+    "created_at": "2012-03-15 19:39:51",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "ActionScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "jquery.roadblocked",
+    "full_name": "slategroup/jquery.roadblocked",
+    "created_at": "2012-06-01 19:52:35",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "CoffeeScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "embedly-java",
+    "full_name": "slategroup/embedly-java",
+    "created_at": "2012-08-22 16:48:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "slategroup",
+    "name": "JS-Redirection-Mobile-Site",
+    "full_name": "slategroup/JS-Redirection-Mobile-Site",
+    "created_at": "2012-12-19 20:52:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "facebook-android-sdk",
+    "full_name": "slategroup/facebook-android-sdk",
+    "created_at": "2013-03-19 15:34:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "slategroup",
+    "name": "Google-Analytics-JS",
+    "full_name": "slategroup/Google-Analytics-JS",
+    "created_at": "2013-04-25 15:46:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "jsontoken-osgi",
+    "full_name": "slategroup/jsontoken-osgi",
+    "created_at": "2013-09-05 21:11:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Java"
+  },
+  {
+    "org": "slategroup",
+    "name": "OmnitureDataFileInputFormat",
+    "full_name": "slategroup/OmnitureDataFileInputFormat",
+    "created_at": "2014-02-20 16:02:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Java"
+  },
+  {
+    "org": "slategroup",
+    "name": "OmnitureTextLoader",
+    "full_name": "slategroup/OmnitureTextLoader",
+    "created_at": "2014-02-20 16:05:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "slategroup",
+    "name": "sailthru-java-client",
+    "full_name": "slategroup/sailthru-java-client",
+    "created_at": "2014-06-17 01:45:14",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "slategroup",
+    "name": "luigi",
+    "full_name": "slategroup/luigi",
+    "created_at": "2015-06-16 23:03:47",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "slategroup",
+    "name": "sidetiq",
+    "full_name": "slategroup/sidetiq",
+    "created_at": "2015-09-15 04:19:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "slategroup",
+    "name": "chromaprint",
+    "full_name": "slategroup/chromaprint",
+    "created_at": "2015-09-18 03:55:17",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "slategroup",
+    "name": "carrierwave",
+    "full_name": "slategroup/carrierwave",
+    "created_at": "2015-11-13 03:39:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "slategroup",
+    "name": "jmeter-ec2",
+    "full_name": "slategroup/jmeter-ec2",
+    "created_at": "2016-02-26 16:39:33",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "slategroup",
+    "name": "heroku-buildpack-mongodump",
+    "full_name": "slategroup/heroku-buildpack-mongodump",
+    "created_at": "2016-03-04 17:27:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 7,
+    "language": "Shell"
+  },
+  {
+    "org": "slategroup",
+    "name": "heroku-buildpack-toolbelt",
+    "full_name": "slategroup/heroku-buildpack-toolbelt",
+    "created_at": "2016-03-19 00:53:44",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Shell"
+  },
+  {
+    "org": "slategroup",
+    "name": "ruby-mp3info",
+    "full_name": "slategroup/ruby-mp3info",
+    "created_at": "2016-04-07 04:22:47",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "slategroup",
+    "name": "analytics.js-core",
+    "full_name": "slategroup/analytics.js-core",
+    "created_at": "2016-06-02 19:55:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "javascript",
+    "full_name": "slategroup/javascript",
+    "created_at": "2016-07-05 17:01:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "css",
+    "full_name": "slategroup/css",
+    "created_at": "2016-07-05 17:01:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "slategroup",
+    "name": "countries",
+    "full_name": "slategroup/countries",
+    "created_at": "2016-08-05 22:28:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "slategroup",
+    "name": "serverless-url-shortener",
+    "full_name": "slategroup/serverless-url-shortener",
+    "created_at": "2016-08-06 19:11:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "slategroup",
+    "name": "html5-crossword-solver",
+    "full_name": "slategroup/html5-crossword-solver",
+    "created_at": "2016-09-01 21:44:51",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "amphora",
+    "full_name": "slategroup/amphora",
+    "created_at": "2016-09-19 20:18:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "videojs-omniture",
+    "full_name": "slategroup/videojs-omniture",
+    "created_at": "2016-09-30 14:39:43",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "slategroup",
+    "name": "olk15RecentAddresses",
+    "full_name": "slategroup/olk15RecentAddresses",
+    "created_at": "2017-03-03 22:07:56",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "slategroup",
+    "name": "clay-kiln",
+    "full_name": "slategroup/clay-kiln",
+    "created_at": "2017-04-05 22:19:51",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "clay-behavior-editor",
+    "full_name": "slategroup/clay-behavior-editor",
+    "created_at": "2017-05-09 18:10:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "jump.ios",
+    "full_name": "slategroup/jump.ios",
+    "created_at": "2017-07-31 15:00:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "slategroup",
+    "name": "analytics.js",
+    "full_name": "slategroup/analytics.js",
+    "created_at": "2017-10-04 13:28:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "amphora-html",
+    "full_name": "slategroup/amphora-html",
+    "created_at": "2017-10-18 22:37:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "analytics.js-integration-amplitude",
+    "full_name": "slategroup/analytics.js-integration-amplitude",
+    "created_at": "2017-11-13 19:26:52",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "health-check",
+    "full_name": "slategroup/health-check",
+    "created_at": "2017-12-05 16:30:47",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "claycli",
+    "full_name": "slategroup/claycli",
+    "created_at": "2017-12-11 19:10:15",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "audiogram",
+    "full_name": "slategroup/audiogram",
+    "created_at": "2018-02-08 19:38:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "clay-reindexer",
+    "full_name": "slategroup/clay-reindexer",
+    "created_at": "2018-03-08 16:03:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "minica",
+    "full_name": "slategroup/minica",
+    "created_at": "2018-04-26 21:07:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "slategroup",
+    "name": "analytics.js-integration-comscore",
+    "full_name": "slategroup/analytics.js-integration-comscore",
+    "created_at": "2018-05-08 19:34:16",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "pytaboola",
+    "full_name": "slategroup/pytaboola",
+    "created_at": "2018-07-20 16:02:52",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "slategroup",
+    "name": "lunchbox",
+    "full_name": "slategroup/lunchbox",
+    "created_at": "2018-09-25 15:02:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "Amplitude-Data-Munging-",
+    "full_name": "slategroup/Amplitude-Data-Munging-",
+    "created_at": "2018-11-20 18:17:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "slategroup",
+    "name": "golem",
+    "full_name": "slategroup/golem",
+    "created_at": "2019-06-24 13:59:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "laravel-big",
+    "full_name": "slategroup/laravel-big",
+    "created_at": "2019-10-16 13:35:57",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "slategroup",
+    "name": "amphora-schedule",
+    "full_name": "slategroup/amphora-schedule",
+    "created_at": "2020-02-18 19:23:10",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "slategroup",
+    "name": "gerrymander-jigsaw-3",
+    "full_name": "slategroup/gerrymander-jigsaw-3",
+    "created_at": "2020-02-25 16:12:05",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "amphora-search",
+    "full_name": "slategroup/amphora-search",
+    "created_at": "2020-03-05 22:32:52",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "slategroup",
+    "name": "amphora-auth",
+    "full_name": "slategroup/amphora-auth",
+    "created_at": "2021-01-04 22:51:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "slategroup",
+    "name": "intl-tel-input",
+    "full_name": "slategroup/intl-tel-input",
+    "created_at": "2021-03-17 00:09:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "slategroup",
+    "name": "onix-parser",
+    "full_name": "slategroup/onix-parser",
+    "created_at": "2021-06-02 16:29:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "slategroup",
+    "name": "onix2js",
+    "full_name": "slategroup/onix2js",
+    "created_at": "2021-06-11 17:12:48",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "Prebid.js-1",
+    "full_name": "slategroup/Prebid.js-1",
+    "created_at": "2021-07-28 20:10:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "slategroup",
+    "name": "talk",
+    "full_name": "slategroup/talk",
+    "created_at": "2021-09-03 16:38:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "slategroup",
+    "name": "diagrams",
+    "full_name": "slategroup/diagrams",
+    "created_at": "2022-01-31 14:37:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

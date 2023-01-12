@@ -1,0 +1,62 @@
+[
+  {
+    "org": "newyorker",
+    "name": "newyorker.github.io",
+    "full_name": "newyorker/newyorker.github.io",
+    "created_at": "2014-02-27 20:18:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "newyorker",
+    "name": "most-popular",
+    "full_name": "newyorker/most-popular",
+    "created_at": "2014-05-02 13:56:59",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "newyorker",
+    "name": "github-sound-notifications",
+    "full_name": "newyorker/github-sound-notifications",
+    "created_at": "2014-12-15 22:55:55",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "newyorker",
+    "name": "photobooth-extension",
+    "full_name": "newyorker/photobooth-extension",
+    "created_at": "2015-03-10 14:21:07",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newyorker",
+    "name": "tny-uturn",
+    "full_name": "newyorker/tny-uturn",
+    "created_at": "2015-09-18 22:11:04",
+    "fork": false,
+    "stargazers_count": 51,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newyorker",
+    "name": "engineering",
+    "full_name": "newyorker/engineering",
+    "created_at": "2015-09-30 18:49:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

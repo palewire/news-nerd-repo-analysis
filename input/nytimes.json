@@ -1,0 +1,952 @@
+[
+  {
+    "org": "nytimes",
+    "name": "tweetftp",
+    "full_name": "nytimes/tweetftp",
+    "created_at": "2010-04-01 15:15:03",
+    "fork": false,
+    "stargazers_count": 19,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "nytimes",
+    "name": "lifeline",
+    "full_name": "nytimes/lifeline",
+    "created_at": "2010-04-12 11:43:30",
+    "fork": false,
+    "stargazers_count": 58,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "nytimes",
+    "name": "document-viewer",
+    "full_name": "nytimes/document-viewer",
+    "created_at": "2010-06-02 01:58:32",
+    "fork": false,
+    "stargazers_count": 309,
+    "forks_count": 169,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "counter",
+    "full_name": "nytimes/counter",
+    "created_at": "2010-07-29 21:16:01",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "nytimes",
+    "name": "sort_by_str",
+    "full_name": "nytimes/sort_by_str",
+    "created_at": "2010-08-24 18:26:38",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "nytimes",
+    "name": "Emphasis",
+    "full_name": "nytimes/Emphasis",
+    "created_at": "2011-01-04 21:13:32",
+    "fork": false,
+    "stargazers_count": 578,
+    "forks_count": 70,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "nytcampfin",
+    "full_name": "nytimes/nytcampfin",
+    "created_at": "2011-02-06 21:54:12",
+    "fork": false,
+    "stargazers_count": 27,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "Fech",
+    "full_name": "nytimes/Fech",
+    "created_at": "2011-08-29 16:46:59",
+    "fork": false,
+    "stargazers_count": 117,
+    "forks_count": 30,
+    "language": "Ruby"
+  },
+  {
+    "org": "nytimes",
+    "name": "times_wire",
+    "full_name": "nytimes/times_wire",
+    "created_at": "2011-12-15 04:15:03",
+    "fork": false,
+    "stargazers_count": 25,
+    "forks_count": 4,
+    "language": "Ruby"
+  },
+  {
+    "org": "nytimes",
+    "name": "ice",
+    "full_name": "nytimes/ice",
+    "created_at": "2011-12-21 20:56:46",
+    "fork": false,
+    "stargazers_count": 1702,
+    "forks_count": 199,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "backbone.stickit",
+    "full_name": "nytimes/backbone.stickit",
+    "created_at": "2012-09-14 01:54:49",
+    "fork": false,
+    "stargazers_count": 1651,
+    "forks_count": 188,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "Open-Source-Science-Fair",
+    "full_name": "nytimes/Open-Source-Science-Fair",
+    "created_at": "2012-09-16 21:13:07",
+    "fork": false,
+    "stargazers_count": 19,
+    "forks_count": 6,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "plumbook",
+    "full_name": "nytimes/plumbook",
+    "created_at": "2012-12-24 01:47:27",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 6,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "safejson",
+    "full_name": "nytimes/safejson",
+    "created_at": "2013-03-01 19:05:01",
+    "fork": false,
+    "stargazers_count": 27,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "svg-crowbar",
+    "full_name": "nytimes/svg-crowbar",
+    "created_at": "2013-03-07 23:58:20",
+    "fork": false,
+    "stargazers_count": 834,
+    "forks_count": 151,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "nytd2013",
+    "full_name": "nytimes/nytd2013",
+    "created_at": "2013-04-30 14:38:57",
+    "fork": true,
+    "stargazers_count": 10,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "s3yum",
+    "full_name": "nytimes/s3yum",
+    "created_at": "2013-07-25 19:21:33",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "objective-c-style-guide",
+    "full_name": "nytimes/objective-c-style-guide",
+    "created_at": "2013-07-31 18:21:46",
+    "fork": false,
+    "stargazers_count": 5785,
+    "forks_count": 1314,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "backbone.trackit",
+    "full_name": "nytimes/backbone.trackit",
+    "created_at": "2013-08-09 15:45:20",
+    "fork": false,
+    "stargazers_count": 201,
+    "forks_count": 32,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "pocket_change",
+    "full_name": "nytimes/pocket_change",
+    "created_at": "2014-03-19 20:24:34",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "kaichu",
+    "full_name": "nytimes/kaichu",
+    "created_at": "2014-03-19 20:25:11",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "pocket",
+    "full_name": "nytimes/pocket",
+    "created_at": "2014-03-19 20:25:51",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "sneeze",
+    "full_name": "nytimes/sneeze",
+    "created_at": "2014-03-19 20:27:28",
+    "fork": false,
+    "stargazers_count": 16,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "pourover",
+    "full_name": "nytimes/pourover",
+    "created_at": "2014-04-15 15:51:06",
+    "fork": false,
+    "stargazers_count": 2405,
+    "forks_count": 130,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "tamper",
+    "full_name": "nytimes/tamper",
+    "created_at": "2014-04-15 16:22:00",
+    "fork": false,
+    "stargazers_count": 501,
+    "forks_count": 32,
+    "language": "Ruby"
+  },
+  {
+    "org": "nytimes",
+    "name": "collectd-rabbitmq",
+    "full_name": "nytimes/collectd-rabbitmq",
+    "created_at": "2014-06-24 16:22:42",
+    "fork": false,
+    "stargazers_count": 141,
+    "forks_count": 80,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "license",
+    "full_name": "nytimes/license",
+    "created_at": "2014-07-11 23:00:25",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "gziphandler",
+    "full_name": "nytimes/gziphandler",
+    "created_at": "2015-01-22 22:43:10",
+    "fork": false,
+    "stargazers_count": 820,
+    "forks_count": 135,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "NYTPhotoViewer",
+    "full_name": "nytimes/NYTPhotoViewer",
+    "created_at": "2015-02-11 11:50:50",
+    "fork": false,
+    "stargazers_count": 2809,
+    "forks_count": 367,
+    "language": "Objective-C"
+  },
+  {
+    "org": "nytimes",
+    "name": "gunsales",
+    "full_name": "nytimes/gunsales",
+    "created_at": "2015-12-10 14:09:00",
+    "fork": false,
+    "stargazers_count": 126,
+    "forks_count": 35,
+    "language": "R"
+  },
+  {
+    "org": "nytimes",
+    "name": "gizmo",
+    "full_name": "nytimes/gizmo",
+    "created_at": "2015-12-15 18:09:36",
+    "fork": false,
+    "stargazers_count": 3681,
+    "forks_count": 236,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "logrotate",
+    "full_name": "nytimes/logrotate",
+    "created_at": "2015-12-15 18:20:09",
+    "fork": false,
+    "stargazers_count": 54,
+    "forks_count": 8,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "sqliface",
+    "full_name": "nytimes/sqliface",
+    "created_at": "2016-01-11 23:20:11",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 2,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "encoding-wrapper",
+    "full_name": "nytimes/encoding-wrapper",
+    "created_at": "2016-01-14 20:07:03",
+    "fork": false,
+    "stargazers_count": 86,
+    "forks_count": 5,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "public_api_specs",
+    "full_name": "nytimes/public_api_specs",
+    "created_at": "2016-01-27 11:51:00",
+    "fork": false,
+    "stargazers_count": 132,
+    "forks_count": 38,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "ingredient-phrase-tagger",
+    "full_name": "nytimes/ingredient-phrase-tagger",
+    "created_at": "2016-02-09 22:15:39",
+    "fork": false,
+    "stargazers_count": 774,
+    "forks_count": 227,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "redux-taxi",
+    "full_name": "nytimes/redux-taxi",
+    "created_at": "2016-02-16 17:41:30",
+    "fork": false,
+    "stargazers_count": 69,
+    "forks_count": 9,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "openapi2proto",
+    "full_name": "nytimes/openapi2proto",
+    "created_at": "2016-04-25 15:30:02",
+    "fork": false,
+    "stargazers_count": 854,
+    "forks_count": 90,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "sugarcli-nyt",
+    "full_name": "nytimes/sugarcli-nyt",
+    "created_at": "2016-06-02 15:19:54",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "nytimes",
+    "name": "kyt",
+    "full_name": "nytimes/kyt",
+    "created_at": "2016-06-03 19:16:26",
+    "fork": false,
+    "stargazers_count": 1904,
+    "forks_count": 133,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "libvmod-queryfilter",
+    "full_name": "nytimes/libvmod-queryfilter",
+    "created_at": "2016-06-10 19:32:13",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 2,
+    "language": "M4"
+  },
+  {
+    "org": "nytimes",
+    "name": "mock-ec2-metadata",
+    "full_name": "nytimes/mock-ec2-metadata",
+    "created_at": "2016-06-21 19:52:40",
+    "fork": false,
+    "stargazers_count": 95,
+    "forks_count": 16,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "ios-360-videos",
+    "full_name": "nytimes/ios-360-videos",
+    "created_at": "2016-07-07 23:36:55",
+    "fork": false,
+    "stargazers_count": 271,
+    "forks_count": 37,
+    "language": "Objective-C"
+  },
+  {
+    "org": "nytimes",
+    "name": "kyt-starter-universal",
+    "full_name": "nytimes/kyt-starter-universal",
+    "created_at": "2016-08-05 00:30:44",
+    "fork": false,
+    "stargazers_count": 33,
+    "forks_count": 6,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "kyt-starter",
+    "full_name": "nytimes/kyt-starter",
+    "created_at": "2016-08-05 19:27:13",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "drone-gke",
+    "full_name": "nytimes/drone-gke",
+    "created_at": "2016-08-23 23:17:17",
+    "fork": false,
+    "stargazers_count": 167,
+    "forks_count": 35,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "drone-gae",
+    "full_name": "nytimes/drone-gae",
+    "created_at": "2016-09-09 15:19:33",
+    "fork": false,
+    "stargazers_count": 98,
+    "forks_count": 26,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "kyt-starter-static",
+    "full_name": "nytimes/kyt-starter-static",
+    "created_at": "2016-10-12 20:40:12",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "Store",
+    "full_name": "nytimes/Store",
+    "created_at": "2016-11-29 20:17:11",
+    "fork": false,
+    "stargazers_count": 3561,
+    "forks_count": 315,
+    "language": "Java"
+  },
+  {
+    "org": "nytimes",
+    "name": "react-tracking",
+    "full_name": "nytimes/react-tracking",
+    "created_at": "2016-12-14 00:50:54",
+    "fork": false,
+    "stargazers_count": 1729,
+    "forks_count": 121,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "elemental-live-client",
+    "full_name": "nytimes/elemental-live-client",
+    "created_at": "2017-02-02 17:20:19",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 8,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "text-balancer",
+    "full_name": "nytimes/text-balancer",
+    "created_at": "2017-02-24 16:24:06",
+    "fork": false,
+    "stargazers_count": 329,
+    "forks_count": 27,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "threeplay",
+    "full_name": "nytimes/threeplay",
+    "created_at": "2017-05-03 17:07:13",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "gcs-helper",
+    "full_name": "nytimes/gcs-helper",
+    "created_at": "2017-05-03 22:01:40",
+    "fork": false,
+    "stargazers_count": 52,
+    "forks_count": 22,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "video-captions-api",
+    "full_name": "nytimes/video-captions-api",
+    "created_at": "2017-05-08 15:43:17",
+    "fork": false,
+    "stargazers_count": 59,
+    "forks_count": 5,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "Register",
+    "full_name": "nytimes/Register",
+    "created_at": "2017-05-09 22:07:46",
+    "fork": false,
+    "stargazers_count": 375,
+    "forks_count": 25,
+    "language": "Kotlin"
+  },
+  {
+    "org": "nytimes",
+    "name": "marvin",
+    "full_name": "nytimes/marvin",
+    "created_at": "2017-07-12 16:08:47",
+    "fork": false,
+    "stargazers_count": 173,
+    "forks_count": 10,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "nginx-vod-module-docker",
+    "full_name": "nytimes/nginx-vod-module-docker",
+    "created_at": "2017-07-13 19:16:07",
+    "fork": false,
+    "stargazers_count": 149,
+    "forks_count": 68,
+    "language": "Dockerfile"
+  },
+  {
+    "org": "nytimes",
+    "name": "thumbor-docker-image",
+    "full_name": "nytimes/thumbor-docker-image",
+    "created_at": "2017-07-26 19:34:19",
+    "fork": false,
+    "stargazers_count": 26,
+    "forks_count": 7,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "mentorship",
+    "full_name": "nytimes/mentorship",
+    "created_at": "2017-08-02 18:50:31",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "drone-gdm",
+    "full_name": "nytimes/drone-gdm",
+    "created_at": "2017-08-08 20:23:40",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 4,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "amara",
+    "full_name": "nytimes/amara",
+    "created_at": "2017-08-21 19:55:47",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "drone-openapi",
+    "full_name": "nytimes/drone-openapi",
+    "created_at": "2017-11-20 20:57:27",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 4,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "gcp-vault",
+    "full_name": "nytimes/gcp-vault",
+    "created_at": "2018-04-23 21:28:55",
+    "fork": false,
+    "stargazers_count": 117,
+    "forks_count": 18,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "Chronicler",
+    "full_name": "nytimes/Chronicler",
+    "created_at": "2018-07-03 15:24:04",
+    "fork": false,
+    "stargazers_count": 158,
+    "forks_count": 23,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "golang-gcloud-sdk",
+    "full_name": "nytimes/golang-gcloud-sdk",
+    "created_at": "2018-12-10 21:51:05",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Dockerfile"
+  },
+  {
+    "org": "nytimes",
+    "name": "library",
+    "full_name": "nytimes/library",
+    "created_at": "2019-03-08 17:15:19",
+    "fork": false,
+    "stargazers_count": 1039,
+    "forks_count": 123,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "library-customization-example",
+    "full_name": "nytimes/library-customization-example",
+    "created_at": "2019-03-08 17:19:12",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 17,
+    "language": "SCSS"
+  },
+  {
+    "org": "nytimes",
+    "name": "httptest",
+    "full_name": "nytimes/httptest",
+    "created_at": "2019-03-20 14:52:15",
+    "fork": false,
+    "stargazers_count": 43,
+    "forks_count": 7,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "vase.elasticsearch",
+    "full_name": "nytimes/vase.elasticsearch",
+    "created_at": "2019-04-18 19:06:44",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 1,
+    "language": "Clojure"
+  },
+  {
+    "org": "nytimes",
+    "name": "data-training",
+    "full_name": "nytimes/data-training",
+    "created_at": "2019-06-21 18:17:16",
+    "fork": false,
+    "stargazers_count": 103,
+    "forks_count": 23,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "vault-fastly-secret-engine",
+    "full_name": "nytimes/vault-fastly-secret-engine",
+    "created_at": "2019-07-23 14:40:47",
+    "fork": false,
+    "stargazers_count": 32,
+    "forks_count": 5,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "photon-dev_demo",
+    "full_name": "nytimes/photon-dev_demo",
+    "created_at": "2019-09-30 02:16:53",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "nytimes",
+    "name": "photon-demo-util",
+    "full_name": "nytimes/photon-demo-util",
+    "created_at": "2019-10-08 12:25:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "photon-common-demo",
+    "full_name": "nytimes/photon-common-demo",
+    "created_at": "2019-10-10 20:34:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "drone-admit-members",
+    "full_name": "nytimes/drone-admit-members",
+    "created_at": "2020-01-09 21:04:44",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "rd-blender-docker",
+    "full_name": "nytimes/rd-blender-docker",
+    "created_at": "2020-01-14 16:45:20",
+    "fork": false,
+    "stargazers_count": 338,
+    "forks_count": 49,
+    "language": "Python"
+  },
+  {
+    "org": "nytimes",
+    "name": "braintree_java",
+    "full_name": "nytimes/braintree_java",
+    "created_at": "2020-03-19 19:36:08",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "covid-19-data",
+    "full_name": "nytimes/covid-19-data",
+    "created_at": "2020-03-24 23:41:39",
+    "fork": false,
+    "stargazers_count": 6919,
+    "forks_count": 3438,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "std-cat",
+    "full_name": "nytimes/std-cat",
+    "created_at": "2020-04-14 19:23:05",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nytimes",
+    "name": "go-compare-expressions",
+    "full_name": "nytimes/go-compare-expressions",
+    "created_at": "2021-02-03 15:29:25",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "terraform-provider-constellix",
+    "full_name": "nytimes/terraform-provider-constellix",
+    "created_at": "2021-02-11 20:58:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "go-pagerduty",
+    "full_name": "nytimes/go-pagerduty",
+    "created_at": "2021-03-02 18:59:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "three-story-controls",
+    "full_name": "nytimes/three-story-controls",
+    "created_at": "2021-06-10 18:13:40",
+    "fork": false,
+    "stargazers_count": 197,
+    "forks_count": 16,
+    "language": "TypeScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "tulsa-1921-data",
+    "full_name": "nytimes/tulsa-1921-data",
+    "created_at": "2021-06-16 14:46:25",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "rd-mobile-pg-demos",
+    "full_name": "nytimes/rd-mobile-pg-demos",
+    "created_at": "2021-06-17 21:01:11",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "nytimes",
+    "name": "three-loader-3dtiles",
+    "full_name": "nytimes/three-loader-3dtiles",
+    "created_at": "2021-06-22 16:31:50",
+    "fork": false,
+    "stargazers_count": 284,
+    "forks_count": 40,
+    "language": "TypeScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "aframe-loader-3dtiles-component",
+    "full_name": "nytimes/aframe-loader-3dtiles-component",
+    "created_at": "2021-10-26 08:12:24",
+    "fork": false,
+    "stargazers_count": 153,
+    "forks_count": 18,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "jsonlogic",
+    "full_name": "nytimes/jsonlogic",
+    "created_at": "2022-01-20 18:43:49",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 1,
+    "language": "Clojure"
+  },
+  {
+    "org": "nytimes",
+    "name": "grocery",
+    "full_name": "nytimes/grocery",
+    "created_at": "2022-02-05 04:52:01",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "nytimes",
+    "name": "haiti-debt",
+    "full_name": "nytimes/haiti-debt",
+    "created_at": "2022-02-22 17:57:10",
+    "fork": false,
+    "stargazers_count": 19,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nytimes",
+    "name": "querqy-clj",
+    "full_name": "nytimes/querqy-clj",
+    "created_at": "2022-03-29 20:06:02",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 1,
+    "language": "Clojure"
+  },
+  {
+    "org": "nytimes",
+    "name": "rd-bundler-3d-plugins",
+    "full_name": "nytimes/rd-bundler-3d-plugins",
+    "created_at": "2022-04-06 16:34:00",
+    "fork": false,
+    "stargazers_count": 59,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "oak-byo-react-prosemirror-redux",
+    "full_name": "nytimes/oak-byo-react-prosemirror-redux",
+    "created_at": "2022-05-04 14:37:15",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nytimes",
+    "name": "open-blog-projects",
+    "full_name": "nytimes/open-blog-projects",
+    "created_at": "2023-01-04 16:47:25",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Swift"
+  }
+]

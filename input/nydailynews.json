@@ -1,0 +1,682 @@
+[
+  {
+    "org": "nydailynews",
+    "name": "poll-maker",
+    "full_name": "nydailynews/poll-maker",
+    "created_at": "2017-01-31 16:45:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "day-care-report",
+    "full_name": "nydailynews/day-care-report",
+    "created_at": "2017-01-31 17:17:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "subway-stop-restaurant-lookup-table",
+    "full_name": "nydailynews/subway-stop-restaurant-lookup-table",
+    "created_at": "2017-01-31 18:17:46",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "oratv-video",
+    "full_name": "nydailynews/oratv-video",
+    "created_at": "2017-02-01 19:53:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "nydailynews.github.io",
+    "full_name": "nydailynews/nydailynews.github.io",
+    "created_at": "2017-02-07 18:42:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "how-many-can-you-name",
+    "full_name": "nydailynews/how-many-can-you-name",
+    "created_at": "2017-02-08 17:36:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "style",
+    "full_name": "nydailynews/style",
+    "created_at": "2017-02-08 22:51:14",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "stat-tracker",
+    "full_name": "nydailynews/stat-tracker",
+    "created_at": "2017-02-09 21:57:16",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "quiz-multiple-choice",
+    "full_name": "nydailynews/quiz-multiple-choice",
+    "created_at": "2017-02-15 16:29:02",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "longform",
+    "full_name": "nydailynews/longform",
+    "created_at": "2017-02-22 20:49:00",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "maps",
+    "full_name": "nydailynews/maps",
+    "created_at": "2017-03-07 21:55:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "what-have-you-done",
+    "full_name": "nydailynews/what-have-you-done",
+    "created_at": "2017-03-20 14:29:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "nydailynews",
+    "name": "keep-em-dump-em",
+    "full_name": "nydailynews/keep-em-dump-em",
+    "created_at": "2017-03-24 17:54:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "vendor-nav",
+    "full_name": "nydailynews/vendor-nav",
+    "created_at": "2017-04-07 18:57:49",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "pulitzers",
+    "full_name": "nydailynews/pulitzers",
+    "created_at": "2017-04-10 19:36:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "rank-these-things",
+    "full_name": "nydailynews/rank-these-things",
+    "created_at": "2017-04-17 15:19:14",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "dashboard",
+    "full_name": "nydailynews/dashboard",
+    "created_at": "2017-04-24 21:57:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "100-days-of-trump",
+    "full_name": "nydailynews/100-days-of-trump",
+    "created_at": "2017-04-25 18:28:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "custom-404",
+    "full_name": "nydailynews/custom-404",
+    "created_at": "2017-05-09 13:24:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "how-often-does-it-happen",
+    "full_name": "nydailynews/how-often-does-it-happen",
+    "created_at": "2017-05-10 16:43:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "starter-flask",
+    "full_name": "nydailynews/starter-flask",
+    "created_at": "2017-05-11 22:03:23",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nydailynews",
+    "name": "write-a-story",
+    "full_name": "nydailynews/write-a-story",
+    "created_at": "2017-05-30 22:10:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "russia-connex",
+    "full_name": "nydailynews/russia-connex",
+    "created_at": "2017-06-20 20:44:35",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "tv-flowchart",
+    "full_name": "nydailynews/tv-flowchart",
+    "created_at": "2017-06-20 20:51:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "aaron-judge-home-runs",
+    "full_name": "nydailynews/aaron-judge-home-runs",
+    "created_at": "2017-06-20 20:52:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "log-rss-to-csv",
+    "full_name": "nydailynews/log-rss-to-csv",
+    "created_at": "2017-06-21 20:57:51",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nydailynews",
+    "name": "interactive-hub",
+    "full_name": "nydailynews/interactive-hub",
+    "created_at": "2017-07-07 14:59:05",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "feedutils",
+    "full_name": "nydailynews/feedutils",
+    "created_at": "2017-07-07 22:25:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "nydailynews",
+    "name": "make-a-little-money",
+    "full_name": "nydailynews/make-a-little-money",
+    "created_at": "2017-07-13 18:40:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "how-many",
+    "full_name": "nydailynews/how-many",
+    "created_at": "2017-07-13 19:31:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "random-name-generator",
+    "full_name": "nydailynews/random-name-generator",
+    "created_at": "2017-07-26 14:43:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "rate-it",
+    "full_name": "nydailynews/rate-it",
+    "created_at": "2017-07-28 19:42:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "that-was-then",
+    "full_name": "nydailynews/that-was-then",
+    "created_at": "2017-08-14 17:58:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "vox-nihili",
+    "full_name": "nydailynews/vox-nihili",
+    "created_at": "2017-08-14 21:23:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "funding-chart",
+    "full_name": "nydailynews/funding-chart",
+    "created_at": "2017-08-17 19:23:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "where-in-the-world",
+    "full_name": "nydailynews/where-in-the-world",
+    "created_at": "2017-08-17 20:31:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "smi",
+    "full_name": "nydailynews/smi",
+    "created_at": "2017-08-18 16:20:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "indexes",
+    "full_name": "nydailynews/indexes",
+    "created_at": "2017-09-08 16:32:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "nyc-statue-map",
+    "full_name": "nydailynews/nyc-statue-map",
+    "created_at": "2017-09-11 20:09:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "to-https",
+    "full_name": "nydailynews/to-https",
+    "created_at": "2017-09-15 19:03:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "vegas-victims",
+    "full_name": "nydailynews/vegas-victims",
+    "created_at": "2017-10-03 14:33:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "interactive-indexes-data-dot-csv",
+    "full_name": "nydailynews/interactive-indexes-data-dot-csv",
+    "created_at": "2017-10-06 19:18:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "nydailynews",
+    "name": "hurricane-sandy-compare",
+    "full_name": "nydailynews/hurricane-sandy-compare",
+    "created_at": "2017-10-27 20:47:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "trump-annotate",
+    "full_name": "nydailynews/trump-annotate",
+    "created_at": "2017-11-08 15:15:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "landing-page",
+    "full_name": "nydailynews/landing-page",
+    "created_at": "2017-11-08 18:27:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "shootings-since-sandy-hook",
+    "full_name": "nydailynews/shootings-since-sandy-hook",
+    "created_at": "2017-11-08 19:00:41",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "make-a-web-map",
+    "full_name": "nydailynews/make-a-web-map",
+    "created_at": "2017-11-14 21:06:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "make-it-rain",
+    "full_name": "nydailynews/make-it-rain",
+    "created_at": "2017-11-15 21:17:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "pick-some-places",
+    "full_name": "nydailynews/pick-some-places",
+    "created_at": "2017-11-21 18:49:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "how-long",
+    "full_name": "nydailynews/how-long",
+    "created_at": "2017-12-15 20:19:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "spending-chart",
+    "full_name": "nydailynews/spending-chart",
+    "created_at": "2017-12-19 15:15:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "extreme-weather",
+    "full_name": "nydailynews/extreme-weather",
+    "created_at": "2018-01-03 16:34:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "superbowl",
+    "full_name": "nydailynews/superbowl",
+    "created_at": "2018-01-29 16:00:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "school-shootings-map-timeline",
+    "full_name": "nydailynews/school-shootings-map-timeline",
+    "created_at": "2018-02-21 16:12:46",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "homeless-311-homeless-census",
+    "full_name": "nydailynews/homeless-311-homeless-census",
+    "created_at": "2018-02-23 14:30:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "mets-misery-index",
+    "full_name": "nydailynews/mets-misery-index",
+    "created_at": "2018-04-03 16:04:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "yankee-derby",
+    "full_name": "nydailynews/yankee-derby",
+    "created_at": "2018-04-05 15:04:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "yankees-injury-tracker",
+    "full_name": "nydailynews/yankees-injury-tracker",
+    "created_at": "2018-04-18 15:58:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nydailynews",
+    "name": "jaden-smith-was-here",
+    "full_name": "nydailynews/jaden-smith-was-here",
+    "created_at": "2018-07-10 22:09:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "nydailynews",
+    "name": "report-card",
+    "full_name": "nydailynews/report-card",
+    "created_at": "2018-07-17 16:44:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "central-park-five-documents",
+    "full_name": "nydailynews/central-park-five-documents",
+    "created_at": "2018-07-20 02:10:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "mlb-overturned-calls",
+    "full_name": "nydailynews/mlb-overturned-calls",
+    "created_at": "2018-07-20 15:46:29",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "nyc-middle-schools-shsat",
+    "full_name": "nydailynews/nyc-middle-schools-shsat",
+    "created_at": "2018-07-21 14:21:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "data",
+    "full_name": "nydailynews/data",
+    "created_at": "2018-07-25 18:54:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "elevator-mta",
+    "full_name": "nydailynews/elevator-mta",
+    "created_at": "2018-07-25 18:56:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "nydailynews",
+    "name": "boundaries",
+    "full_name": "nydailynews/boundaries",
+    "created_at": "2018-07-25 18:59:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nydailynews",
+    "name": "trumponomics",
+    "full_name": "nydailynews/trumponomics",
+    "created_at": "2018-07-25 19:06:51",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "nydailynews",
+    "name": "mta-tracker",
+    "full_name": "nydailynews/mta-tracker",
+    "created_at": "2018-07-25 19:09:50",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  }
+]

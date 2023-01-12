@@ -1,0 +1,2102 @@
+[
+  {
+    "org": "datadesk",
+    "name": "latimes-mappingla-geopy",
+    "full_name": "datadesk/latimes-mappingla-geopy",
+    "created_at": "2009-03-18 19:51:28",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-calculate",
+    "full_name": "datadesk/latimes-calculate",
+    "created_at": "2009-04-24 02:43:07",
+    "fork": false,
+    "stargazers_count": 81,
+    "forks_count": 19,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-mappingla-openlayers",
+    "full_name": "datadesk/latimes-mappingla-openlayers",
+    "created_at": "2010-06-01 05:24:36",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-mappingla-api",
+    "full_name": "datadesk/latimes-mappingla-api",
+    "created_at": "2010-06-03 04:41:38",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-qiklog",
+    "full_name": "datadesk/latimes-qiklog",
+    "created_at": "2010-06-17 02:01:43",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "jquery-shareify",
+    "full_name": "datadesk/jquery-shareify",
+    "created_at": "2010-09-23 01:42:53",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-pluggablemaps-uscounties",
+    "full_name": "datadesk/latimes-pluggablemaps-uscounties",
+    "created_at": "2010-11-21 19:59:59",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-table-stacker",
+    "full_name": "datadesk/latimes-table-stacker",
+    "created_at": "2011-01-01 02:11:04",
+    "fork": false,
+    "stargazers_count": 76,
+    "forks_count": 17,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-appengine-template",
+    "full_name": "datadesk/latimes-appengine-template",
+    "created_at": "2011-01-13 01:18:15",
+    "fork": false,
+    "stargazers_count": 33,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-document-stacker",
+    "full_name": "datadesk/latimes-document-stacker",
+    "created_at": "2011-02-19 22:56:14",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "python-documentcloud",
+    "full_name": "datadesk/python-documentcloud",
+    "created_at": "2011-04-08 18:24:04",
+    "fork": false,
+    "stargazers_count": 63,
+    "forks_count": 29,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-pluggablemaps-lametrorail",
+    "full_name": "datadesk/latimes-pluggablemaps-lametrorail",
+    "created_at": "2011-05-07 21:43:25",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "python-lametro-api",
+    "full_name": "datadesk/python-lametro-api",
+    "created_at": "2011-05-09 05:12:36",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-statestyle",
+    "full_name": "datadesk/latimes-statestyle",
+    "created_at": "2011-07-22 21:08:21",
+    "fork": false,
+    "stargazers_count": 26,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-boundaryservice",
+    "full_name": "datadesk/django-boundaryservice",
+    "created_at": "2011-07-26 17:31:39",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "jquery-geocodify",
+    "full_name": "datadesk/jquery-geocodify",
+    "created_at": "2011-08-01 20:54:37",
+    "fork": false,
+    "stargazers_count": 66,
+    "forks_count": 19,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "geomodel-js",
+    "full_name": "datadesk/geomodel-js",
+    "created_at": "2011-09-13 22:49:21",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "latimes-pluggablemaps-usstates",
+    "full_name": "datadesk/latimes-pluggablemaps-usstates",
+    "created_at": "2011-10-02 22:06:33",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "docsplit",
+    "full_name": "datadesk/docsplit",
+    "created_at": "2011-10-19 16:53:51",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "datadesk",
+    "name": "timemap",
+    "full_name": "datadesk/timemap",
+    "created_at": "2011-11-28 20:13:40",
+    "fork": false,
+    "stargazers_count": 23,
+    "forks_count": 7,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-softhyphen",
+    "full_name": "datadesk/django-softhyphen",
+    "created_at": "2011-11-30 04:40:07",
+    "fork": false,
+    "stargazers_count": 37,
+    "forks_count": 10,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "python-elections",
+    "full_name": "datadesk/python-elections",
+    "created_at": "2011-12-06 19:15:53",
+    "fork": false,
+    "stargazers_count": 175,
+    "forks_count": 47,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "timeline-setter",
+    "full_name": "datadesk/timeline-setter",
+    "created_at": "2012-01-15 22:34:03",
+    "fork": true,
+    "stargazers_count": 6,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "pyplacefinder",
+    "full_name": "datadesk/pyplacefinder",
+    "created_at": "2012-03-18 21:32:04",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-image-generator",
+    "full_name": "datadesk/django-image-generator",
+    "created_at": "2012-05-04 21:57:07",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "copyboy",
+    "full_name": "datadesk/copyboy",
+    "created_at": "2012-10-04 22:47:29",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 5,
+    "language": "CoffeeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "osm-quiet-la",
+    "full_name": "datadesk/osm-quiet-la",
+    "created_at": "2012-11-15 00:57:20",
+    "fork": false,
+    "stargazers_count": 39,
+    "forks_count": 13,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-shp2svg",
+    "full_name": "datadesk/django-shp2svg",
+    "created_at": "2012-11-17 00:09:57",
+    "fork": false,
+    "stargazers_count": 38,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "osm-la-streets",
+    "full_name": "datadesk/osm-la-streets",
+    "created_at": "2013-01-25 17:07:17",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "osm-silent-la",
+    "full_name": "datadesk/osm-silent-la",
+    "created_at": "2013-02-04 23:34:13",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 3,
+    "language": "CartoCSS"
+  },
+  {
+    "org": "datadesk",
+    "name": "panda",
+    "full_name": "datadesk/panda",
+    "created_at": "2013-02-15 17:41:50",
+    "fork": true,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "lat-soundsystem",
+    "full_name": "datadesk/lat-soundsystem",
+    "created_at": "2013-03-11 20:18:46",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "boundaries.latimes.com",
+    "full_name": "datadesk/boundaries.latimes.com",
+    "created_at": "2013-03-19 01:45:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "tilemill-staticmaps",
+    "full_name": "datadesk/tilemill-staticmaps",
+    "created_at": "2013-04-30 22:22:01",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "binify",
+    "full_name": "datadesk/binify",
+    "created_at": "2013-05-03 18:44:45",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "lametro-maps",
+    "full_name": "datadesk/lametro-maps",
+    "created_at": "2013-07-08 05:47:35",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 7,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "uptime-grove",
+    "full_name": "datadesk/uptime-grove",
+    "created_at": "2013-07-31 04:59:56",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "la-county-trail-maps",
+    "full_name": "datadesk/la-county-trail-maps",
+    "created_at": "2013-09-27 04:16:39",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "checkbook-la-watchdog",
+    "full_name": "datadesk/checkbook-la-watchdog",
+    "created_at": "2013-11-11 23:19:46",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "jquery-scroll-slideshow",
+    "full_name": "datadesk/jquery-scroll-slideshow",
+    "created_at": "2013-11-13 00:03:16",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "geojson.io",
+    "full_name": "datadesk/geojson.io",
+    "created_at": "2014-02-07 23:16:57",
+    "fork": true,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "leaflet-image",
+    "full_name": "datadesk/leaflet-image",
+    "created_at": "2014-02-11 19:11:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "hubot-irc",
+    "full_name": "datadesk/hubot-irc",
+    "created_at": "2014-03-18 22:08:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CoffeeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "p2p-python",
+    "full_name": "datadesk/p2p-python",
+    "created_at": "2014-07-21 18:44:18",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "openaddresses",
+    "full_name": "datadesk/openaddresses",
+    "created_at": "2014-11-20 06:26:41",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-orange_county-situs_parcels-shp",
+    "full_name": "datadesk/us-ca-orange_county-situs_parcels-shp",
+    "created_at": "2014-11-20 19:39:38",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-santa_clara_county-gis-shp",
+    "full_name": "datadesk/us-ca-santa_clara_county-gis-shp",
+    "created_at": "2014-11-24 18:46:58",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-shasta_county-ShastaCountySitusPoints-shp",
+    "full_name": "datadesk/us-ca-shasta_county-ShastaCountySitusPoints-shp",
+    "created_at": "2014-12-02 01:07:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-butte_county-addresses_parcels_roads-shp",
+    "full_name": "datadesk/us-ca-butte_county-addresses_parcels_roads-shp",
+    "created_at": "2014-12-02 22:49:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-santa_cruz_county-PointAddress_SC-shp",
+    "full_name": "datadesk/us-ca-santa_cruz_county-PointAddress_SC-shp",
+    "created_at": "2014-12-02 23:01:59",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-yuba_county-AddressPoints-shp",
+    "full_name": "datadesk/us-ca-yuba_county-AddressPoints-shp",
+    "created_at": "2014-12-03 20:39:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-el_dorado_county-currprcl-shp",
+    "full_name": "datadesk/us-ca-el_dorado_county-currprcl-shp",
+    "created_at": "2014-12-03 22:56:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-lake_county-situs_parcels-shp",
+    "full_name": "datadesk/us-ca-lake_county-situs_parcels-shp",
+    "created_at": "2014-12-13 17:28:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-sonoma-county-sc_base_adr_addresses-shp",
+    "full_name": "datadesk/us-ca-sonoma-county-sc_base_adr_addresses-shp",
+    "created_at": "2014-12-13 17:58:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-san_joaquin_county-situs_parcels-shp",
+    "full_name": "datadesk/us-ca-san_joaquin_county-situs_parcels-shp",
+    "created_at": "2014-12-30 01:46:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-lassen_county-situs_parcels-shp",
+    "full_name": "datadesk/us-ca-lassen_county-situs_parcels-shp",
+    "created_at": "2015-01-02 19:33:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "print-map-maker",
+    "full_name": "datadesk/print-map-maker",
+    "created_at": "2015-01-02 19:59:34",
+    "fork": false,
+    "stargazers_count": 58,
+    "forks_count": 24,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "us-ca-madera_county-situs-shp",
+    "full_name": "datadesk/us-ca-madera_county-situs-shp",
+    "created_at": "2015-01-06 20:19:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "web-map-maker",
+    "full_name": "datadesk/web-map-maker",
+    "created_at": "2015-01-16 17:26:47",
+    "fork": false,
+    "stargazers_count": 95,
+    "forks_count": 29,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-for-data-analysis-nicar-2016",
+    "full_name": "datadesk/django-for-data-analysis-nicar-2016",
+    "created_at": "2015-01-29 01:48:32",
+    "fork": false,
+    "stargazers_count": 103,
+    "forks_count": 31,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "lausd-school-campus-polygons",
+    "full_name": "datadesk/lausd-school-campus-polygons",
+    "created_at": "2015-02-03 01:27:46",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "django-la-city-campaign-finance",
+    "full_name": "datadesk/django-la-city-campaign-finance",
+    "created_at": "2015-04-10 22:20:32",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-project-template",
+    "full_name": "datadesk/django-project-template",
+    "created_at": "2015-06-10 20:58:09",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 9,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-fec-raw-data",
+    "full_name": "datadesk/django-fec-raw-data",
+    "created_at": "2015-08-14 21:58:48",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "autotune",
+    "full_name": "datadesk/autotune",
+    "created_at": "2015-09-15 19:36:15",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "meme",
+    "full_name": "datadesk/meme",
+    "created_at": "2015-09-15 23:40:34",
+    "fork": true,
+    "stargazers_count": 7,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "ona15eats.latimes.com",
+    "full_name": "datadesk/ona15eats.latimes.com",
+    "created_at": "2015-09-22 18:21:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "lapd-crime-classification-analysis",
+    "full_name": "datadesk/lapd-crime-classification-analysis",
+    "created_at": "2015-10-14 23:07:10",
+    "fork": false,
+    "stargazers_count": 59,
+    "forks_count": 9,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-house-members",
+    "full_name": "datadesk/california-house-members",
+    "created_at": "2015-11-05 21:57:21",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "elex",
+    "full_name": "datadesk/elex",
+    "created_at": "2016-02-03 06:20:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "agate",
+    "full_name": "datadesk/agate",
+    "created_at": "2016-02-09 20:25:14",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "vr-interactives-three-js",
+    "full_name": "datadesk/vr-interactives-three-js",
+    "created_at": "2016-02-21 20:11:12",
+    "fork": false,
+    "stargazers_count": 164,
+    "forks_count": 34,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "lookup",
+    "full_name": "datadesk/lookup",
+    "created_at": "2016-02-28 22:20:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "Chartbuilder",
+    "full_name": "datadesk/Chartbuilder",
+    "created_at": "2016-03-23 21:43:55",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "chart-tool",
+    "full_name": "datadesk/chart-tool",
+    "created_at": "2016-04-12 01:40:47",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "kobe-every-shot-ever",
+    "full_name": "datadesk/kobe-every-shot-ever",
+    "created_at": "2016-04-18 19:51:44",
+    "fork": false,
+    "stargazers_count": 66,
+    "forks_count": 12,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "python-frontmatter",
+    "full_name": "datadesk/python-frontmatter",
+    "created_at": "2016-04-25 04:52:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "python-desknet",
+    "full_name": "datadesk/python-desknet",
+    "created_at": "2016-04-26 00:11:52",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "saveSvgAsPng",
+    "full_name": "datadesk/saveSvgAsPng",
+    "created_at": "2016-05-04 20:20:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "la-county-2016-primary-precinct-maps",
+    "full_name": "datadesk/la-county-2016-primary-precinct-maps",
+    "created_at": "2016-06-11 18:55:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "la-vacant-building-complaints-analysis",
+    "full_name": "datadesk/la-vacant-building-complaints-analysis",
+    "created_at": "2016-06-15 20:39:17",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-bigbuild",
+    "full_name": "datadesk/django-bigbuild",
+    "created_at": "2016-07-18 19:14:44",
+    "fork": false,
+    "stargazers_count": 25,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "santa-clara-and-alameda-2016-primary-precinct-maps",
+    "full_name": "datadesk/santa-clara-and-alameda-2016-primary-precinct-maps",
+    "created_at": "2016-08-04 18:10:45",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "overpass-turbo-tutorial",
+    "full_name": "datadesk/overpass-turbo-tutorial",
+    "created_at": "2016-08-22 23:25:15",
+    "fork": false,
+    "stargazers_count": 28,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "la-magnets-2016-test-scores",
+    "full_name": "datadesk/la-magnets-2016-test-scores",
+    "created_at": "2016-09-08 14:49:43",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "california-2016-election-precinct-maps",
+    "full_name": "datadesk/california-2016-election-precinct-maps",
+    "created_at": "2016-09-21 21:20:04",
+    "fork": false,
+    "stargazers_count": 83,
+    "forks_count": 26,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-ccscore-analysis",
+    "full_name": "datadesk/california-ccscore-analysis",
+    "created_at": "2016-10-30 21:22:03",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 5,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "bing-geocodify",
+    "full_name": "datadesk/bing-geocodify",
+    "created_at": "2016-11-21 21:12:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "slack_auth_proxy",
+    "full_name": "datadesk/slack_auth_proxy",
+    "created_at": "2016-11-23 19:12:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-electricity-capacity-analysis",
+    "full_name": "datadesk/california-electricity-capacity-analysis",
+    "created_at": "2017-02-08 02:20:23",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 19,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-crop-production-wages-analysis",
+    "full_name": "datadesk/california-crop-production-wages-analysis",
+    "created_at": "2017-03-17 17:55:36",
+    "fork": false,
+    "stargazers_count": 42,
+    "forks_count": 9,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-h2a-visas-analysis",
+    "full_name": "datadesk/california-h2a-visas-analysis",
+    "created_at": "2017-03-28 02:20:32",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "construction-jobs-analysis",
+    "full_name": "datadesk/construction-jobs-analysis",
+    "created_at": "2017-04-07 01:08:39",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "geopandas-spatial-join-example",
+    "full_name": "datadesk/geopandas-spatial-join-example",
+    "created_at": "2017-05-05 21:08:03",
+    "fork": false,
+    "stargazers_count": 21,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "congress-headshots",
+    "full_name": "datadesk/congress-headshots",
+    "created_at": "2017-05-22 17:31:02",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "congress-districts-lambda",
+    "full_name": "datadesk/congress-districts-lambda",
+    "created_at": "2017-05-23 23:19:40",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "slack-buttons-example",
+    "full_name": "datadesk/slack-buttons-example",
+    "created_at": "2017-06-07 00:35:15",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "slackdown",
+    "full_name": "datadesk/slackdown",
+    "created_at": "2017-06-30 18:53:41",
+    "fork": false,
+    "stargazers_count": 26,
+    "forks_count": 7,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "geopandas-intersection-area-example",
+    "full_name": "datadesk/geopandas-intersection-area-example",
+    "created_at": "2017-07-07 15:39:29",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-livereload-server",
+    "full_name": "datadesk/django-livereload-server",
+    "created_at": "2017-07-07 18:51:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "python-censusbatchgeocoder-examples",
+    "full_name": "datadesk/python-censusbatchgeocoder-examples",
+    "created_at": "2017-07-15 21:14:32",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-kindergarten-vaccination-analysis",
+    "full_name": "datadesk/california-kindergarten-vaccination-analysis",
+    "created_at": "2017-08-15 00:56:44",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "ferc-enforcement-analysis",
+    "full_name": "datadesk/ferc-enforcement-analysis",
+    "created_at": "2017-09-19 01:26:28",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "homeless-arrests-analysis",
+    "full_name": "datadesk/homeless-arrests-analysis",
+    "created_at": "2017-10-03 15:42:57",
+    "fork": false,
+    "stargazers_count": 54,
+    "forks_count": 8,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "houston-flood-zone-analysis",
+    "full_name": "datadesk/houston-flood-zone-analysis",
+    "created_at": "2017-11-08 00:07:10",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 6,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "django-haystack",
+    "full_name": "datadesk/django-haystack",
+    "created_at": "2017-12-01 19:41:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "pandas-squarify-example",
+    "full_name": "datadesk/pandas-squarify-example",
+    "created_at": "2017-12-09 00:06:20",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "audiogram",
+    "full_name": "datadesk/audiogram",
+    "created_at": "2017-12-15 22:24:15",
+    "fork": true,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "street-racing-analysis",
+    "full_name": "datadesk/street-racing-analysis",
+    "created_at": "2017-12-21 23:52:32",
+    "fork": false,
+    "stargazers_count": 21,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "colorbrewer",
+    "full_name": "datadesk/colorbrewer",
+    "created_at": "2018-02-02 00:05:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "python-road-clipping-example",
+    "full_name": "datadesk/python-road-clipping-example",
+    "created_at": "2018-03-19 18:37:07",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "census",
+    "full_name": "datadesk/census",
+    "created_at": "2018-03-19 22:15:33",
+    "fork": true,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "vega-datasets",
+    "full_name": "datadesk/vega-datasets",
+    "created_at": "2018-03-21 18:36:44",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "ffs",
+    "full_name": "datadesk/ffs",
+    "created_at": "2018-03-23 17:33:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "pyBNS",
+    "full_name": "datadesk/pyBNS",
+    "created_at": "2018-03-30 21:44:19",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "altair-examples",
+    "full_name": "datadesk/altair-examples",
+    "created_at": "2018-04-20 21:18:31",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "cfpb-complaints-database",
+    "full_name": "datadesk/cfpb-complaints-database",
+    "created_at": "2018-04-25 17:20:43",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "california-k12-notebooks",
+    "full_name": "datadesk/california-k12-notebooks",
+    "created_at": "2018-04-28 21:59:00",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "la-settlements-analysis",
+    "full_name": "datadesk/la-settlements-analysis",
+    "created_at": "2018-05-03 23:20:46",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "vega_datasets",
+    "full_name": "datadesk/vega_datasets",
+    "created_at": "2018-05-08 16:24:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "proj4js",
+    "full_name": "datadesk/proj4js",
+    "created_at": "2018-05-09 19:28:04",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "altair-area-examples",
+    "full_name": "datadesk/altair-area-examples",
+    "created_at": "2018-05-16 16:24:35",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 4,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "altair-interactive-scatterplot-example",
+    "full_name": "datadesk/altair-interactive-scatterplot-example",
+    "created_at": "2018-05-17 16:50:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "altair-column-sort-example",
+    "full_name": "datadesk/altair-column-sort-example",
+    "created_at": "2018-05-21 19:14:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "heroku-buildpack-multi",
+    "full_name": "datadesk/heroku-buildpack-multi",
+    "created_at": "2018-05-30 05:58:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "datadesk",
+    "name": "driveshaft",
+    "full_name": "datadesk/driveshaft",
+    "created_at": "2018-05-30 06:14:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-2018-primary-election-results",
+    "full_name": "datadesk/california-2018-primary-election-results",
+    "created_at": "2018-06-06 22:44:57",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "html-snippet-generator",
+    "full_name": "datadesk/html-snippet-generator",
+    "created_at": "2018-06-10 00:00:39",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "Family-Feud",
+    "full_name": "datadesk/Family-Feud",
+    "created_at": "2018-06-22 20:36:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "nyrb-covers-analysis",
+    "full_name": "datadesk/nyrb-covers-analysis",
+    "created_at": "2018-07-24 23:11:21",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "hollister-ranch-analysis",
+    "full_name": "datadesk/hollister-ranch-analysis",
+    "created_at": "2018-10-11 23:49:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "notebooks",
+    "full_name": "datadesk/notebooks",
+    "created_at": "2018-10-20 18:22:56",
+    "fork": false,
+    "stargazers_count": 475,
+    "forks_count": 35,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "la-election-night",
+    "full_name": "datadesk/la-election-night",
+    "created_at": "2018-10-22 20:12:38",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "la-county-election-precincts-2018",
+    "full_name": "datadesk/la-county-election-precincts-2018",
+    "created_at": "2018-10-30 15:58:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "helicopter-accident-analysis",
+    "full_name": "datadesk/helicopter-accident-analysis",
+    "created_at": "2018-11-17 20:18:41",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-fire-zone-analysis",
+    "full_name": "datadesk/california-fire-zone-analysis",
+    "created_at": "2018-11-21 20:37:52",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 7,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "san-francisco-campaign-contributions",
+    "full_name": "datadesk/san-francisco-campaign-contributions",
+    "created_at": "2018-12-12 05:52:13",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Shell"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-business-entities",
+    "full_name": "datadesk/california-business-entities",
+    "created_at": "2018-12-12 06:18:25",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 6,
+    "language": "Shell"
+  },
+  {
+    "org": "datadesk",
+    "name": "san-francisco-property-tax-rolls",
+    "full_name": "datadesk/san-francisco-property-tax-rolls",
+    "created_at": "2018-12-12 06:33:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Shell"
+  },
+  {
+    "org": "datadesk",
+    "name": "tutorials",
+    "full_name": "datadesk/tutorials",
+    "created_at": "2018-12-22 19:03:59",
+    "fork": false,
+    "stargazers_count": 61,
+    "forks_count": 10,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "tijuana-districts-map",
+    "full_name": "datadesk/tijuana-districts-map",
+    "created_at": "2019-01-17 01:33:19",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "vega-themes",
+    "full_name": "datadesk/vega-themes",
+    "created_at": "2019-02-07 00:42:40",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "deleon-district-election-results-analysis",
+    "full_name": "datadesk/deleon-district-election-results-analysis",
+    "created_at": "2019-02-12 14:54:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "d3-scale-chromatic",
+    "full_name": "datadesk/d3-scale-chromatic",
+    "created_at": "2019-02-23 23:13:28",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "altair-latimes",
+    "full_name": "datadesk/altair-latimes",
+    "created_at": "2019-02-24 00:51:23",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "responsive-fullscreen-header-example",
+    "full_name": "datadesk/responsive-fullscreen-header-example",
+    "created_at": "2019-02-26 16:15:47",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "highschool-homicide-analysis",
+    "full_name": "datadesk/highschool-homicide-analysis",
+    "created_at": "2019-02-27 03:05:24",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "nyt-fec",
+    "full_name": "datadesk/nyt-fec",
+    "created_at": "2019-03-11 23:15:01",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "swana-census-analysis",
+    "full_name": "datadesk/swana-census-analysis",
+    "created_at": "2019-03-25 22:46:11",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "census-map-consolidator",
+    "full_name": "datadesk/census-map-consolidator",
+    "created_at": "2019-03-27 15:02:14",
+    "fork": false,
+    "stargazers_count": 31,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "census-data-downloader",
+    "full_name": "datadesk/census-data-downloader",
+    "created_at": "2019-03-31 22:48:45",
+    "fork": false,
+    "stargazers_count": 182,
+    "forks_count": 29,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "travispy",
+    "full_name": "datadesk/travispy",
+    "created_at": "2019-04-08 19:37:33",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "ripa-analysis",
+    "full_name": "datadesk/ripa-analysis",
+    "created_at": "2019-04-18 20:46:06",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "census-hard-to-map-analysis",
+    "full_name": "datadesk/census-hard-to-map-analysis",
+    "created_at": "2019-04-23 23:19:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "hsr-document-analysis",
+    "full_name": "datadesk/hsr-document-analysis",
+    "created_at": "2019-04-27 14:44:31",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "native-american-census-analysis",
+    "full_name": "datadesk/native-american-census-analysis",
+    "created_at": "2019-05-03 20:52:00",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 4,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "la-weedmaps-analysis",
+    "full_name": "datadesk/la-weedmaps-analysis",
+    "created_at": "2019-05-29 02:06:12",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "prettier-config",
+    "full_name": "datadesk/prettier-config",
+    "created_at": "2019-06-05 18:30:56",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "altair-election-maps-example",
+    "full_name": "datadesk/altair-election-maps-example",
+    "created_at": "2019-06-08 20:00:51",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "census-error-analyzer",
+    "full_name": "datadesk/census-error-analyzer",
+    "created_at": "2019-06-20 14:55:37",
+    "fork": false,
+    "stargazers_count": 16,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "census-data-aggregator",
+    "full_name": "datadesk/census-data-aggregator",
+    "created_at": "2019-06-21 14:53:20",
+    "fork": false,
+    "stargazers_count": 39,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "nasa-wildfires",
+    "full_name": "datadesk/nasa-wildfires",
+    "created_at": "2019-06-24 21:15:22",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "nifc-wildfires",
+    "full_name": "datadesk/nifc-wildfires",
+    "created_at": "2019-06-25 00:24:49",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "baker",
+    "full_name": "datadesk/baker",
+    "created_at": "2019-06-26 23:27:33",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "noaa-wildfires",
+    "full_name": "datadesk/noaa-wildfires",
+    "created_at": "2019-06-28 04:42:52",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "calfire-wildfires",
+    "full_name": "datadesk/calfire-wildfires",
+    "created_at": "2019-06-29 19:40:58",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "air-quality-index",
+    "full_name": "datadesk/air-quality-index",
+    "created_at": "2019-07-01 23:10:32",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "census-map-downloader",
+    "full_name": "datadesk/census-map-downloader",
+    "created_at": "2019-07-06 00:15:20",
+    "fork": false,
+    "stargazers_count": 31,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "delivery",
+    "full_name": "datadesk/delivery",
+    "created_at": "2019-07-31 01:27:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "capture-website",
+    "full_name": "datadesk/capture-website",
+    "created_at": "2019-08-15 00:22:07",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "homeless-sleeping-restrictions",
+    "full_name": "datadesk/homeless-sleeping-restrictions",
+    "created_at": "2019-09-07 03:17:10",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "women-homicides-analysis",
+    "full_name": "datadesk/women-homicides-analysis",
+    "created_at": "2019-09-19 01:45:03",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "inciweb-wildfires",
+    "full_name": "datadesk/inciweb-wildfires",
+    "created_at": "2019-10-04 17:58:31",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "nws-wwa",
+    "full_name": "datadesk/nws-wwa",
+    "created_at": "2019-10-27 16:12:31",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "deadspin-scraper",
+    "full_name": "datadesk/deadspin-scraper",
+    "created_at": "2019-11-01 19:31:01",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "wine-country-fires",
+    "full_name": "datadesk/wine-country-fires",
+    "created_at": "2019-11-07 19:39:38",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "library",
+    "full_name": "datadesk/library",
+    "created_at": "2019-11-11 05:24:19",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "library-customization",
+    "full_name": "datadesk/library-customization",
+    "created_at": "2019-11-11 05:51:33",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "geoip2",
+    "full_name": "datadesk/geoip2",
+    "created_at": "2019-11-11 21:25:36",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "wru",
+    "full_name": "datadesk/wru",
+    "created_at": "2020-01-01 22:32:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "star-wars-analysis",
+    "full_name": "datadesk/star-wars-analysis",
+    "created_at": "2020-01-28 20:30:49",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "la-county-language-analysis",
+    "full_name": "datadesk/la-county-language-analysis",
+    "created_at": "2020-02-21 23:55:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "coronavirus-flight-tracking",
+    "full_name": "datadesk/coronavirus-flight-tracking",
+    "created_at": "2020-03-24 02:35:53",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-coronavirus-data",
+    "full_name": "datadesk/california-coronavirus-data",
+    "created_at": "2020-03-24 06:15:32",
+    "fork": false,
+    "stargazers_count": 209,
+    "forks_count": 137,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "us-atlas",
+    "full_name": "datadesk/us-atlas",
+    "created_at": "2020-03-29 19:38:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "california-topojson-atlas",
+    "full_name": "datadesk/california-topojson-atlas",
+    "created_at": "2020-05-02 17:51:34",
+    "fork": false,
+    "stargazers_count": 15,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "datadesk",
+    "name": "ipython",
+    "full_name": "datadesk/ipython",
+    "created_at": "2020-05-09 14:44:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "los-angeles-police-killings-data",
+    "full_name": "datadesk/los-angeles-police-killings-data",
+    "created_at": "2020-06-09 05:15:42",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 6,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "delivery-deploy-action",
+    "full_name": "datadesk/delivery-deploy-action",
+    "created_at": "2020-08-03 18:57:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "create-deployment",
+    "full_name": "datadesk/create-deployment",
+    "created_at": "2020-08-07 20:07:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "update-deployment-status",
+    "full_name": "datadesk/update-deployment-status",
+    "created_at": "2020-08-07 22:21:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "notify-slack-on-build",
+    "full_name": "datadesk/notify-slack-on-build",
+    "created_at": "2020-08-19 04:03:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "datadesk",
+    "name": "calfire-redbooks",
+    "full_name": "datadesk/calfire-redbooks",
+    "created_at": "2020-09-06 20:11:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "la-county-election-precincts-2020",
+    "full_name": "datadesk/la-county-election-precincts-2020",
+    "created_at": "2020-12-02 03:45:53",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Makefile"
+  },
+  {
+    "org": "datadesk",
+    "name": "los-angeles-census-languages-data",
+    "full_name": "datadesk/los-angeles-census-languages-data",
+    "created_at": "2020-12-23 03:19:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-coronavirus-scrapers",
+    "full_name": "datadesk/california-coronavirus-scrapers",
+    "created_at": "2021-02-18 19:25:32",
+    "fork": false,
+    "stargazers_count": 51,
+    "forks_count": 5,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "los-angeles-county-tsunami-hazard-areas",
+    "full_name": "datadesk/los-angeles-county-tsunami-hazard-areas",
+    "created_at": "2021-03-22 14:48:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "zips2hoods",
+    "full_name": "datadesk/zips2hoods",
+    "created_at": "2021-04-01 20:33:19",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "LAUSD-2020-grades",
+    "full_name": "datadesk/LAUSD-2020-grades",
+    "created_at": "2021-08-25 01:02:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "mapping-la-data",
+    "full_name": "datadesk/mapping-la-data",
+    "created_at": "2021-10-05 18:45:06",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "extreme-heat-excess-deaths-analysis",
+    "full_name": "datadesk/extreme-heat-excess-deaths-analysis",
+    "created_at": "2021-10-06 19:15:59",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "kamala-harris-schedules",
+    "full_name": "datadesk/kamala-harris-schedules",
+    "created_at": "2021-10-14 10:40:07",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "datadesk",
+    "name": "baker-example-page-template",
+    "full_name": "datadesk/baker-example-page-template",
+    "created_at": "2021-11-01 18:58:18",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 2,
+    "language": "SCSS"
+  },
+  {
+    "org": "datadesk",
+    "name": "groundwater-analysis",
+    "full_name": "datadesk/groundwater-analysis",
+    "created_at": "2021-12-09 19:42:38",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "ukraine-refugee-tracker",
+    "full_name": "datadesk/ukraine-refugee-tracker",
+    "created_at": "2022-03-04 22:02:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "california-drought-scrapers",
+    "full_name": "datadesk/california-drought-scrapers",
+    "created_at": "2022-05-19 17:56:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "geojson-scraper",
+    "full_name": "datadesk/geojson-scraper",
+    "created_at": "2022-06-21 17:34:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "datadesk",
+    "name": "monkeypox-data",
+    "full_name": "datadesk/monkeypox-data",
+    "created_at": "2022-08-01 23:03:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "burn-index-analysis",
+    "full_name": "datadesk/burn-index-analysis",
+    "created_at": "2022-08-09 00:40:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datadesk",
+    "name": "dwr-well-susceptibility",
+    "full_name": "datadesk/dwr-well-susceptibility",
+    "created_at": "2022-12-06 16:11:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  }
+]

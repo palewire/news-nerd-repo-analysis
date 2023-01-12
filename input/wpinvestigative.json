@@ -1,0 +1,242 @@
+[
+  {
+    "org": "wpinvestigative",
+    "name": "kushner_eb5_census",
+    "full_name": "wpinvestigative/kushner_eb5_census",
+    "created_at": "2017-05-30 22:16:46",
+    "fork": false,
+    "stargazers_count": 49,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "fema_claims",
+    "full_name": "wpinvestigative/fema_claims",
+    "created_at": "2017-08-29 22:02:53",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "federal_employees_trump_2017",
+    "full_name": "wpinvestigative/federal_employees_trump_2017",
+    "created_at": "2017-12-30 21:59:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "immigrant_visas",
+    "full_name": "wpinvestigative/immigrant_visas",
+    "created_at": "2018-06-22 22:10:52",
+    "fork": false,
+    "stargazers_count": 16,
+    "forks_count": 1,
+    "language": "R"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "global_terrorism_database_analysis",
+    "full_name": "wpinvestigative/global_terrorism_database_analysis",
+    "created_at": "2018-11-26 17:32:04",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "the-littlest-jupyterhub",
+    "full_name": "wpinvestigative/the-littlest-jupyterhub",
+    "created_at": "2019-07-31 21:12:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "arcos-api",
+    "full_name": "wpinvestigative/arcos-api",
+    "created_at": "2019-08-16 16:30:24",
+    "fork": false,
+    "stargazers_count": 25,
+    "forks_count": 21,
+    "language": "R"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "arcos",
+    "full_name": "wpinvestigative/arcos",
+    "created_at": "2019-08-16 16:41:20",
+    "fork": false,
+    "stargazers_count": 27,
+    "forks_count": 17,
+    "language": "R"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "nursing_homes_covid19",
+    "full_name": "wpinvestigative/nursing_homes_covid19",
+    "created_at": "2020-04-27 18:44:33",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "ppp_loans",
+    "full_name": "wpinvestigative/ppp_loans",
+    "created_at": "2020-04-30 21:03:39",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "email2pdf",
+    "full_name": "wpinvestigative/email2pdf",
+    "created_at": "2020-05-26 19:54:18",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "excess_deaths_covid19",
+    "full_name": "wpinvestigative/excess_deaths_covid19",
+    "created_at": "2020-05-30 07:29:19",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "helicopters_dc",
+    "full_name": "wpinvestigative/helicopters_dc",
+    "created_at": "2020-06-23 14:08:36",
+    "fork": false,
+    "stargazers_count": 22,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "covid19_bars_restaurants",
+    "full_name": "wpinvestigative/covid19_bars_restaurants",
+    "created_at": "2020-09-14 03:37:59",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "us_capitol_police_reports",
+    "full_name": "wpinvestigative/us_capitol_police_reports",
+    "created_at": "2021-01-08 23:27:58",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "unaccompanied_minors",
+    "full_name": "wpinvestigative/unaccompanied_minors",
+    "created_at": "2021-03-09 15:20:07",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "wpdata",
+    "full_name": "wpinvestigative/wpdata",
+    "created_at": "2021-03-12 17:33:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "csis_domestic_terrorism",
+    "full_name": "wpinvestigative/csis_domestic_terrorism",
+    "created_at": "2021-04-12 03:07:18",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 9,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "baseball_spin",
+    "full_name": "wpinvestigative/baseball_spin",
+    "created_at": "2021-07-02 22:12:28",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "trump-voter-stimulus-model",
+    "full_name": "wpinvestigative/trump-voter-stimulus-model",
+    "created_at": "2021-07-06 16:23:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "fema_ihp_denials",
+    "full_name": "wpinvestigative/fema_ihp_denials",
+    "created_at": "2021-07-09 18:21:01",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "sheriffs_287g",
+    "full_name": "wpinvestigative/sheriffs_287g",
+    "created_at": "2021-11-05 20:10:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "fema_hazard_mitigation_2021",
+    "full_name": "wpinvestigative/fema_hazard_mitigation_2021",
+    "created_at": "2021-11-10 21:54:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "wpinvestigative",
+    "name": "fatal_force_unreported",
+    "full_name": "wpinvestigative/fatal_force_unreported",
+    "created_at": "2022-12-05 23:47:00",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "org": "icij",
+    "name": "node-tika",
+    "full_name": "ICIJ/node-tika",
+    "created_at": "2013-12-06 02:59:12",
+    "fork": false,
+    "stargazers_count": 135,
+    "forks_count": 34,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "artoo-interpol",
+    "full_name": "ICIJ/artoo-interpol",
+    "created_at": "2014-12-03 15:22:40",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "extract",
+    "full_name": "ICIJ/extract",
+    "created_at": "2015-05-07 16:24:57",
+    "fork": false,
+    "stargazers_count": 217,
+    "forks_count": 28,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare",
+    "full_name": "ICIJ/datashare",
+    "created_at": "2016-04-20 07:52:07",
+    "fork": false,
+    "stargazers_count": 451,
+    "forks_count": 45,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "qdir",
+    "full_name": "ICIJ/qdir",
+    "created_at": "2016-11-14 09:10:26",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "C"
+  },
+  {
+    "org": "icij",
+    "name": "kaxxa",
+    "full_name": "ICIJ/kaxxa",
+    "created_at": "2017-02-05 18:53:31",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-client",
+    "full_name": "ICIJ/datashare-client",
+    "created_at": "2018-02-15 15:36:04",
+    "fork": false,
+    "stargazers_count": 27,
+    "forks_count": 11,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "spring-security",
+    "full_name": "ICIJ/spring-security",
+    "created_at": "2018-04-13 14:39:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "ruby-net-ldap",
+    "full_name": "ICIJ/ruby-net-ldap",
+    "created_at": "2018-04-16 13:17:49",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "icij",
+    "name": "icij-discourse-colors-legacy",
+    "full_name": "ICIJ/icij-discourse-colors-legacy",
+    "created_at": "2018-08-08 13:20:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "icij",
+    "name": "datashare-installer",
+    "full_name": "ICIJ/datashare-installer",
+    "created_at": "2018-09-27 08:29:11",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "icij",
+    "name": "solr2es",
+    "full_name": "ICIJ/solr2es",
+    "created_at": "2018-11-09 16:52:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "murmur",
+    "full_name": "ICIJ/murmur",
+    "created_at": "2018-11-17 16:36:57",
+    "fork": false,
+    "stargazers_count": 15,
+    "forks_count": 3,
+    "language": "Vue"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-landing",
+    "full_name": "ICIJ/datashare-landing",
+    "created_at": "2018-12-21 16:58:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "icij",
+    "name": "icij-discourse-theme",
+    "full_name": "ICIJ/icij-discourse-theme",
+    "created_at": "2019-02-05 17:26:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "icij",
+    "name": "icij-discourse-header",
+    "full_name": "ICIJ/icij-discourse-header",
+    "created_at": "2019-02-06 11:16:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "icij",
+    "name": "icij-discourse-projects-addon",
+    "full_name": "ICIJ/icij-discourse-projects-addon",
+    "created_at": "2019-02-06 14:16:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-preview",
+    "full_name": "ICIJ/datashare-preview",
+    "created_at": "2019-03-21 10:07:35",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "puppet",
+    "full_name": "ICIJ/puppet",
+    "created_at": "2019-03-25 21:54:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Puppet"
+  },
+  {
+    "org": "icij",
+    "name": "icij-discourse-projects-banner",
+    "full_name": "ICIJ/icij-discourse-projects-banner",
+    "created_at": "2019-04-23 11:40:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "SCSS"
+  },
+  {
+    "org": "icij",
+    "name": "es-translator",
+    "full_name": "ICIJ/es-translator",
+    "created_at": "2019-04-29 09:18:48",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-tarentula",
+    "full_name": "ICIJ/datashare-tarentula",
+    "created_at": "2019-08-21 14:02:54",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "fluent-http-apigen",
+    "full_name": "ICIJ/fluent-http-apigen",
+    "created_at": "2019-10-11 08:50:15",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "twint2datashare",
+    "full_name": "ICIJ/twint2datashare",
+    "created_at": "2019-11-25 14:52:58",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-site-alert",
+    "full_name": "ICIJ/datashare-plugin-site-alert",
+    "created_at": "2020-01-27 17:54:22",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-presentations",
+    "full_name": "ICIJ/datashare-presentations",
+    "created_at": "2020-01-28 10:03:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-sentence-case",
+    "full_name": "ICIJ/datashare-plugin-sentence-case",
+    "created_at": "2020-03-20 17:05:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-text-paginator",
+    "full_name": "ICIJ/datashare-plugin-text-paginator",
+    "created_at": "2020-03-24 12:30:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-ga",
+    "full_name": "ICIJ/datashare-plugin-ga",
+    "created_at": "2020-03-31 13:32:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-api",
+    "full_name": "ICIJ/datashare-api",
+    "created_at": "2020-04-23 10:08:18",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-batchsearch-sample",
+    "full_name": "ICIJ/datashare-batchsearch-sample",
+    "created_at": "2020-04-28 15:20:58",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "icij",
+    "name": "datashare-extension-nlp-opennlp",
+    "full_name": "ICIJ/datashare-extension-nlp-opennlp",
+    "created_at": "2020-04-29 10:14:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-extension-nlp-gate",
+    "full_name": "ICIJ/datashare-extension-nlp-gate",
+    "created_at": "2020-04-29 10:53:34",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-extension-nlp-mitie",
+    "full_name": "ICIJ/datashare-extension-nlp-mitie",
+    "created_at": "2020-04-29 10:54:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-extension-nlp-ixapipe",
+    "full_name": "ICIJ/datashare-extension-nlp-ixapipe",
+    "created_at": "2020-04-29 10:55:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-email-filter",
+    "full_name": "ICIJ/datashare-plugin-email-filter",
+    "created_at": "2020-05-21 16:46:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "CoreNLP",
+    "full_name": "ICIJ/CoreNLP",
+    "created_at": "2020-06-02 11:02:29",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "icij-discourse-theme-mascarpone",
+    "full_name": "ICIJ/icij-discourse-theme-mascarpone",
+    "created_at": "2020-06-25 15:36:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "SCSS"
+  },
+  {
+    "org": "icij",
+    "name": "sao-datashare-plugin",
+    "full_name": "ICIJ/sao-datashare-plugin",
+    "created_at": "2020-08-06 17:54:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-tour",
+    "full_name": "ICIJ/datashare-plugin-tour",
+    "created_at": "2020-08-27 07:14:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "icij",
+    "name": "icij-discourse-theme-tartufo",
+    "full_name": "ICIJ/icij-discourse-theme-tartufo",
+    "created_at": "2020-09-15 13:37:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "SCSS"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-extension-dataconnect",
+    "full_name": "ICIJ/datashare-extension-dataconnect",
+    "created_at": "2020-09-21 10:14:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-dataconnect-spike",
+    "full_name": "ICIJ/datashare-plugin-dataconnect-spike",
+    "created_at": "2020-09-21 17:17:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-plugin-dataconnect",
+    "full_name": "ICIJ/datashare-plugin-dataconnect",
+    "created_at": "2020-11-16 11:16:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-keycloak-integration",
+    "full_name": "ICIJ/datashare-keycloak-integration",
+    "created_at": "2020-11-19 16:14:48",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "icij",
+    "name": "s3-directory-listing-status",
+    "full_name": "ICIJ/s3-directory-listing-status",
+    "created_at": "2020-12-17 11:17:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "icij",
+    "name": "prophecies",
+    "full_name": "ICIJ/prophecies",
+    "created_at": "2021-06-23 08:27:32",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "offshoreleaks-data-packages",
+    "full_name": "ICIJ/offshoreleaks-data-packages",
+    "created_at": "2021-10-26 19:51:03",
+    "fork": false,
+    "stargazers_count": 113,
+    "forks_count": 27,
+    "language": "JavaScript"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-network-core",
+    "full_name": "ICIJ/datashare-network-core",
+    "created_at": "2021-11-22 13:25:07",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-network-server",
+    "full_name": "ICIJ/datashare-network-server",
+    "created_at": "2022-01-03 13:36:30",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-network-client",
+    "full_name": "ICIJ/datashare-network-client",
+    "created_at": "2022-01-07 16:59:08",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "datashare-network-tokenserver",
+    "full_name": "ICIJ/datashare-network-tokenserver",
+    "created_at": "2022-03-01 14:17:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "icij",
+    "name": "bomutils",
+    "full_name": "ICIJ/bomutils",
+    "created_at": "2022-12-13 13:22:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "C++"
+  },
+  {
+    "org": "icij",
+    "name": "SSCred",
+    "full_name": "ICIJ/SSCred",
+    "created_at": "2022-12-15 16:30:49",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  }
+]

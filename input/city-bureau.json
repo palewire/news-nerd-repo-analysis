@@ -1,0 +1,422 @@
+[
+  {
+    "org": "city-bureau",
+    "name": "get-the-lead-out",
+    "full_name": "City-Bureau/get-the-lead-out",
+    "created_at": "2016-07-26 19:18:30",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicago-lead",
+    "full_name": "City-Bureau/chicago-lead",
+    "created_at": "2016-12-06 22:59:10",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "documenters-map",
+    "full_name": "City-Bureau/documenters-map",
+    "created_at": "2017-06-21 02:44:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers",
+    "full_name": "City-Bureau/city-scrapers",
+    "created_at": "2017-07-21 00:45:13",
+    "fork": false,
+    "stargazers_count": 287,
+    "forks_count": 307,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "assignment-api",
+    "full_name": "City-Bureau/assignment-api",
+    "created_at": "2017-12-06 21:02:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "assignment-form",
+    "full_name": "City-Bureau/assignment-form",
+    "created_at": "2017-12-07 23:20:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-events",
+    "full_name": "City-Bureau/city-scrapers-events",
+    "created_at": "2018-05-04 14:59:03",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 9,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "dramatiq_sqs",
+    "full_name": "City-Bureau/dramatiq_sqs",
+    "created_at": "2018-06-20 21:46:08",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicagoledger",
+    "full_name": "City-Bureau/chicagoledger",
+    "created_at": "2018-10-01 14:25:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "field-guide",
+    "full_name": "City-Bureau/field-guide",
+    "created_at": "2018-11-05 15:42:40",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicago-budgets",
+    "full_name": "City-Bureau/chicago-budgets",
+    "created_at": "2018-11-06 15:14:01",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "python-legistar-scraper",
+    "full_name": "City-Bureau/python-legistar-scraper",
+    "created_at": "2018-12-18 15:17:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-core",
+    "full_name": "City-Bureau/city-scrapers-core",
+    "created_at": "2019-01-22 03:21:37",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 9,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-template",
+    "full_name": "City-Bureau/city-scrapers-template",
+    "created_at": "2019-01-22 14:21:51",
+    "fork": false,
+    "stargazers_count": 24,
+    "forks_count": 87,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "elections-2019-map",
+    "full_name": "City-Bureau/elections-2019-map",
+    "created_at": "2019-02-27 19:31:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicago-municipal-elections",
+    "full_name": "City-Bureau/chicago-municipal-elections",
+    "created_at": "2019-03-06 19:45:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chi-2019-runoff-maps",
+    "full_name": "City-Bureau/chi-2019-runoff-maps",
+    "created_at": "2019-03-31 21:02:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chi-bill-bot",
+    "full_name": "City-Bureau/chi-bill-bot",
+    "created_at": "2019-05-23 19:49:25",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "language": "Go"
+  },
+  {
+    "org": "city-bureau",
+    "name": "hasmyaldermanbeenindicted.com",
+    "full_name": "City-Bureau/hasmyaldermanbeenindicted.com",
+    "created_at": "2019-07-14 19:39:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "city-bureau",
+    "name": "aldermanic-menu-money",
+    "full_name": "City-Bureau/aldermanic-menu-money",
+    "created_at": "2019-07-17 18:54:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "aldermanic-menu-money-viz",
+    "full_name": "City-Bureau/aldermanic-menu-money-viz",
+    "created_at": "2019-08-04 21:48:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Elm"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicago-tif-reports",
+    "full_name": "City-Bureau/chicago-tif-reports",
+    "created_at": "2019-08-09 00:21:31",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-cle",
+    "full_name": "City-Bureau/city-scrapers-cle",
+    "created_at": "2019-09-11 23:30:30",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 15,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-akr",
+    "full_name": "City-Bureau/city-scrapers-akr",
+    "created_at": "2019-09-17 13:53:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "notice-email-parser",
+    "full_name": "City-Bureau/notice-email-parser",
+    "created_at": "2019-09-24 16:42:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-events-oh",
+    "full_name": "City-Bureau/city-scrapers-events-oh",
+    "created_at": "2019-10-07 21:11:27",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "open-gov-report-card",
+    "full_name": "City-Bureau/open-gov-report-card",
+    "created_at": "2019-10-11 19:23:23",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "documenters-field-guide",
+    "full_name": "City-Bureau/documenters-field-guide",
+    "created_at": "2019-11-19 13:32:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-det",
+    "full_name": "City-Bureau/city-scrapers-det",
+    "created_at": "2019-11-30 21:19:26",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": ".github",
+    "full_name": "City-Bureau/.github",
+    "created_at": "2019-12-20 14:37:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "city-bureau",
+    "name": "hitpoints",
+    "full_name": "City-Bureau/hitpoints",
+    "created_at": "2019-12-28 01:47:45",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicago-2020-primary-election",
+    "full_name": "City-Bureau/chicago-2020-primary-election",
+    "created_at": "2020-03-21 19:11:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Makefile"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chi-covid-resources",
+    "full_name": "City-Bureau/chi-covid-resources",
+    "created_at": "2020-04-01 16:16:14",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicovidchat",
+    "full_name": "City-Bureau/chicovidchat",
+    "created_at": "2020-04-05 15:46:46",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "city-bureau",
+    "name": "serverless-airtable-button",
+    "full_name": "City-Bureau/serverless-airtable-button",
+    "created_at": "2020-04-07 15:13:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "nearby-zip-map",
+    "full_name": "City-Bureau/nearby-zip-map",
+    "created_at": "2020-04-14 13:22:27",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "chicago-2020-general-election",
+    "full_name": "City-Bureau/chicago-2020-general-election",
+    "created_at": "2020-11-04 16:40:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "il-2020-election-precinct-maps",
+    "full_name": "City-Bureau/il-2020-election-precinct-maps",
+    "created_at": "2020-11-24 20:37:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-minn",
+    "full_name": "City-Bureau/city-scrapers-minn",
+    "created_at": "2021-09-02 17:46:09",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-atl",
+    "full_name": "City-Bureau/city-scrapers-atl",
+    "created_at": "2022-07-29 18:18:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-omaha",
+    "full_name": "City-Bureau/city-scrapers-omaha",
+    "created_at": "2022-07-29 18:28:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "city-bureau",
+    "name": "city-scrapers-fresno",
+    "full_name": "City-Bureau/city-scrapers-fresno",
+    "created_at": "2022-07-29 18:33:46",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "Python"
+  }
+]

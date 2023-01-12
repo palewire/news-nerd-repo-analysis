@@ -1,0 +1,122 @@
+[
+  {
+    "org": "insideenergy",
+    "name": "dailygraphics",
+    "full_name": "InsideEnergy/dailygraphics",
+    "created_at": "2014-06-11 21:29:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "insideenergy",
+    "name": "graphics",
+    "full_name": "InsideEnergy/graphics",
+    "created_at": "2014-06-11 21:49:05",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "insideenergy",
+    "name": "Workplace-Fatalities",
+    "full_name": "InsideEnergy/Workplace-Fatalities",
+    "created_at": "2014-09-11 19:27:30",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "insideenergy",
+    "name": "StateSAIDI2013",
+    "full_name": "InsideEnergy/StateSAIDI2013",
+    "created_at": "2015-03-20 20:48:34",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "insideenergy",
+    "name": "Data-for-stories",
+    "full_name": "InsideEnergy/Data-for-stories",
+    "created_at": "2015-06-30 15:27:23",
+    "fork": false,
+    "stargazers_count": 22,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "insideenergy",
+    "name": "NorthDakota-Wastewater-Spills",
+    "full_name": "InsideEnergy/NorthDakota-Wastewater-Spills",
+    "created_at": "2015-07-16 18:03:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "insideenergy",
+    "name": "IE-datarepo-training",
+    "full_name": "InsideEnergy/IE-datarepo-training",
+    "created_at": "2015-07-29 17:15:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "insideenergy",
+    "name": "TX-flsa-lawsuits",
+    "full_name": "InsideEnergy/TX-flsa-lawsuits",
+    "created_at": "2016-02-08 16:03:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "insideenergy",
+    "name": "24-energy-stories-CAR16",
+    "full_name": "InsideEnergy/24-energy-stories-CAR16",
+    "created_at": "2016-03-10 15:16:43",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "insideenergy",
+    "name": "InsideEnergy.github.io",
+    "full_name": "InsideEnergy/InsideEnergy.github.io",
+    "created_at": "2016-10-14 15:17:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "insideenergy",
+    "name": "CO-campaign-finances",
+    "full_name": "InsideEnergy/CO-campaign-finances",
+    "created_at": "2016-10-14 15:31:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "insideenergy",
+    "name": "U.S.-Energy-History-Data",
+    "full_name": "InsideEnergy/U.S.-Energy-History-Data",
+    "created_at": "2017-01-12 19:40:24",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  }
+]

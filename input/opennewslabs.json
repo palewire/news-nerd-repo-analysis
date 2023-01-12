@@ -1,0 +1,482 @@
+[
+  {
+    "org": "opennewslabs",
+    "name": "popcorn-boilerplate",
+    "full_name": "OpenNewsLabs/popcorn-boilerplate",
+    "created_at": "2012-03-24 22:09:04",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "dataset",
+    "full_name": "OpenNewsLabs/dataset",
+    "created_at": "2012-04-25 15:58:48",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "recline",
+    "full_name": "OpenNewsLabs/recline",
+    "created_at": "2012-05-03 01:25:13",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "zeit-online-republica-tracker",
+    "full_name": "OpenNewsLabs/zeit-online-republica-tracker",
+    "created_at": "2012-05-09 14:51:32",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "Timeline",
+    "full_name": "OpenNewsLabs/Timeline",
+    "created_at": "2012-05-09 23:58:23",
+    "fork": true,
+    "stargazers_count": 8,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "contextual-video",
+    "full_name": "OpenNewsLabs/contextual-video",
+    "created_at": "2012-05-23 11:18:45",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "YouSlide",
+    "full_name": "OpenNewsLabs/YouSlide",
+    "created_at": "2012-05-23 11:19:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "pastpages.org",
+    "full_name": "OpenNewsLabs/pastpages.org",
+    "created_at": "2012-05-23 15:10:55",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "NewsYourOwnAdventure",
+    "full_name": "OpenNewsLabs/NewsYourOwnAdventure",
+    "created_at": "2012-06-16 21:21:57",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 4,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "opennews.github.com",
+    "full_name": "OpenNewsLabs/opennews.github.com",
+    "created_at": "2012-06-17 17:19:04",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "nomo",
+    "full_name": "OpenNewsLabs/nomo",
+    "created_at": "2012-07-18 11:36:01",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "rashomon",
+    "full_name": "OpenNewsLabs/rashomon",
+    "created_at": "2013-06-08 04:37:53",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "cryptocat",
+    "full_name": "OpenNewsLabs/cryptocat",
+    "created_at": "2013-06-09 13:32:51",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "spiders",
+    "full_name": "OpenNewsLabs/spiders",
+    "created_at": "2013-07-01 02:34:18",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 4,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "datasmells",
+    "full_name": "OpenNewsLabs/datasmells",
+    "created_at": "2014-10-26 12:32:23",
+    "fork": false,
+    "stargazers_count": 23,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "centipede",
+    "full_name": "OpenNewsLabs/centipede",
+    "created_at": "2014-10-26 13:06:32",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "pybossa",
+    "full_name": "OpenNewsLabs/pybossa",
+    "created_at": "2015-07-24 19:04:05",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "lunchbox",
+    "full_name": "OpenNewsLabs/lunchbox",
+    "created_at": "2015-07-30 03:36:43",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "manzana",
+    "full_name": "OpenNewsLabs/manzana",
+    "created_at": "2015-09-03 18:50:31",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "elex-webVideoTextCrawler",
+    "full_name": "OpenNewsLabs/elex-webVideoTextCrawler",
+    "created_at": "2016-02-02 23:37:22",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "perception-vs-reality",
+    "full_name": "OpenNewsLabs/perception-vs-reality",
+    "created_at": "2016-02-03 13:00:17",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "R"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "elex-name-fixer",
+    "full_name": "OpenNewsLabs/elex-name-fixer",
+    "created_at": "2016-02-03 17:48:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "polls-vs-reality",
+    "full_name": "OpenNewsLabs/polls-vs-reality",
+    "created_at": "2016-02-03 19:02:26",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "candina.me",
+    "full_name": "OpenNewsLabs/candina.me",
+    "created_at": "2016-02-03 19:45:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "Grammar-of-Graphics-Workshop",
+    "full_name": "OpenNewsLabs/Grammar-of-Graphics-Workshop",
+    "created_at": "2016-04-07 17:40:46",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "Tinfoil.press",
+    "full_name": "OpenNewsLabs/Tinfoil.press",
+    "created_at": "2016-04-23 16:03:37",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "pocketsphinx-stt",
+    "full_name": "OpenNewsLabs/pocketsphinx-stt",
+    "created_at": "2016-05-05 15:23:08",
+    "fork": false,
+    "stargazers_count": 21,
+    "forks_count": 5,
+    "language": "C++"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "onechart-twelvechartinglibraries",
+    "full_name": "OpenNewsLabs/onechart-twelvechartinglibraries",
+    "created_at": "2016-05-17 17:59:22",
+    "fork": false,
+    "stargazers_count": 42,
+    "forks_count": 9,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "r-workshop-ire",
+    "full_name": "OpenNewsLabs/r-workshop-ire",
+    "created_at": "2016-06-09 18:19:33",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "one-regression-six-ways",
+    "full_name": "OpenNewsLabs/one-regression-six-ways",
+    "created_at": "2016-06-13 00:19:48",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "guri-vr",
+    "full_name": "OpenNewsLabs/guri-vr",
+    "created_at": "2016-07-08 15:03:50",
+    "fork": false,
+    "stargazers_count": 184,
+    "forks_count": 42,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "guri-tweetbot",
+    "full_name": "OpenNewsLabs/guri-tweetbot",
+    "created_at": "2016-07-09 19:44:07",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "guri-slack",
+    "full_name": "OpenNewsLabs/guri-slack",
+    "created_at": "2016-07-20 21:25:01",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "gentle_stt_node",
+    "full_name": "OpenNewsLabs/gentle_stt_node",
+    "created_at": "2016-08-27 17:32:06",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "autoEdit_2",
+    "full_name": "OpenNewsLabs/autoEdit_2",
+    "created_at": "2016-09-08 14:59:53",
+    "fork": false,
+    "stargazers_count": 380,
+    "forks_count": 57,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "playbook",
+    "full_name": "OpenNewsLabs/playbook",
+    "created_at": "2016-09-20 19:13:23",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "forward-ferret",
+    "full_name": "OpenNewsLabs/forward-ferret",
+    "created_at": "2016-10-03 14:14:33",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "news-graphics-team",
+    "full_name": "OpenNewsLabs/news-graphics-team",
+    "created_at": "2016-12-02 21:40:18",
+    "fork": false,
+    "stargazers_count": 142,
+    "forks_count": 48,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "srt_from_youtube_live",
+    "full_name": "OpenNewsLabs/srt_from_youtube_live",
+    "created_at": "2017-01-09 21:19:10",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 4,
+    "language": "Ruby"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "gentle",
+    "full_name": "OpenNewsLabs/gentle",
+    "created_at": "2017-01-11 21:46:57",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "c-span_opened_captions_server",
+    "full_name": "OpenNewsLabs/c-span_opened_captions_server",
+    "created_at": "2017-01-14 14:55:32",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 8,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "open-project-linter",
+    "full_name": "OpenNewsLabs/open-project-linter",
+    "created_at": "2017-02-01 20:09:09",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "field-guide-open-source-newsroom",
+    "full_name": "OpenNewsLabs/field-guide-open-source-newsroom",
+    "created_at": "2017-02-14 20:03:10",
+    "fork": false,
+    "stargazers_count": 52,
+    "forks_count": 5,
+    "language": null
+  },
+  {
+    "org": "opennewslabs",
+    "name": "field-guide-security-training-newsroom",
+    "full_name": "OpenNewsLabs/field-guide-security-training-newsroom",
+    "created_at": "2017-05-08 17:30:10",
+    "fork": false,
+    "stargazers_count": 35,
+    "forks_count": 10,
+    "language": "HTML"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "transprovenance",
+    "full_name": "OpenNewsLabs/transprovenance",
+    "created_at": "2017-07-20 20:46:27",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "oTranscribe-electron",
+    "full_name": "OpenNewsLabs/oTranscribe-electron",
+    "created_at": "2017-07-21 17:40:09",
+    "fork": true,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "chatbot_BBCNewsHack17",
+    "full_name": "OpenNewsLabs/chatbot_BBCNewsHack17",
+    "created_at": "2017-10-24 09:59:14",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "opennewslabs",
+    "name": "field-guide-open-source-newsroom-spanish",
+    "full_name": "OpenNewsLabs/field-guide-open-source-newsroom-spanish",
+    "created_at": "2018-01-30 21:13:58",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  }
+]

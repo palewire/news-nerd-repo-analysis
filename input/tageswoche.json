@@ -1,0 +1,212 @@
+[
+  {
+    "org": "tageswoche",
+    "name": "webapp-server",
+    "full_name": "TagesWoche/webapp-server",
+    "created_at": "2012-07-09 12:22:16",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "football-visualisations",
+    "full_name": "TagesWoche/football-visualisations",
+    "created_at": "2012-07-30 14:44:32",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 3,
+    "language": "CoffeeScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "scorecards",
+    "full_name": "TagesWoche/scorecards",
+    "created_at": "2013-05-21 13:01:56",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "CoffeeScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "player-comparisons",
+    "full_name": "TagesWoche/player-comparisons",
+    "created_at": "2013-06-25 13:09:18",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "tageswoche",
+    "name": "72_hours_Basel",
+    "full_name": "TagesWoche/72_hours_Basel",
+    "created_at": "2016-07-05 12:47:18",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "abstimmungen2016",
+    "full_name": "TagesWoche/abstimmungen2016",
+    "created_at": "2016-09-01 22:38:22",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "tageswoche",
+    "name": "lb-theme-tageswoche",
+    "full_name": "TagesWoche/lb-theme-tageswoche",
+    "created_at": "2016-10-05 13:44:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "tageswoche",
+    "name": "analytics",
+    "full_name": "TagesWoche/analytics",
+    "created_at": "2016-10-31 09:02:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "tageswoche",
+    "name": "crowd-plugin",
+    "full_name": "TagesWoche/crowd-plugin",
+    "created_at": "2017-03-01 09:12:20",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "tageswoche",
+    "name": "fasnachtsfotimat",
+    "full_name": "TagesWoche/fasnachtsfotimat",
+    "created_at": "2017-03-08 14:25:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "tageswoche",
+    "name": "laengi_ftw",
+    "full_name": "TagesWoche/laengi_ftw",
+    "created_at": "2017-03-20 15:27:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "tageswoche",
+    "name": "tawo_es6_template",
+    "full_name": "TagesWoche/tawo_es6_template",
+    "created_at": "2017-04-05 15:10:22",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "tageswoche",
+    "name": "football_api_test",
+    "full_name": "TagesWoche/football_api_test",
+    "created_at": "2017-04-06 11:36:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "jagdwoche",
+    "full_name": "TagesWoche/jagdwoche",
+    "created_at": "2017-07-13 15:42:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "tageswoche",
+    "name": "angular_map_template",
+    "full_name": "TagesWoche/angular_map_template",
+    "created_at": "2017-08-10 08:05:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "basic_map_template",
+    "full_name": "TagesWoche/basic_map_template",
+    "created_at": "2017-08-10 08:07:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "tageswoche",
+    "name": "kulturerbejahr2018",
+    "full_name": "TagesWoche/kulturerbejahr2018",
+    "created_at": "2018-02-02 10:36:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "tageswoche",
+    "name": "wohnungsmiete-rechner",
+    "full_name": "TagesWoche/wohnungsmiete-rechner",
+    "created_at": "2018-05-29 15:24:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "tageswoche",
+    "name": "cargoships",
+    "full_name": "TagesWoche/cargoships",
+    "created_at": "2018-06-21 14:44:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "bikemap",
+    "full_name": "TagesWoche/bikemap",
+    "created_at": "2018-06-25 15:30:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "tageswoche",
+    "name": "bikemap_notebook",
+    "full_name": "TagesWoche/bikemap_notebook",
+    "created_at": "2018-08-14 15:23:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  }
+]

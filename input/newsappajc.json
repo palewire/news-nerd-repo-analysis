@@ -1,0 +1,342 @@
+[
+  {
+    "org": "newsappajc",
+    "name": "atl-crime-api",
+    "full_name": "NewsappAJC/atl-crime-api",
+    "created_at": "2015-08-24 16:04:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "newsappajc",
+    "name": "aws-data-lake-solution",
+    "full_name": "NewsappAJC/aws-data-lake-solution",
+    "created_at": "2017-09-15 14:31:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "ccrpi",
+    "full_name": "NewsappAJC/ccrpi",
+    "created_at": "2013-05-15 02:37:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "d3-grid",
+    "full_name": "NewsappAJC/d3-grid",
+    "created_at": "2020-06-03 22:52:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "newsappajc",
+    "name": "data-portal",
+    "full_name": "NewsappAJC/data-portal",
+    "created_at": "2017-02-24 19:55:35",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsappajc",
+    "name": "digital-design-guide",
+    "full_name": "NewsappAJC/digital-design-guide",
+    "created_at": "2015-06-03 22:09:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "eviction_scrapers",
+    "full_name": "NewsappAJC/eviction_scrapers",
+    "created_at": "2021-03-04 19:55:22",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "newsappajc",
+    "name": "flu",
+    "full_name": "NewsappAJC/flu",
+    "created_at": "2014-09-22 14:47:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "gga",
+    "full_name": "NewsappAJC/gga",
+    "created_at": "2013-07-30 20:17:26",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 6,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "gga-api",
+    "full_name": "NewsappAJC/gga-api",
+    "created_at": "2013-10-04 16:17:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "newsappajc",
+    "name": "gga-rails",
+    "full_name": "NewsappAJC/gga-rails",
+    "created_at": "2013-08-14 15:46:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "newsappajc",
+    "name": "govkit",
+    "full_name": "NewsappAJC/govkit",
+    "created_at": "2013-08-15 21:15:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "newsappajc",
+    "name": "grunt-google-archieml",
+    "full_name": "NewsappAJC/grunt-google-archieml",
+    "created_at": "2015-07-06 22:56:16",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "grunt-wrap-scrape",
+    "full_name": "NewsappAJC/grunt-wrap-scrape",
+    "created_at": "2016-07-20 16:22:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "guides",
+    "full_name": "NewsappAJC/guides",
+    "created_at": "2013-03-22 17:03:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "newsappajc",
+    "name": "hospitalCheckup",
+    "full_name": "NewsappAJC/hospitalCheckup",
+    "created_at": "2015-08-11 04:14:51",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "hospital_compare",
+    "full_name": "NewsappAJC/hospital_compare",
+    "created_at": "2013-03-26 18:20:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "immersive-template",
+    "full_name": "NewsappAJC/immersive-template",
+    "created_at": "2015-04-28 15:37:03",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "newsappajc",
+    "name": "JobIncentives",
+    "full_name": "NewsappAJC/JobIncentives",
+    "created_at": "2013-05-02 20:06:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "jobs",
+    "full_name": "NewsappAJC/jobs",
+    "created_at": "2016-03-03 19:48:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "newsappajc",
+    "name": "meme",
+    "full_name": "NewsappAJC/meme",
+    "created_at": "2015-06-24 15:09:47",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "my-page",
+    "full_name": "NewsappAJC/my-page",
+    "created_at": "2014-05-03 18:51:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "newsappajc",
+    "name": "nicar_logistic_regression",
+    "full_name": "NewsappAJC/nicar_logistic_regression",
+    "created_at": "2020-02-06 20:31:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "newsappajc",
+    "name": "open_calais",
+    "full_name": "NewsappAJC/open_calais",
+    "created_at": "2016-02-08 22:17:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "newsappajc",
+    "name": "precinct-election-map",
+    "full_name": "NewsappAJC/precinct-election-map",
+    "created_at": "2016-11-07 21:31:44",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "Project-Template",
+    "full_name": "NewsappAJC/Project-Template",
+    "created_at": "2013-04-11 20:08:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "newsappajc",
+    "name": "project-template-generator",
+    "full_name": "NewsappAJC/project-template-generator",
+    "created_at": "2015-05-05 16:53:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "pym.js",
+    "full_name": "NewsappAJC/pym.js",
+    "created_at": "2014-06-11 21:04:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "raod-trip",
+    "full_name": "NewsappAJC/raod-trip",
+    "created_at": "2013-05-02 00:59:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "rtf_parse",
+    "full_name": "NewsappAJC/rtf_parse",
+    "created_at": "2015-12-07 19:17:23",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "newsappajc",
+    "name": "stepr",
+    "full_name": "NewsappAJC/stepr",
+    "created_at": "2016-11-11 16:32:01",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "newsappajc",
+    "name": "TPLOST_sim",
+    "full_name": "NewsappAJC/TPLOST_sim",
+    "created_at": "2013-04-08 22:13:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "underscore",
+    "full_name": "NewsappAJC/underscore",
+    "created_at": "2013-12-02 21:36:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsappajc",
+    "name": "wrap-wrap",
+    "full_name": "NewsappAJC/wrap-wrap",
+    "created_at": "2015-05-26 15:35:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

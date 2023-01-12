@@ -1,0 +1,62 @@
+[
+  {
+    "org": "arizonadailystar",
+    "name": "arizonadailystar.github.com",
+    "full_name": "arizonadailystar/arizonadailystar.github.com",
+    "created_at": "2012-09-15 04:59:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "arizonadailystar",
+    "name": "codecamp",
+    "full_name": "arizonadailystar/codecamp",
+    "created_at": "2016-06-28 18:17:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "arizonadailystar",
+    "name": "mybot",
+    "full_name": "arizonadailystar/mybot",
+    "created_at": "2018-08-26 03:32:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "arizonadailystar",
+    "name": "qrkit",
+    "full_name": "arizonadailystar/qrkit",
+    "created_at": "2019-07-15 21:25:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "C++"
+  },
+  {
+    "org": "arizonadailystar",
+    "name": "golang-samples",
+    "full_name": "arizonadailystar/golang-samples",
+    "created_at": "2020-01-10 22:43:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "arizonadailystar",
+    "name": "social-icons",
+    "full_name": "arizonadailystar/social-icons",
+    "created_at": "2022-11-10 17:56:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "org": "newsapps",
+    "name": "ctabustracker",
+    "full_name": "newsapps/ctabustracker",
+    "created_at": "2010-06-29 21:22:52",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "beeswithmachineguns",
+    "full_name": "newsapps/beeswithmachineguns",
+    "created_at": "2010-06-29 21:26:18",
+    "fork": false,
+    "stargazers_count": 6279,
+    "forks_count": 663,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "hello_newsroom",
+    "full_name": "newsapps/hello_newsroom",
+    "created_at": "2010-07-08 14:09:25",
+    "fork": false,
+    "stargazers_count": 52,
+    "forks_count": 28,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "latimes-mappingla-geopy",
+    "full_name": "newsapps/latimes-mappingla-geopy",
+    "created_at": "2010-07-26 22:07:20",
+    "fork": true,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "wordpress-deploy",
+    "full_name": "newsapps/wordpress-deploy",
+    "created_at": "2010-10-05 20:47:46",
+    "fork": false,
+    "stargazers_count": 37,
+    "forks_count": 5,
+    "language": "PHP"
+  },
+  {
+    "org": "newsapps",
+    "name": "refine-stats",
+    "full_name": "newsapps/refine-stats",
+    "created_at": "2010-11-17 22:45:05",
+    "fork": false,
+    "stargazers_count": 34,
+    "forks_count": 27,
+    "language": "Java"
+  },
+  {
+    "org": "newsapps",
+    "name": "tostones",
+    "full_name": "newsapps/tostones",
+    "created_at": "2010-11-19 14:55:01",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "agent-plugins",
+    "full_name": "newsapps/agent-plugins",
+    "created_at": "2010-11-20 03:17:29",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "boundaryservice",
+    "full_name": "newsapps/boundaryservice",
+    "created_at": "2011-01-28 20:29:49",
+    "fork": false,
+    "stargazers_count": 39,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "cloud-commander",
+    "full_name": "newsapps/cloud-commander",
+    "created_at": "2011-02-22 21:57:09",
+    "fork": false,
+    "stargazers_count": 30,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "servers",
+    "full_name": "newsapps/servers",
+    "created_at": "2011-02-22 22:02:27",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "making-maps-demo",
+    "full_name": "newsapps/making-maps-demo",
+    "created_at": "2011-03-08 17:26:19",
+    "fork": false,
+    "stargazers_count": 36,
+    "forks_count": 11,
+    "language": null
+  },
+  {
+    "org": "newsapps",
+    "name": "appengine-autotweeter",
+    "full_name": "newsapps/appengine-autotweeter",
+    "created_at": "2011-04-07 16:07:25",
+    "fork": false,
+    "stargazers_count": 16,
+    "forks_count": 7,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-boundaryservice",
+    "full_name": "newsapps/django-boundaryservice",
+    "created_at": "2011-05-12 01:05:28",
+    "fork": false,
+    "stargazers_count": 82,
+    "forks_count": 43,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "englewood",
+    "full_name": "newsapps/englewood",
+    "created_at": "2011-07-15 21:43:04",
+    "fork": false,
+    "stargazers_count": 41,
+    "forks_count": 10,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "wordpress-mtv",
+    "full_name": "newsapps/wordpress-mtv",
+    "created_at": "2011-10-10 15:46:27",
+    "fork": false,
+    "stargazers_count": 142,
+    "forks_count": 13,
+    "language": "PHP"
+  },
+  {
+    "org": "newsapps",
+    "name": "wp-project",
+    "full_name": "newsapps/wp-project",
+    "created_at": "2011-11-02 20:47:49",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "wordpress-mtv-examples",
+    "full_name": "newsapps/wordpress-mtv-examples",
+    "created_at": "2011-11-04 14:22:22",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 3,
+    "language": "PHP"
+  },
+  {
+    "org": "newsapps",
+    "name": "wp-project-tools",
+    "full_name": "newsapps/wp-project-tools",
+    "created_at": "2012-01-14 17:11:27",
+    "fork": false,
+    "stargazers_count": 111,
+    "forks_count": 12,
+    "language": "PHP"
+  },
+  {
+    "org": "newsapps",
+    "name": "hm-core",
+    "full_name": "newsapps/hm-core",
+    "created_at": "2012-02-16 19:59:52",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-tablefu",
+    "full_name": "newsapps/python-tablefu",
+    "created_at": "2012-05-21 22:02:26",
+    "fork": true,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "gallery",
+    "full_name": "newsapps/gallery",
+    "created_at": "2012-05-29 20:43:06",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "layercake",
+    "full_name": "newsapps/layercake",
+    "created_at": "2012-05-29 21:01:49",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "flask-bakery",
+    "full_name": "newsapps/flask-bakery",
+    "created_at": "2012-05-31 22:00:57",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-tastypie",
+    "full_name": "newsapps/django-tastypie",
+    "created_at": "2012-10-01 16:22:47",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribapps-gis",
+    "full_name": "newsapps/tribapps-gis",
+    "created_at": "2012-10-17 22:22:44",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "story-carder",
+    "full_name": "newsapps/story-carder",
+    "created_at": "2012-10-23 22:08:13",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 3,
+    "language": null
+  },
+  {
+    "org": "newsapps",
+    "name": "p2p-python",
+    "full_name": "newsapps/p2p-python",
+    "created_at": "2012-10-27 02:04:59",
+    "fork": false,
+    "stargazers_count": 15,
+    "forks_count": 15,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "requests",
+    "full_name": "newsapps/requests",
+    "created_at": "2013-01-14 20:27:10",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "pandascrapers",
+    "full_name": "newsapps/pandascrapers",
+    "created_at": "2013-03-01 20:43:53",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "aggdraw",
+    "full_name": "newsapps/aggdraw",
+    "created_at": "2013-03-20 15:05:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "C"
+  },
+  {
+    "org": "newsapps",
+    "name": "chicagocrime",
+    "full_name": "newsapps/chicagocrime",
+    "created_at": "2013-03-20 20:35:33",
+    "fork": false,
+    "stargazers_count": 24,
+    "forks_count": 16,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "deploy-tools",
+    "full_name": "newsapps/deploy-tools",
+    "created_at": "2013-03-26 19:43:48",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "guides",
+    "full_name": "newsapps/guides",
+    "created_at": "2013-03-29 22:05:25",
+    "fork": false,
+    "stargazers_count": 15,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "newsapps",
+    "name": "awsmonitors",
+    "full_name": "newsapps/awsmonitors",
+    "created_at": "2013-04-02 15:30:56",
+    "fork": false,
+    "stargazers_count": 33,
+    "forks_count": 20,
+    "language": "Perl"
+  },
+  {
+    "org": "newsapps",
+    "name": "swimlanes",
+    "full_name": "newsapps/swimlanes",
+    "created_at": "2013-04-09 16:42:27",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "tarbell-0.8",
+    "full_name": "newsapps/tarbell-0.8",
+    "created_at": "2013-05-01 03:12:28",
+    "fork": false,
+    "stargazers_count": 30,
+    "forks_count": 18,
+    "language": "CSS"
+  },
+  {
+    "org": "newsapps",
+    "name": "panda",
+    "full_name": "newsapps/panda",
+    "created_at": "2013-05-21 20:56:46",
+    "fork": true,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "document-viewer",
+    "full_name": "newsapps/document-viewer",
+    "created_at": "2013-05-22 18:41:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "p2p_test",
+    "full_name": "newsapps/p2p_test",
+    "created_at": "2013-06-28 20:16:33",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "icalendar",
+    "full_name": "newsapps/icalendar",
+    "created_at": "2013-08-26 20:57:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "sphinx_rtd_theme",
+    "full_name": "newsapps/sphinx_rtd_theme",
+    "created_at": "2013-12-12 23:04:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "newsapps",
+    "name": "ilcampaignfinance",
+    "full_name": "newsapps/ilcampaignfinance",
+    "created_at": "2014-01-06 22:33:08",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "bootstrap-v2",
+    "full_name": "newsapps/bootstrap-v2",
+    "created_at": "2014-03-13 16:02:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "newsapps",
+    "name": "bootstrap",
+    "full_name": "newsapps/bootstrap",
+    "created_at": "2014-03-13 16:07:13",
+    "fork": true,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-boundaries",
+    "full_name": "newsapps/python-boundaries",
+    "created_at": "2014-04-18 16:25:22",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "newsapps",
+    "name": "electioncenter-slides",
+    "full_name": "newsapps/electioncenter-slides",
+    "created_at": "2014-07-01 04:52:10",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "build-with-tarbell",
+    "full_name": "newsapps/build-with-tarbell",
+    "created_at": "2014-07-01 04:53:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "tarbell-readme",
+    "full_name": "newsapps/tarbell-readme",
+    "created_at": "2014-07-27 12:43:07",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-bakery",
+    "full_name": "newsapps/django-bakery",
+    "created_at": "2015-01-12 17:03:46",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "bing-bulk-geocoder",
+    "full_name": "newsapps/bing-bulk-geocoder",
+    "created_at": "2015-02-03 16:23:32",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-tribune-omniture",
+    "full_name": "newsapps/python-tribune-omniture",
+    "created_at": "2015-03-09 22:09:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-chicago-elections",
+    "full_name": "newsapps/python-chicago-elections",
+    "created_at": "2015-03-31 18:03:18",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "newsapps",
+    "name": "flask-slackunfuddle",
+    "full_name": "newsapps/flask-slackunfuddle",
+    "created_at": "2015-04-20 20:59:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-chicago",
+    "full_name": "newsapps/python-chicago",
+    "created_at": "2015-04-23 22:21:03",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "django-autosharing",
+    "full_name": "newsapps/django-autosharing",
+    "created_at": "2015-06-01 19:42:43",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "python-sportsdirect",
+    "full_name": "newsapps/python-sportsdirect",
+    "created_at": "2015-08-27 17:51:29",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "tarbell-cookbook",
+    "full_name": "newsapps/tarbell-cookbook",
+    "created_at": "2015-09-11 19:57:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "jobs",
+    "full_name": "newsapps/jobs",
+    "created_at": "2016-01-07 22:37:41",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "newsapps",
+    "name": "python-illinois-school-report-card",
+    "full_name": "newsapps/python-illinois-school-report-card",
+    "created_at": "2016-01-08 21:10:34",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "public-notebooks",
+    "full_name": "newsapps/public-notebooks",
+    "created_at": "2016-01-26 23:25:15",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 6,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribune-bing-geocoder",
+    "full_name": "newsapps/tribune-bing-geocoder",
+    "created_at": "2016-01-27 19:46:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "ipra_portal_scraper",
+    "full_name": "newsapps/ipra_portal_scraper",
+    "created_at": "2016-06-03 20:06:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribune-pollster",
+    "full_name": "newsapps/tribune-pollster",
+    "created_at": "2016-07-25 18:55:10",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "tribune-bootstrap-3-js",
+    "full_name": "newsapps/tribune-bootstrap-3-js",
+    "created_at": "2016-09-08 23:29:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "ncaa-high-school-course-scraper",
+    "full_name": "newsapps/ncaa-high-school-course-scraper",
+    "created_at": "2016-09-16 23:53:59",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "newsapps",
+    "name": "dataviz-bookmarklets",
+    "full_name": "newsapps/dataviz-bookmarklets",
+    "created_at": "2016-09-21 18:38:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newsapps",
+    "name": "gatsby-test",
+    "full_name": "newsapps/gatsby-test",
+    "created_at": "2019-08-08 16:28:58",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

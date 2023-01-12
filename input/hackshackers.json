@@ -1,0 +1,152 @@
+[
+  {
+    "org": "hackshackers",
+    "name": "Andy-Carvin-s-Archive",
+    "full_name": "hackshackers/Andy-Carvin-s-Archive",
+    "created_at": "2011-09-22 16:42:04",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hackshackers",
+    "name": "hackshackers.com",
+    "full_name": "hackshackers/hackshackers.com",
+    "created_at": "2012-09-29 17:43:47",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hackshackers",
+    "name": "hackshackers.com-wp-content",
+    "full_name": "hackshackers/hackshackers.com-wp-content",
+    "created_at": "2012-09-29 17:46:42",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "PHP"
+  },
+  {
+    "org": "hackshackers",
+    "name": "hackshackers.com-ngix-configuration",
+    "full_name": "hackshackers/hackshackers.com-ngix-configuration",
+    "created_at": "2012-09-29 20:10:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hackshackers",
+    "name": "hhnyc-crypto",
+    "full_name": "hackshackers/hhnyc-crypto",
+    "created_at": "2013-09-08 06:10:57",
+    "fork": false,
+    "stargazers_count": 38,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "hackshackers",
+    "name": "action-group-website",
+    "full_name": "hackshackers/action-group-website",
+    "created_at": "2015-09-14 18:42:57",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hackshackers",
+    "name": "wiki",
+    "full_name": "hackshackers/wiki",
+    "created_at": "2015-10-02 00:01:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "hackshackers",
+    "name": "slackin",
+    "full_name": "hackshackers/slackin",
+    "created_at": "2015-10-22 03:34:39",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hackshackers",
+    "name": "handbook",
+    "full_name": "hackshackers/handbook",
+    "created_at": "2015-11-04 19:01:45",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "hackshackers",
+    "name": "hh-prototypes",
+    "full_name": "hackshackers/hh-prototypes",
+    "created_at": "2016-11-04 00:03:08",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "hackshackers",
+    "name": "hackshackers-hugo-content",
+    "full_name": "hackshackers/hackshackers-hugo-content",
+    "created_at": "2016-11-22 20:26:46",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 24,
+    "language": null
+  },
+  {
+    "org": "hackshackers",
+    "name": "hackshackers-hugo",
+    "full_name": "hackshackers/hackshackers-hugo",
+    "created_at": "2016-11-22 20:37:27",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 11,
+    "language": "CSS"
+  },
+  {
+    "org": "hackshackers",
+    "name": "hh-hugo-cli",
+    "full_name": "hackshackers/hh-hugo-cli",
+    "created_at": "2016-12-27 14:30:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hackshackers",
+    "name": "hh-events-aggregator",
+    "full_name": "hackshackers/hh-events-aggregator",
+    "created_at": "2017-03-24 19:16:51",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hackshackers",
+    "name": "misinfocon-event-calendar",
+    "full_name": "hackshackers/misinfocon-event-calendar",
+    "created_at": "2017-04-03 02:29:16",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  }
+]

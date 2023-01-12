@@ -1,0 +1,42 @@
+[
+  {
+    "org": "usatoday-smb",
+    "name": "grunt-wp-audit",
+    "full_name": "usatoday-smb/grunt-wp-audit",
+    "created_at": "2015-12-28 22:20:38",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "usatoday-smb",
+    "name": "fixed-data-table-2",
+    "full_name": "usatoday-smb/fixed-data-table-2",
+    "created_at": "2017-06-20 17:35:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "usatoday-smb",
+    "name": "usatsi_drupal_module",
+    "full_name": "usatoday-smb/usatsi_drupal_module",
+    "created_at": "2017-08-24 20:07:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "usatoday-smb",
+    "name": "local-vip",
+    "full_name": "usatoday-smb/local-vip",
+    "created_at": "2022-08-09 22:39:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

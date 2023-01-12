@@ -1,0 +1,182 @@
+[
+  {
+    "org": "censusreporter",
+    "name": "census-places-json",
+    "full_name": "censusreporter/census-places-json",
+    "created_at": "2013-03-22 01:22:18",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-postgres",
+    "full_name": "censusreporter/census-postgres",
+    "created_at": "2013-03-28 20:06:23",
+    "fork": true,
+    "stargazers_count": 92,
+    "forks_count": 34,
+    "language": "Python"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-shapefile-utils",
+    "full_name": "censusreporter/census-shapefile-utils",
+    "created_at": "2013-03-29 19:48:30",
+    "fork": false,
+    "stargazers_count": 51,
+    "forks_count": 21,
+    "language": "Python"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-table-metadata",
+    "full_name": "censusreporter/census-table-metadata",
+    "created_at": "2013-04-08 18:51:24",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-postgres-scripts",
+    "full_name": "censusreporter/census-postgres-scripts",
+    "created_at": "2013-04-15 13:51:12",
+    "fork": false,
+    "stargazers_count": 60,
+    "forks_count": 33,
+    "language": "PLpgSQL"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-api",
+    "full_name": "censusreporter/census-api",
+    "created_at": "2013-05-06 05:24:57",
+    "fork": false,
+    "stargazers_count": 152,
+    "forks_count": 49,
+    "language": "Python"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-mockups",
+    "full_name": "censusreporter/census-mockups",
+    "created_at": "2013-05-07 00:25:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "censusreporter",
+    "name": "censusreporter",
+    "full_name": "censusreporter/censusreporter",
+    "created_at": "2013-05-20 22:46:00",
+    "fork": false,
+    "stargazers_count": 646,
+    "forks_count": 136,
+    "language": "HTML"
+  },
+  {
+    "org": "censusreporter",
+    "name": "wikipedia-xref",
+    "full_name": "censusreporter/wikipedia-xref",
+    "created_at": "2013-11-11 17:37:22",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 9,
+    "language": "Python"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-aggregate",
+    "full_name": "censusreporter/census-aggregate",
+    "created_at": "2014-05-17 14:41:39",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "censusreporter",
+    "name": "census",
+    "full_name": "censusreporter/census",
+    "created_at": "2014-07-14 18:37:43",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "censusreporter",
+    "name": "census-pandas",
+    "full_name": "censusreporter/census-pandas",
+    "created_at": "2015-03-14 16:06:43",
+    "fork": false,
+    "stargazers_count": 20,
+    "forks_count": 5,
+    "language": "Python"
+  },
+  {
+    "org": "censusreporter",
+    "name": "citysdk",
+    "full_name": "censusreporter/citysdk",
+    "created_at": "2015-05-05 17:58:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "HTML"
+  },
+  {
+    "org": "censusreporter",
+    "name": "notebooks",
+    "full_name": "censusreporter/notebooks",
+    "created_at": "2015-05-09 12:25:16",
+    "fork": false,
+    "stargazers_count": 45,
+    "forks_count": 12,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "censusreporter",
+    "name": "nicar16-diversity-index",
+    "full_name": "censusreporter/nicar16-diversity-index",
+    "created_at": "2016-03-08 16:37:51",
+    "fork": true,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "censusreporter",
+    "name": "acs-table-hierarchy",
+    "full_name": "censusreporter/acs-table-hierarchy",
+    "created_at": "2016-09-15 14:55:03",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "censusreporter",
+    "name": "nicar20-advanced-census-python",
+    "full_name": "censusreporter/nicar20-advanced-census-python",
+    "created_at": "2020-02-07 17:13:58",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 3,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "censusreporter",
+    "name": "acs-aggregate",
+    "full_name": "censusreporter/acs-aggregate",
+    "created_at": "2020-06-25 18:17:28",
+    "fork": false,
+    "stargazers_count": 24,
+    "forks_count": 8,
+    "language": "Jupyter Notebook"
+  }
+]

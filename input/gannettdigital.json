@@ -1,0 +1,2872 @@
+[
+  {
+    "org": "gannettdigital",
+    "name": "steal",
+    "full_name": "GannettDigital/steal",
+    "created_at": "2012-01-03 20:10:11",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "jquerymx",
+    "full_name": "GannettDigital/jquerymx",
+    "created_at": "2012-01-03 20:10:15",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "documentjs",
+    "full_name": "GannettDigital/documentjs",
+    "created_at": "2012-01-03 20:10:22",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "syn",
+    "full_name": "GannettDigital/syn",
+    "created_at": "2012-01-03 20:10:33",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "Transmogrify",
+    "full_name": "GannettDigital/Transmogrify",
+    "created_at": "2012-04-03 17:55:10",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "slumber",
+    "full_name": "GannettDigital/slumber",
+    "created_at": "2012-04-05 17:13:44",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "basho_bench",
+    "full_name": "GannettDigital/basho_bench",
+    "created_at": "2013-08-09 21:31:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Erlang"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "iRate",
+    "full_name": "GannettDigital/iRate",
+    "created_at": "2013-09-25 16:44:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "htmldiff.net",
+    "full_name": "GannettDigital/htmldiff.net",
+    "created_at": "2013-11-07 11:52:46",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "C#"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "django-redactorjs",
+    "full_name": "GannettDigital/django-redactorjs",
+    "created_at": "2013-11-21 02:01:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-java",
+    "full_name": "GannettDigital/chef-java",
+    "created_at": "2014-02-05 20:22:17",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ironfan-homebase",
+    "full_name": "GannettDigital/ironfan-homebase",
+    "created_at": "2014-02-11 18:15:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "boomers-contentexplorer",
+    "full_name": "GannettDigital/boomers-contentexplorer",
+    "created_at": "2014-03-19 13:24:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "facebook-ios-sdk",
+    "full_name": "GannettDigital/facebook-ios-sdk",
+    "created_at": "2014-04-16 15:38:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "buildcluster-experiment",
+    "full_name": "GannettDigital/buildcluster-experiment",
+    "created_at": "2014-04-23 19:09:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "styleguide",
+    "full_name": "GannettDigital/styleguide",
+    "created_at": "2014-05-15 17:44:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "django-config-url",
+    "full_name": "GannettDigital/django-config-url",
+    "created_at": "2014-05-15 19:06:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "feature-flags",
+    "full_name": "GannettDigital/feature-flags",
+    "created_at": "2014-05-21 16:33:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "django-collectfiles",
+    "full_name": "GannettDigital/django-collectfiles",
+    "created_at": "2014-06-20 18:22:20",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "darkroomjs",
+    "full_name": "GannettDigital/darkroomjs",
+    "created_at": "2014-06-23 19:52:37",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "nginx-buildpack",
+    "full_name": "GannettDigital/nginx-buildpack",
+    "created_at": "2014-07-01 21:09:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "sample_node_protractor",
+    "full_name": "GannettDigital/sample_node_protractor",
+    "created_at": "2014-11-02 17:57:24",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-apt",
+    "full_name": "GannettDigital/chef-apt",
+    "created_at": "2014-11-04 15:29:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-build-essential",
+    "full_name": "GannettDigital/chef-build-essential",
+    "created_at": "2014-11-04 15:30:57",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef_handler",
+    "full_name": "GannettDigital/chef_handler",
+    "created_at": "2014-11-04 15:32:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-cloudwatch-linux",
+    "full_name": "GannettDigital/chef-cloudwatch-linux",
+    "created_at": "2014-11-04 15:32:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-couchbase_old",
+    "full_name": "GannettDigital/chef-couchbase_old",
+    "created_at": "2014-11-04 15:33:34",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-cron",
+    "full_name": "GannettDigital/chef-cron",
+    "created_at": "2014-11-04 15:35:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-dmg",
+    "full_name": "GannettDigital/chef-dmg",
+    "created_at": "2014-11-04 15:37:28",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-erlang",
+    "full_name": "GannettDigital/chef-erlang",
+    "created_at": "2014-11-04 15:38:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-golang",
+    "full_name": "GannettDigital/chef-golang",
+    "created_at": "2014-11-04 15:39:14",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-homebrew",
+    "full_name": "GannettDigital/chef-homebrew",
+    "created_at": "2014-11-04 15:39:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-hostsfile",
+    "full_name": "GannettDigital/chef-hostsfile",
+    "created_at": "2014-11-04 15:40:17",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-iis",
+    "full_name": "GannettDigital/chef-iis",
+    "created_at": "2014-11-04 15:41:09",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-git",
+    "full_name": "GannettDigital/chef-git",
+    "created_at": "2014-11-04 15:42:52",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-logrotate",
+    "full_name": "GannettDigital/chef-logrotate",
+    "created_at": "2014-11-04 15:44:30",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-modules",
+    "full_name": "GannettDigital/chef-modules",
+    "created_at": "2014-11-04 15:44:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-newrelic",
+    "full_name": "GannettDigital/chef-newrelic",
+    "created_at": "2014-11-04 15:45:18",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "archive-chef-nginx",
+    "full_name": "GannettDigital/archive-chef-nginx",
+    "created_at": "2014-11-04 15:47:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ohai",
+    "full_name": "GannettDigital/chef-ohai",
+    "created_at": "2014-11-04 15:48:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-openssl",
+    "full_name": "GannettDigital/chef-openssl",
+    "created_at": "2014-11-04 15:49:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-php",
+    "full_name": "GannettDigital/chef-php",
+    "created_at": "2014-11-04 15:50:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-postgresql",
+    "full_name": "GannettDigital/chef-postgresql",
+    "created_at": "2014-11-04 15:50:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-python",
+    "full_name": "GannettDigital/chef-python",
+    "created_at": "2014-11-04 15:51:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-runit",
+    "full_name": "GannettDigital/chef-runit",
+    "created_at": "2014-11-04 15:57:48",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-sudo",
+    "full_name": "GannettDigital/chef-sudo",
+    "created_at": "2014-11-04 15:58:57",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-supervisor",
+    "full_name": "GannettDigital/chef-supervisor",
+    "created_at": "2014-11-04 16:03:49",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-sysctl",
+    "full_name": "GannettDigital/chef-sysctl",
+    "created_at": "2014-11-04 16:04:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-tomcat",
+    "full_name": "GannettDigital/chef-tomcat",
+    "created_at": "2014-11-04 16:04:38",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ulimit",
+    "full_name": "GannettDigital/chef-ulimit",
+    "created_at": "2014-11-04 16:05:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-uwsgi",
+    "full_name": "GannettDigital/chef-uwsgi",
+    "created_at": "2014-11-04 16:06:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-varnish",
+    "full_name": "GannettDigital/chef-varnish",
+    "created_at": "2014-11-04 16:06:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "newrelic_plugins_chef",
+    "full_name": "GannettDigital/newrelic_plugins_chef",
+    "created_at": "2014-11-04 16:12:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-yum-erlang_solutions",
+    "full_name": "GannettDigital/chef-yum-erlang_solutions",
+    "created_at": "2014-11-04 16:14:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-yum-epel",
+    "full_name": "GannettDigital/chef-yum-epel",
+    "created_at": "2014-11-04 16:15:05",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-yum",
+    "full_name": "GannettDigital/chef-yum",
+    "created_at": "2014-11-04 16:15:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-bluepill",
+    "full_name": "GannettDigital/chef-bluepill",
+    "created_at": "2014-11-04 16:18:16",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-client",
+    "full_name": "GannettDigital/chef-client",
+    "created_at": "2014-11-04 16:19:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-rsyslog",
+    "full_name": "GannettDigital/chef-rsyslog",
+    "created_at": "2014-11-04 16:20:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-nodejs",
+    "full_name": "GannettDigital/chef-nodejs",
+    "created_at": "2014-11-07 19:39:48",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef_gem",
+    "full_name": "GannettDigital/chef_gem",
+    "created_at": "2014-11-08 05:18:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-jq",
+    "full_name": "GannettDigital/chef-jq",
+    "created_at": "2014-11-22 19:16:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-mongodb",
+    "full_name": "GannettDigital/chef-mongodb",
+    "created_at": "2014-11-24 15:34:15",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-iptables",
+    "full_name": "GannettDigital/chef-iptables",
+    "created_at": "2014-11-24 23:09:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-meetme-newrelic-plugin",
+    "full_name": "GannettDigital/chef-meetme-newrelic-plugin",
+    "created_at": "2014-12-01 20:30:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-sugar",
+    "full_name": "GannettDigital/chef-sugar",
+    "created_at": "2014-12-08 22:59:34",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-exhibitor",
+    "full_name": "GannettDigital/chef-exhibitor",
+    "created_at": "2014-12-09 17:32:19",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ark",
+    "full_name": "GannettDigital/chef-ark",
+    "created_at": "2014-12-17 19:26:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-7-zip",
+    "full_name": "GannettDigital/chef-7-zip",
+    "created_at": "2014-12-17 20:42:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-krb5",
+    "full_name": "GannettDigital/chef-krb5",
+    "created_at": "2015-01-07 20:08:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-slug-deployment",
+    "full_name": "GannettDigital/chef-slug-deployment",
+    "created_at": "2015-01-08 19:45:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-nscd",
+    "full_name": "GannettDigital/chef-nscd",
+    "created_at": "2015-01-09 23:09:17",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ntp",
+    "full_name": "GannettDigital/chef-ntp",
+    "created_at": "2015-01-09 23:09:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "nginx-custom-build",
+    "full_name": "GannettDigital/nginx-custom-build",
+    "created_at": "2015-01-14 16:25:28",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "rpm-python27",
+    "full_name": "GannettDigital/rpm-python27",
+    "created_at": "2015-01-15 17:06:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "rpm-haproxy",
+    "full_name": "GannettDigital/rpm-haproxy",
+    "created_at": "2015-01-19 17:04:24",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ms-cpp-redistributable",
+    "full_name": "GannettDigital/chef-ms-cpp-redistributable",
+    "created_at": "2015-01-19 23:31:34",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-windows",
+    "full_name": "GannettDigital/chef-windows",
+    "created_at": "2015-01-20 14:42:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "rpm-tomcat7",
+    "full_name": "GannettDigital/rpm-tomcat7",
+    "created_at": "2015-01-23 16:40:16",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Shell"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "java-oracle-rpm",
+    "full_name": "GannettDigital/java-oracle-rpm",
+    "created_at": "2015-01-23 19:20:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-kafka",
+    "full_name": "GannettDigital/chef-kafka",
+    "created_at": "2015-01-28 20:17:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-rvm",
+    "full_name": "GannettDigital/chef-rvm",
+    "created_at": "2015-02-03 15:54:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-couchbase",
+    "full_name": "GannettDigital/chef-couchbase",
+    "created_at": "2015-02-04 14:54:36",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 8,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-mapr_installation-public",
+    "full_name": "GannettDigital/chef-mapr_installation-public",
+    "created_at": "2015-02-11 16:05:27",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 4,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-mapr-spark-public",
+    "full_name": "GannettDigital/chef-mapr-spark-public",
+    "created_at": "2015-02-11 16:05:51",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "cerner_kafka",
+    "full_name": "GannettDigital/cerner_kafka",
+    "created_at": "2015-02-11 16:17:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-mysql",
+    "full_name": "GannettDigital/chef-mysql",
+    "created_at": "2015-02-12 15:49:57",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-selinux",
+    "full_name": "GannettDigital/chef-selinux",
+    "created_at": "2015-02-12 15:59:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-yum-mysql-community-archive",
+    "full_name": "GannettDigital/chef-yum-mysql-community-archive",
+    "created_at": "2015-02-13 21:25:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-smf",
+    "full_name": "GannettDigital/chef-smf",
+    "created_at": "2015-02-13 21:29:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-rbac",
+    "full_name": "GannettDigital/chef-rbac",
+    "created_at": "2015-02-13 21:34:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-packagecloud",
+    "full_name": "GannettDigital/chef-packagecloud",
+    "created_at": "2015-02-24 04:24:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-php-fpm",
+    "full_name": "GannettDigital/chef-php-fpm",
+    "created_at": "2015-03-04 23:23:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-xml",
+    "full_name": "GannettDigital/chef-xml",
+    "created_at": "2015-03-04 23:34:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "MMDrawerController",
+    "full_name": "GannettDigital/MMDrawerController",
+    "created_at": "2015-03-04 23:56:15",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "MMDrawerController-Storyboard",
+    "full_name": "GannettDigital/MMDrawerController-Storyboard",
+    "created_at": "2015-03-05 00:54:43",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-supermarket",
+    "full_name": "GannettDigital/chef-supermarket",
+    "created_at": "2015-03-09 19:02:15",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-redisio",
+    "full_name": "GannettDigital/chef-redisio",
+    "created_at": "2015-03-12 19:18:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ssh-keys",
+    "full_name": "GannettDigital/chef-ssh-keys",
+    "created_at": "2015-03-20 23:05:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-rabbitmq",
+    "full_name": "GannettDigital/chef-rabbitmq",
+    "created_at": "2015-03-21 02:13:43",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-database",
+    "full_name": "GannettDigital/chef-database",
+    "created_at": "2015-03-23 22:10:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-mysql2_chef_gem",
+    "full_name": "GannettDigital/chef-mysql2_chef_gem",
+    "created_at": "2015-03-24 02:17:35",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-mariadb",
+    "full_name": "GannettDigital/chef-mariadb",
+    "created_at": "2015-03-24 03:52:57",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "jump.ios",
+    "full_name": "GannettDigital/jump.ios",
+    "created_at": "2015-04-01 13:01:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-pypicloud",
+    "full_name": "GannettDigital/chef-pypicloud",
+    "created_at": "2015-04-01 17:01:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-handler-profiler",
+    "full_name": "GannettDigital/chef-handler-profiler",
+    "created_at": "2015-04-03 01:07:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "uber-cache-memcached",
+    "full_name": "GannettDigital/uber-cache-memcached",
+    "created_at": "2015-04-07 15:25:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "node-cb-cache",
+    "full_name": "GannettDigital/node-cb-cache",
+    "created_at": "2015-04-07 21:48:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-krb5_support",
+    "full_name": "GannettDigital/chef-krb5_support",
+    "created_at": "2015-04-13 15:45:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-sendmail-ses",
+    "full_name": "GannettDigital/chef-sendmail-ses",
+    "created_at": "2015-04-17 21:34:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-postfix",
+    "full_name": "GannettDigital/chef-postfix",
+    "created_at": "2015-04-20 22:12:48",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-xvfb",
+    "full_name": "GannettDigital/chef-xvfb",
+    "created_at": "2015-04-24 15:23:18",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-firefox",
+    "full_name": "GannettDigital/chef-firefox",
+    "created_at": "2015-04-24 15:25:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-chrome",
+    "full_name": "GannettDigital/chef-chrome",
+    "created_at": "2015-04-24 15:26:23",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "django-memcached-pool",
+    "full_name": "GannettDigital/django-memcached-pool",
+    "created_at": "2015-04-29 16:07:05",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-appdynamics",
+    "full_name": "GannettDigital/chef-appdynamics",
+    "created_at": "2015-05-04 19:53:27",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 4,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-opsmatic",
+    "full_name": "GannettDigital/chef-opsmatic",
+    "created_at": "2015-05-12 15:49:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "busterbunny.js",
+    "full_name": "GannettDigital/busterbunny.js",
+    "created_at": "2015-05-18 17:33:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-datadog",
+    "full_name": "GannettDigital/chef-datadog",
+    "created_at": "2015-05-19 20:47:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-supermarket-omnibus-cookbook",
+    "full_name": "GannettDigital/chef-supermarket-omnibus-cookbook",
+    "created_at": "2015-05-23 17:35:23",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-marathon",
+    "full_name": "GannettDigital/chef-marathon",
+    "created_at": "2015-05-27 01:07:35",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-line",
+    "full_name": "GannettDigital/chef-line",
+    "created_at": "2015-05-27 14:59:08",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-dk",
+    "full_name": "GannettDigital/chef-dk",
+    "created_at": "2015-06-24 15:02:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-selenium",
+    "full_name": "GannettDigital/chef-selenium",
+    "created_at": "2015-06-25 19:00:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ICViewPager",
+    "full_name": "GannettDigital/ICViewPager",
+    "created_at": "2015-07-01 20:41:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-pm2",
+    "full_name": "GannettDigital/chef-pm2",
+    "created_at": "2015-07-13 12:06:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "karma-ng-html2js-preprocessor",
+    "full_name": "GannettDigital/karma-ng-html2js-preprocessor",
+    "created_at": "2015-07-13 14:45:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CoffeeScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "RubyLessons",
+    "full_name": "GannettDigital/RubyLessons",
+    "created_at": "2015-07-20 13:43:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-limits",
+    "full_name": "GannettDigital/chef-limits",
+    "created_at": "2015-07-22 22:10:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "SpiceRack",
+    "full_name": "GannettDigital/SpiceRack",
+    "created_at": "2015-07-23 17:59:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-resource-control",
+    "full_name": "GannettDigital/chef-resource-control",
+    "created_at": "2015-07-23 18:07:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-artifact",
+    "full_name": "GannettDigital/chef-artifact",
+    "created_at": "2015-07-24 14:28:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "nodejs-rpm",
+    "full_name": "GannettDigital/nodejs-rpm",
+    "created_at": "2015-07-29 18:59:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Makefile"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-analytics",
+    "full_name": "GannettDigital/chef-analytics",
+    "created_at": "2015-07-31 15:55:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-server",
+    "full_name": "GannettDigital/chef-server",
+    "created_at": "2015-07-31 15:56:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ingredient",
+    "full_name": "GannettDigital/chef-ingredient",
+    "created_at": "2015-07-31 17:23:07",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-yum-chef",
+    "full_name": "GannettDigital/chef-yum-chef",
+    "created_at": "2015-07-31 18:03:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "java-rpms",
+    "full_name": "GannettDigital/java-rpms",
+    "created_at": "2015-08-03 20:03:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "socket.io-ioredis",
+    "full_name": "GannettDigital/socket.io-ioredis",
+    "created_at": "2015-08-11 14:57:19",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 11,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-openssh",
+    "full_name": "GannettDigital/chef-openssh",
+    "created_at": "2015-08-14 12:54:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-one-nation",
+    "full_name": "GannettDigital/chef-one-nation",
+    "created_at": "2015-08-19 15:23:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-swap",
+    "full_name": "GannettDigital/chef-swap",
+    "created_at": "2015-08-26 15:41:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ffmpeg",
+    "full_name": "GannettDigital/chef-ffmpeg",
+    "created_at": "2015-08-27 14:51:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "fuze",
+    "full_name": "GannettDigital/fuze",
+    "created_at": "2015-08-31 17:48:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "couchnode",
+    "full_name": "GannettDigital/couchnode",
+    "created_at": "2015-09-14 17:30:18",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-chef-splunk",
+    "full_name": "GannettDigital/chef-chef-splunk",
+    "created_at": "2015-09-29 19:03:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-selinuxpolicy",
+    "full_name": "GannettDigital/chef-selinuxpolicy",
+    "created_at": "2015-10-08 14:05:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-jemalloc",
+    "full_name": "GannettDigital/chef-jemalloc",
+    "created_at": "2015-10-12 17:04:18",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-dk-gem",
+    "full_name": "GannettDigital/chef-dk-gem",
+    "created_at": "2015-10-19 13:55:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "MoreLikeThis",
+    "full_name": "GannettDigital/MoreLikeThis",
+    "created_at": "2015-10-21 21:21:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-audit-cis",
+    "full_name": "GannettDigital/chef-audit-cis",
+    "created_at": "2015-10-23 19:10:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "node-omniture",
+    "full_name": "GannettDigital/node-omniture",
+    "created_at": "2015-11-02 19:09:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-firewall",
+    "full_name": "GannettDigital/chef-firewall",
+    "created_at": "2015-11-03 15:13:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "passenger_rpm_automation",
+    "full_name": "GannettDigital/passenger_rpm_automation",
+    "created_at": "2015-11-04 17:12:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "passenger",
+    "full_name": "GannettDigital/passenger",
+    "created_at": "2015-11-04 20:19:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "C++"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "SVPullToRefresh",
+    "full_name": "GannettDigital/SVPullToRefresh",
+    "created_at": "2015-11-11 16:00:23",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "IAPHelper",
+    "full_name": "GannettDigital/IAPHelper",
+    "created_at": "2015-11-16 16:21:52",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "AAShareBubbles",
+    "full_name": "GannettDigital/AAShareBubbles",
+    "created_at": "2015-11-20 19:34:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-apache2",
+    "full_name": "GannettDigital/chef-apache2",
+    "created_at": "2015-12-04 19:14:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "RFQuiltLayout",
+    "full_name": "GannettDigital/RFQuiltLayout",
+    "created_at": "2015-12-11 03:15:24",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-elkstack",
+    "full_name": "GannettDigital/chef-elkstack",
+    "created_at": "2015-12-17 17:22:14",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "consul-rpm",
+    "full_name": "GannettDigital/consul-rpm",
+    "created_at": "2015-12-17 18:04:18",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Shell"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-nvm",
+    "full_name": "GannettDigital/chef-nvm",
+    "created_at": "2015-12-28 20:56:35",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-s3_file",
+    "full_name": "GannettDigital/chef-s3_file",
+    "created_at": "2015-12-29 14:19:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "s3cmd",
+    "full_name": "GannettDigital/s3cmd",
+    "created_at": "2016-01-08 15:41:08",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-ssl_certificate-cookbook",
+    "full_name": "GannettDigital/chef-ssl_certificate-cookbook",
+    "created_at": "2016-01-19 21:32:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "StreamingKit",
+    "full_name": "GannettDigital/StreamingKit",
+    "created_at": "2016-01-22 22:58:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "KNCirclePercentView",
+    "full_name": "GannettDigital/KNCirclePercentView",
+    "created_at": "2016-01-26 01:17:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-compat_resource",
+    "full_name": "GannettDigital/chef-compat_resource",
+    "created_at": "2016-02-17 19:41:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "MWPhotoBrowser",
+    "full_name": "GannettDigital/MWPhotoBrowser",
+    "created_at": "2016-03-09 03:53:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-mongodb3",
+    "full_name": "GannettDigital/chef-mongodb3",
+    "created_at": "2016-03-17 13:12:47",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-user",
+    "full_name": "GannettDigital/chef-user",
+    "created_at": "2016-03-17 14:23:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "photoshop-exporter-jsx",
+    "full_name": "GannettDigital/photoshop-exporter-jsx",
+    "created_at": "2016-03-18 16:24:34",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "littlstar-ios-sdk",
+    "full_name": "GannettDigital/littlstar-ios-sdk",
+    "created_at": "2016-03-23 16:58:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-docker",
+    "full_name": "GannettDigital/chef-docker",
+    "created_at": "2016-03-24 15:17:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-tyk",
+    "full_name": "GannettDigital/chef-tyk",
+    "created_at": "2016-04-07 13:34:10",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-wp-cli",
+    "full_name": "GannettDigital/chef-wp-cli",
+    "created_at": "2016-04-07 18:28:06",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-curl",
+    "full_name": "GannettDigital/chef-curl",
+    "created_at": "2016-04-08 20:19:16",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "cfssl",
+    "full_name": "GannettDigital/cfssl",
+    "created_at": "2016-04-19 13:39:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "OmnitureTextLoader",
+    "full_name": "GannettDigital/OmnitureTextLoader",
+    "created_at": "2016-04-19 18:53:33",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-magic",
+    "full_name": "GannettDigital/chef-magic",
+    "created_at": "2016-04-26 15:39:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "pongo2",
+    "full_name": "GannettDigital/pongo2",
+    "created_at": "2016-04-28 15:46:07",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ruby-rpm",
+    "full_name": "GannettDigital/ruby-rpm",
+    "created_at": "2016-04-28 20:09:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "angular-ckeditor",
+    "full_name": "GannettDigital/angular-ckeditor",
+    "created_at": "2016-05-18 17:30:40",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-taurus",
+    "full_name": "GannettDigital/chef-taurus",
+    "created_at": "2016-06-08 15:23:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "editors-pick-feeds",
+    "full_name": "GannettDigital/editors-pick-feeds",
+    "created_at": "2016-06-13 20:30:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "palinode",
+    "full_name": "GannettDigital/palinode",
+    "created_at": "2016-06-16 19:41:26",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "fudd",
+    "full_name": "GannettDigital/fudd",
+    "created_at": "2016-06-17 20:43:09",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-chef-compliance",
+    "full_name": "GannettDigital/chef-chef-compliance",
+    "created_at": "2016-06-30 19:14:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chefconf2016",
+    "full_name": "GannettDigital/chefconf2016",
+    "created_at": "2016-07-07 15:19:31",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "gannett-developer-candidate-exercise",
+    "full_name": "GannettDigital/gannett-developer-candidate-exercise",
+    "created_at": "2016-07-20 18:33:33",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 12,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ckeditor-releases",
+    "full_name": "GannettDigital/ckeditor-releases",
+    "created_at": "2016-07-21 21:09:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 7,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "angular-daterangepicker",
+    "full_name": "GannettDigital/angular-daterangepicker",
+    "created_at": "2016-07-29 19:42:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "CoffeeScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-clamav",
+    "full_name": "GannettDigital/chef-clamav",
+    "created_at": "2016-08-23 14:37:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "my-newspaper-service",
+    "full_name": "GannettDigital/my-newspaper-service",
+    "created_at": "2016-09-07 17:56:29",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "CSS"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-audit",
+    "full_name": "GannettDigital/chef-audit",
+    "created_at": "2016-09-13 14:35:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "node-imagemagick",
+    "full_name": "GannettDigital/node-imagemagick",
+    "created_at": "2016-09-13 18:56:21",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ngImgCropFullExtended",
+    "full_name": "GannettDigital/ngImgCropFullExtended",
+    "created_at": "2016-09-15 21:06:33",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "vault-ssh-helper",
+    "full_name": "GannettDigital/vault-ssh-helper",
+    "created_at": "2016-09-20 19:07:54",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "vault-rpm",
+    "full_name": "GannettDigital/vault-rpm",
+    "created_at": "2016-09-20 21:23:46",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "vault",
+    "full_name": "GannettDigital/vault",
+    "created_at": "2016-09-21 21:44:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "DateTools",
+    "full_name": "GannettDigital/DateTools",
+    "created_at": "2016-09-26 17:47:25",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Objective-C"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-libarchive",
+    "full_name": "GannettDigital/chef-libarchive",
+    "created_at": "2016-09-28 17:27:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-nssm",
+    "full_name": "GannettDigital/chef-nssm",
+    "created_at": "2016-09-28 17:45:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "sftpserver",
+    "full_name": "GannettDigital/sftpserver",
+    "created_at": "2016-10-24 17:38:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "app-localize-behavior",
+    "full_name": "GannettDigital/app-localize-behavior",
+    "created_at": "2016-11-16 18:24:35",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-memcached",
+    "full_name": "GannettDigital/chef-memcached",
+    "created_at": "2016-12-01 15:15:46",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "echo",
+    "full_name": "GannettDigital/echo",
+    "created_at": "2016-12-05 15:50:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "puppet-midonet",
+    "full_name": "GannettDigital/puppet-midonet",
+    "created_at": "2016-12-13 18:55:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "go-swagger-microservice-skeleton",
+    "full_name": "GannettDigital/go-swagger-microservice-skeleton",
+    "created_at": "2017-01-05 19:15:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "go-swagger",
+    "full_name": "GannettDigital/go-swagger",
+    "created_at": "2017-01-13 18:59:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-aide",
+    "full_name": "GannettDigital/chef-aide",
+    "created_at": "2017-01-20 19:57:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "Prebid.js",
+    "full_name": "GannettDigital/Prebid.js",
+    "created_at": "2017-01-30 21:30:35",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "newrelic",
+    "full_name": "GannettDigital/newrelic",
+    "created_at": "2017-02-07 20:17:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "pbxproj-dom",
+    "full_name": "GannettDigital/pbxproj-dom",
+    "created_at": "2017-02-16 21:12:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "go-newrelic-plugin",
+    "full_name": "GannettDigital/go-newrelic-plugin",
+    "created_at": "2017-02-24 19:20:01",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "pycar",
+    "full_name": "GannettDigital/pycar",
+    "created_at": "2017-03-15 18:01:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform",
+    "full_name": "GannettDigital/terraform",
+    "created_at": "2017-04-07 19:43:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "amphtml",
+    "full_name": "GannettDigital/amphtml",
+    "created_at": "2017-05-16 14:02:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "content-solutions-candidate-assessment",
+    "full_name": "GannettDigital/content-solutions-candidate-assessment",
+    "created_at": "2017-06-29 12:36:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "go-fastly",
+    "full_name": "GannettDigital/go-fastly",
+    "created_at": "2017-06-30 13:11:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-provider-google",
+    "full_name": "GannettDigital/terraform-provider-google",
+    "created_at": "2017-07-10 18:27:07",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "DCDSiteInfo",
+    "full_name": "GannettDigital/DCDSiteInfo",
+    "created_at": "2017-07-27 01:17:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chesterfield",
+    "full_name": "GannettDigital/chesterfield",
+    "created_at": "2017-08-02 15:34:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "hugo",
+    "full_name": "GannettDigital/hugo",
+    "created_at": "2017-08-14 15:40:12",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ui-select-infinity",
+    "full_name": "GannettDigital/ui-select-infinity",
+    "created_at": "2017-08-29 14:38:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "usatsi_media_screen_wp_plugin",
+    "full_name": "GannettDigital/usatsi_media_screen_wp_plugin",
+    "created_at": "2017-09-05 20:34:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "api-docs",
+    "full_name": "GannettDigital/api-docs",
+    "created_at": "2017-10-04 16:01:49",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "windows-baseline",
+    "full_name": "GannettDigital/windows-baseline",
+    "created_at": "2017-10-06 03:50:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-sumologic-collector",
+    "full_name": "GannettDigital/chef-sumologic-collector",
+    "created_at": "2017-10-18 14:33:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "nexpose",
+    "full_name": "GannettDigital/nexpose",
+    "created_at": "2018-01-03 16:39:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "BootstrapCK4-Skin",
+    "full_name": "GannettDigital/BootstrapCK4-Skin",
+    "created_at": "2018-01-26 15:44:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "jsTree-directive",
+    "full_name": "GannettDigital/jsTree-directive",
+    "created_at": "2018-01-26 15:44:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ngCropper",
+    "full_name": "GannettDigital/ngCropper",
+    "created_at": "2018-01-26 15:44:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "angular-bootstrap-slider",
+    "full_name": "GannettDigital/angular-bootstrap-slider",
+    "created_at": "2018-01-29 14:47:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "simulato",
+    "full_name": "GannettDigital/simulato",
+    "created_at": "2018-03-05 22:36:44",
+    "fork": false,
+    "stargazers_count": 56,
+    "forks_count": 6,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "simulato-test-site",
+    "full_name": "GannettDigital/simulato-test-site",
+    "created_at": "2018-03-05 22:37:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "CompileDaemon",
+    "full_name": "GannettDigital/CompileDaemon",
+    "created_at": "2018-03-21 16:14:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "jstransform",
+    "full_name": "GannettDigital/jstransform",
+    "created_at": "2018-03-29 16:56:28",
+    "fork": false,
+    "stargazers_count": 21,
+    "forks_count": 6,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "sumo-collector-management-client",
+    "full_name": "GannettDigital/sumo-collector-management-client",
+    "created_at": "2018-03-30 17:15:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "remote-training",
+    "full_name": "GannettDigital/remote-training",
+    "created_at": "2018-04-13 19:41:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 4,
+    "language": "CSS"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "dp-formatconverter",
+    "full_name": "GannettDigital/dp-formatconverter",
+    "created_at": "2018-04-16 15:11:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "kube-state-metrics",
+    "full_name": "GannettDigital/kube-state-metrics",
+    "created_at": "2018-04-18 14:40:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "remote-eu-experience-sites",
+    "full_name": "GannettDigital/remote-eu-experience-sites",
+    "created_at": "2018-04-25 22:35:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "CSS"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "graphql",
+    "full_name": "GannettDigital/graphql",
+    "created_at": "2018-05-01 18:31:49",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-provider-fastly",
+    "full_name": "GannettDigital/terraform-provider-fastly",
+    "created_at": "2018-05-02 13:44:19",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "goFiddleFastly",
+    "full_name": "GannettDigital/goFiddleFastly",
+    "created_at": "2018-05-10 14:03:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chamberlain",
+    "full_name": "GannettDigital/chamberlain",
+    "created_at": "2018-05-14 13:57:24",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Java"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "graphql-gen",
+    "full_name": "GannettDigital/graphql-gen",
+    "created_at": "2018-06-01 14:40:30",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "sre-seo-robots",
+    "full_name": "GannettDigital/sre-seo-robots",
+    "created_at": "2018-07-25 15:10:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "spark-daria",
+    "full_name": "GannettDigital/spark-daria",
+    "created_at": "2018-08-13 22:51:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Scala"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-provider-firebase",
+    "full_name": "GannettDigital/terraform-provider-firebase",
+    "created_at": "2018-08-21 15:50:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-provider-artifactory",
+    "full_name": "GannettDigital/terraform-provider-artifactory",
+    "created_at": "2018-09-01 01:47:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "msgp",
+    "full_name": "GannettDigital/msgp",
+    "created_at": "2018-09-05 22:08:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-provider-apigee",
+    "full_name": "GannettDigital/terraform-provider-apigee",
+    "created_at": "2018-10-05 14:42:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "go-apigee-edge",
+    "full_name": "GannettDigital/go-apigee-edge",
+    "created_at": "2018-10-05 15:11:18",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-provider-gsuite",
+    "full_name": "GannettDigital/terraform-provider-gsuite",
+    "created_at": "2018-10-31 20:58:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "connect-couchbase",
+    "full_name": "GannettDigital/connect-couchbase",
+    "created_at": "2018-11-14 19:55:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "mustache",
+    "full_name": "GannettDigital/mustache",
+    "created_at": "2019-02-05 16:20:08",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "LIDtool",
+    "full_name": "GannettDigital/LIDtool",
+    "created_at": "2019-02-08 21:20:26",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-google-forseti",
+    "full_name": "GannettDigital/terraform-google-forseti",
+    "created_at": "2019-02-21 16:21:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HCL"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "atoms-demo-lib",
+    "full_name": "GannettDigital/atoms-demo-lib",
+    "created_at": "2019-04-04 18:25:41",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "dict-to-protobuf",
+    "full_name": "GannettDigital/dict-to-protobuf",
+    "created_at": "2019-04-04 19:37:18",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "spark-sign-up",
+    "full_name": "GannettDigital/spark-sign-up",
+    "created_at": "2019-05-21 16:18:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "jsonparser",
+    "full_name": "GannettDigital/jsonparser",
+    "created_at": "2019-07-14 23:24:43",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "airflow",
+    "full_name": "GannettDigital/airflow",
+    "created_at": "2019-07-17 14:44:28",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "metorikku",
+    "full_name": "GannettDigital/metorikku",
+    "created_at": "2019-07-18 19:00:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Scala"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "chef-docker_compose",
+    "full_name": "GannettDigital/chef-docker_compose",
+    "created_at": "2019-10-07 12:25:05",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "socket.io-pubsub",
+    "full_name": "GannettDigital/socket.io-pubsub",
+    "created_at": "2020-01-02 13:59:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "model-viewer",
+    "full_name": "GannettDigital/model-viewer",
+    "created_at": "2020-04-15 18:42:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "target-bigquery",
+    "full_name": "GannettDigital/target-bigquery",
+    "created_at": "2020-05-08 18:22:01",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "tap-jira",
+    "full_name": "GannettDigital/tap-jira",
+    "created_at": "2020-05-08 18:24:35",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-google-sql-db",
+    "full_name": "GannettDigital/terraform-google-sql-db",
+    "created_at": "2020-06-10 20:46:36",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HCL"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "action-github-changelog-generator",
+    "full_name": "GannettDigital/action-github-changelog-generator",
+    "created_at": "2020-10-16 19:15:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "read-file-action",
+    "full_name": "GannettDigital/read-file-action",
+    "created_at": "2020-10-16 20:20:46",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "dive-action",
+    "full_name": "GannettDigital/dive-action",
+    "created_at": "2020-10-23 19:55:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "setup-vault",
+    "full_name": "GannettDigital/setup-vault",
+    "created_at": "2020-11-30 20:32:12",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "authoring-story-editor-selfhosted-prototype",
+    "full_name": "GannettDigital/authoring-story-editor-selfhosted-prototype",
+    "created_at": "2021-01-19 13:03:22",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "authoring-story-editor-sample-wp-plugin",
+    "full_name": "GannettDigital/authoring-story-editor-sample-wp-plugin",
+    "created_at": "2021-01-19 13:22:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "terraform-google-cloud-storage",
+    "full_name": "GannettDigital/terraform-google-cloud-storage",
+    "created_at": "2021-03-17 19:24:44",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "gojsonschema",
+    "full_name": "GannettDigital/gojsonschema",
+    "created_at": "2021-07-30 17:55:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Go"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "white-house-covid-report",
+    "full_name": "GannettDigital/white-house-covid-report",
+    "created_at": "2021-12-27 18:10:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "erb-hiera",
+    "full_name": "GannettDigital/erb-hiera",
+    "created_at": "2022-04-19 17:26:34",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "actions-library-builder",
+    "full_name": "GannettDigital/actions-library-builder",
+    "created_at": "2022-05-03 14:14:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "ml-ic-corp-pantheon-websites",
+    "full_name": "GannettDigital/ml-ic-corp-pantheon-websites",
+    "created_at": "2022-06-29 18:12:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "gannettdigital",
+    "name": "localiq-headers-migration",
+    "full_name": "GannettDigital/localiq-headers-migration",
+    "created_at": "2022-07-11 16:05:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "gannettdigital",
+    "name": "wizeline-candidate-assesment",
+    "full_name": "GannettDigital/wizeline-candidate-assesment",
+    "created_at": "2022-09-19 18:20:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Kotlin"
+  }
+]

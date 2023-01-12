@@ -1,0 +1,652 @@
+[
+  {
+    "org": "reuters-graphics",
+    "name": "ai2html",
+    "full_name": "reuters-graphics/ai2html",
+    "created_at": "2019-07-09 02:36:27",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "style",
+    "full_name": "reuters-graphics/style",
+    "created_at": "2019-12-10 19:52:31",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_graphics-rig",
+    "full_name": "reuters-graphics/bluprint_graphics-rig",
+    "created_at": "2020-01-02 16:51:16",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "ask-json",
+    "full_name": "reuters-graphics/ask-json",
+    "created_at": "2020-01-05 21:59:02",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "metatagger-webpack-plugin",
+    "full_name": "reuters-graphics/metatagger-webpack-plugin",
+    "created_at": "2020-01-06 19:27:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "html-webpack-prerender-plugin",
+    "full_name": "reuters-graphics/html-webpack-prerender-plugin",
+    "created_at": "2020-01-09 17:50:24",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "test-bluprint",
+    "full_name": "reuters-graphics/test-bluprint",
+    "created_at": "2020-01-17 23:52:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint",
+    "full_name": "reuters-graphics/bluprint",
+    "created_at": "2020-01-20 01:17:41",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "runner",
+    "full_name": "reuters-graphics/runner",
+    "created_at": "2020-01-31 01:40:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "ReutersCharter",
+    "full_name": "reuters-graphics/ReutersCharter",
+    "created_at": "2020-02-05 14:35:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "trElex",
+    "full_name": "reuters-graphics/trElex",
+    "created_at": "2020-02-05 20:29:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "test-bluprint-parts",
+    "full_name": "reuters-graphics/test-bluprint-parts",
+    "created_at": "2020-02-14 18:14:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_github-action-scraper",
+    "full_name": "reuters-graphics/bluprint_github-action-scraper",
+    "created_at": "2020-03-19 00:56:59",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "action_covid-stringency-index",
+    "full_name": "reuters-graphics/action_covid-stringency-index",
+    "created_at": "2020-04-03 13:12:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "action_covid-acaps",
+    "full_name": "reuters-graphics/action_covid-acaps",
+    "created_at": "2020-04-06 14:45:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "action_covid-google-mobility",
+    "full_name": "reuters-graphics/action_covid-google-mobility",
+    "created_at": "2020-04-07 12:00:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "graphics-atlas-client",
+    "full_name": "reuters-graphics/graphics-atlas-client",
+    "created_at": "2020-06-18 13:07:46",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-weeklyaverage",
+    "full_name": "reuters-graphics/chart-module-weeklyaverage",
+    "created_at": "2020-06-30 11:52:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-CountryLockdownIndicatorStrips",
+    "full_name": "reuters-graphics/chart-module-CountryLockdownIndicatorStrips",
+    "created_at": "2020-07-07 06:51:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-stacked-area-chart",
+    "full_name": "reuters-graphics/chart-module-stacked-area-chart",
+    "created_at": "2020-07-07 21:44:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "d3-locale",
+    "full_name": "reuters-graphics/d3-locale",
+    "created_at": "2020-07-13 16:05:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-countryRankingStrips",
+    "full_name": "reuters-graphics/chart-module-countryRankingStrips",
+    "created_at": "2020-07-20 08:45:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-globetrotter",
+    "full_name": "reuters-graphics/chart-module-globetrotter",
+    "created_at": "2020-07-21 06:04:15",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "react-smart-text",
+    "full_name": "reuters-graphics/react-smart-text",
+    "created_at": "2020-07-22 20:19:21",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-covid-wave",
+    "full_name": "reuters-graphics/chart-module-covid-wave",
+    "created_at": "2020-07-26 22:23:26",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-global-rate-map",
+    "full_name": "reuters-graphics/chart-module-global-rate-map",
+    "created_at": "2020-07-27 06:19:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "d3-appendselect",
+    "full_name": "reuters-graphics/d3-appendselect",
+    "created_at": "2020-08-16 00:19:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_node-library",
+    "full_name": "reuters-graphics/bluprint_node-library",
+    "created_at": "2020-08-23 14:07:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "teams-klaxon",
+    "full_name": "reuters-graphics/teams-klaxon",
+    "created_at": "2020-08-23 16:20:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "archieml-prettifier",
+    "full_name": "reuters-graphics/archieml-prettifier",
+    "created_at": "2020-08-29 23:10:51",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-us-covid-cartogram",
+    "full_name": "reuters-graphics/chart-module-us-covid-cartogram",
+    "created_at": "2020-10-14 04:09:31",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_chart-module-svelte",
+    "full_name": "reuters-graphics/bluprint_chart-module-svelte",
+    "created_at": "2020-11-15 04:11:18",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "awesome-charts",
+    "full_name": "reuters-graphics/awesome-charts",
+    "created_at": "2020-11-15 14:28:24",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 5,
+    "language": null
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-covid-testing",
+    "full_name": "reuters-graphics/chart-module-covid-testing",
+    "created_at": "2020-11-25 06:24:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "awesome-bluprints",
+    "full_name": "reuters-graphics/awesome-bluprints",
+    "created_at": "2020-12-09 12:08:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint-google-doc-template",
+    "full_name": "reuters-graphics/bluprint-google-doc-template",
+    "created_at": "2020-12-10 18:21:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "ejector",
+    "full_name": "reuters-graphics/ejector",
+    "created_at": "2021-01-02 01:00:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-testing-dots",
+    "full_name": "reuters-graphics/chart-module-testing-dots",
+    "created_at": "2021-01-04 14:34:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-vaccination-cumulative",
+    "full_name": "reuters-graphics/chart-module-vaccination-cumulative",
+    "created_at": "2021-01-13 09:20:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "svelte-scroller",
+    "full_name": "reuters-graphics/svelte-scroller",
+    "created_at": "2021-01-14 19:45:06",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-vaccination-countries",
+    "full_name": "reuters-graphics/chart-module-vaccination-countries",
+    "created_at": "2021-01-18 06:45:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-parliament-chart",
+    "full_name": "reuters-graphics/chart-module-parliament-chart",
+    "created_at": "2021-01-27 00:27:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "us-congressional-atlas",
+    "full_name": "reuters-graphics/us-congressional-atlas",
+    "created_at": "2021-01-31 01:32:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_Olympics",
+    "full_name": "reuters-graphics/bluprint_Olympics",
+    "created_at": "2021-02-01 16:41:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_node-cli",
+    "full_name": "reuters-graphics/bluprint_node-cli",
+    "created_at": "2021-02-13 10:24:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-spike-map",
+    "full_name": "reuters-graphics/chart-module-spike-map",
+    "created_at": "2021-02-13 23:55:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-vaccination-map",
+    "full_name": "reuters-graphics/chart-module-vaccination-map",
+    "created_at": "2021-03-02 23:39:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-vaccination-income",
+    "full_name": "reuters-graphics/chart-module-vaccination-income",
+    "created_at": "2021-03-08 08:56:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-vaccine-pace-chart",
+    "full_name": "reuters-graphics/chart-module-vaccine-pace-chart",
+    "created_at": "2021-03-18 23:43:49",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_graphics-kit",
+    "full_name": "reuters-graphics/bluprint_graphics-kit",
+    "created_at": "2021-03-28 17:06:41",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 4,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "graphics-kit-publisher",
+    "full_name": "reuters-graphics/graphics-kit-publisher",
+    "created_at": "2021-04-04 18:03:58",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-polling-lines",
+    "full_name": "reuters-graphics/chart-module-polling-lines",
+    "created_at": "2021-04-14 18:44:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-topic-polling",
+    "full_name": "reuters-graphics/chart-module-topic-polling",
+    "created_at": "2021-04-14 18:45:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "chart-module-india-covid-cartogram",
+    "full_name": "reuters-graphics/chart-module-india-covid-cartogram",
+    "created_at": "2021-05-10 03:51:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "newsroom-datawrapper-guide",
+    "full_name": "reuters-graphics/newsroom-datawrapper-guide",
+    "created_at": "2021-05-25 19:37:04",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "graphics-svelte-components",
+    "full_name": "reuters-graphics/graphics-svelte-components",
+    "created_at": "2021-07-07 17:14:21",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 3,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "ai2svelte",
+    "full_name": "reuters-graphics/ai2svelte",
+    "created_at": "2021-09-07 20:50:53",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_docs-site",
+    "full_name": "reuters-graphics/bluprint_docs-site",
+    "created_at": "2021-11-08 13:47:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "docs_graphics-kit",
+    "full_name": "reuters-graphics/docs_graphics-kit",
+    "created_at": "2021-11-08 19:41:17",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "bluprint_django-app",
+    "full_name": "reuters-graphics/bluprint_django-app",
+    "created_at": "2021-11-21 14:58:44",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "django-graphics-staff",
+    "full_name": "reuters-graphics/django-graphics-staff",
+    "created_at": "2021-12-25 12:46:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "django-graphics-token",
+    "full_name": "reuters-graphics/django-graphics-token",
+    "created_at": "2021-12-26 02:30:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "example_svelte-graph-patterns",
+    "full_name": "reuters-graphics/example_svelte-graph-patterns",
+    "created_at": "2022-05-02 09:46:20",
+    "fork": false,
+    "stargazers_count": 107,
+    "forks_count": 6,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "graphics-components",
+    "full_name": "reuters-graphics/graphics-components",
+    "created_at": "2022-08-11 14:39:37",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "reuters-graphics",
+    "name": "first-repo-test",
+    "full_name": "reuters-graphics/first-repo-test",
+    "created_at": "2022-08-23 18:51:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

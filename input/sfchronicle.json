@@ -1,0 +1,1912 @@
+[
+  {
+    "org": "sfchronicle",
+    "name": "newsgate-parser",
+    "full_name": "sfchronicle/newsgate-parser",
+    "created_at": "2015-06-08 19:44:27",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "Flask-SuperAdmin",
+    "full_name": "sfchronicle/Flask-SuperAdmin",
+    "created_at": "2015-06-11 00:50:17",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "flask-breakingnews-admin",
+    "full_name": "sfchronicle/flask-breakingnews-admin",
+    "created_at": "2015-06-11 16:36:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "airbnb",
+    "full_name": "sfchronicle/airbnb",
+    "created_at": "2015-06-18 00:04:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "ingleside",
+    "full_name": "sfchronicle/ingleside",
+    "created_at": "2015-06-22 22:09:00",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "d3-vector-tiles",
+    "full_name": "sfchronicle/d3-vector-tiles",
+    "created_at": "2015-06-27 23:07:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "d3-tip",
+    "full_name": "sfchronicle/d3-tip",
+    "created_at": "2015-06-30 17:32:36",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "gh-issue-label-generator",
+    "full_name": "sfchronicle/gh-issue-label-generator",
+    "created_at": "2015-07-15 19:24:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "mapzen-template",
+    "full_name": "sfchronicle/mapzen-template",
+    "created_at": "2015-08-05 23:09:11",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfchronicle.github.io",
+    "full_name": "sfchronicle/sfchronicle.github.io",
+    "created_at": "2015-08-06 22:06:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "pillars-among-the-ruins",
+    "full_name": "sfchronicle/pillars-among-the-ruins",
+    "created_at": "2015-08-06 23:27:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "jumping-the-shark",
+    "full_name": "sfchronicle/jumping-the-shark",
+    "created_at": "2015-08-12 00:51:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "opd-use-of-force",
+    "full_name": "sfchronicle/opd-use-of-force",
+    "created_at": "2015-08-29 00:27:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "django-project-template",
+    "full_name": "sfchronicle/django-project-template",
+    "created_at": "2015-09-03 00:02:28",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sf-voterguide-2015",
+    "full_name": "sfchronicle/sf-voterguide-2015",
+    "created_at": "2015-09-15 17:40:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "mapsense.js",
+    "full_name": "sfchronicle/mapsense.js",
+    "created_at": "2015-09-18 19:44:42",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "eviction-affordable-housing-analysis",
+    "full_name": "sfchronicle/eviction-affordable-housing-analysis",
+    "created_at": "2015-09-22 00:31:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "homelessness-map",
+    "full_name": "sfchronicle/homelessness-map",
+    "created_at": "2015-10-19 23:23:56",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "newsapp-template",
+    "full_name": "sfchronicle/newsapp-template",
+    "created_at": "2016-01-26 00:12:17",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "superbowl-quiz",
+    "full_name": "sfchronicle/superbowl-quiz",
+    "created_at": "2016-01-26 19:21:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "texas-migration-lines",
+    "full_name": "sfchronicle/texas-migration-lines",
+    "created_at": "2016-01-27 00:08:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "drought-recovery-v2",
+    "full_name": "sfchronicle/drought-recovery-v2",
+    "created_at": "2016-02-04 16:38:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "superbowl-quiz-local",
+    "full_name": "sfchronicle/superbowl-quiz-local",
+    "created_at": "2016-02-05 00:57:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "gender-pay-gap",
+    "full_name": "sfchronicle/gender-pay-gap",
+    "created_at": "2016-02-17 22:23:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "top-restaurants-2016",
+    "full_name": "sfchronicle/top-restaurants-2016",
+    "created_at": "2016-02-27 01:14:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "visas",
+    "full_name": "sfchronicle/visas",
+    "created_at": "2016-03-17 00:29:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "top100",
+    "full_name": "sfchronicle/top100",
+    "created_at": "2016-03-29 21:22:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "teacher-pay",
+    "full_name": "sfchronicle/teacher-pay",
+    "created_at": "2016-04-13 21:56:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sea-level-rise",
+    "full_name": "sfchronicle/sea-level-rise",
+    "created_at": "2016-04-22 18:51:40",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "visas-combined",
+    "full_name": "sfchronicle/visas-combined",
+    "created_at": "2016-04-22 18:53:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "homeless",
+    "full_name": "sfchronicle/homeless",
+    "created_at": "2016-05-20 23:23:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "homelessness",
+    "full_name": "sfchronicle/homelessness",
+    "created_at": "2016-05-27 02:59:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "lms-film",
+    "full_name": "sfchronicle/lms-film",
+    "created_at": "2016-06-14 17:38:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "airbnb2016",
+    "full_name": "sfchronicle/airbnb2016",
+    "created_at": "2016-07-11 21:12:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "airbnb16_site",
+    "full_name": "sfchronicle/airbnb16_site",
+    "created_at": "2016-07-14 22:11:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "restauranttaxes",
+    "full_name": "sfchronicle/restauranttaxes",
+    "created_at": "2016-07-15 17:10:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "blm",
+    "full_name": "sfchronicle/blm",
+    "created_at": "2016-07-22 19:37:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "projects",
+    "full_name": "sfchronicle/projects",
+    "created_at": "2016-07-22 21:02:11",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "women-olympics-timeline",
+    "full_name": "sfchronicle/women-olympics-timeline",
+    "created_at": "2016-07-27 00:03:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfmarathon",
+    "full_name": "sfchronicle/sfmarathon",
+    "created_at": "2016-07-28 23:35:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfmarathon-setup",
+    "full_name": "sfchronicle/sfmarathon-setup",
+    "created_at": "2016-07-29 01:16:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "jailed",
+    "full_name": "sfchronicle/jailed",
+    "created_at": "2016-08-02 17:27:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "resolutions",
+    "full_name": "sfchronicle/resolutions",
+    "created_at": "2016-08-08 22:39:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sos-scraper",
+    "full_name": "sfchronicle/sos-scraper",
+    "created_at": "2016-08-08 23:41:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sealevelrise-parts",
+    "full_name": "sfchronicle/sealevelrise-parts",
+    "created_at": "2016-08-15 20:30:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "restaurant-pricing",
+    "full_name": "sfchronicle/restaurant-pricing",
+    "created_at": "2016-08-16 17:08:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "election2016",
+    "full_name": "sfchronicle/election2016",
+    "created_at": "2016-08-18 23:49:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "voter-guide-2016",
+    "full_name": "sfchronicle/voter-guide-2016",
+    "created_at": "2016-08-19 19:02:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "component-image-slider",
+    "full_name": "sfchronicle/component-image-slider",
+    "created_at": "2016-08-24 22:44:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "lucas",
+    "full_name": "sfchronicle/lucas",
+    "created_at": "2016-08-25 00:05:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "najee",
+    "full_name": "sfchronicle/najee",
+    "created_at": "2016-08-25 19:38:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "bart-timeline",
+    "full_name": "sfchronicle/bart-timeline",
+    "created_at": "2016-08-31 22:08:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "chroncovers",
+    "full_name": "sfchronicle/chroncovers",
+    "created_at": "2016-09-09 21:24:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "bauer30years",
+    "full_name": "sfchronicle/bauer30years",
+    "created_at": "2016-09-14 20:15:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "rooftops",
+    "full_name": "sfchronicle/rooftops",
+    "created_at": "2016-09-27 19:50:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "potus-food-timeline",
+    "full_name": "sfchronicle/potus-food-timeline",
+    "created_at": "2016-09-29 20:00:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "tower",
+    "full_name": "sfchronicle/tower",
+    "created_at": "2016-10-05 20:34:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "seafood",
+    "full_name": "sfchronicle/seafood",
+    "created_at": "2016-10-19 22:31:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "oakland-fire",
+    "full_name": "sfchronicle/oakland-fire",
+    "created_at": "2016-10-20 17:45:17",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "campaign-finance",
+    "full_name": "sfchronicle/campaign-finance",
+    "created_at": "2016-10-21 03:13:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "elex-countdown",
+    "full_name": "sfchronicle/elex-countdown",
+    "created_at": "2016-10-24 18:24:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "homeless-candidates",
+    "full_name": "sfchronicle/homeless-candidates",
+    "created_at": "2016-10-31 18:51:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "campaign-finance-part2",
+    "full_name": "sfchronicle/campaign-finance-part2",
+    "created_at": "2016-11-02 15:38:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "divisionstreet",
+    "full_name": "sfchronicle/divisionstreet",
+    "created_at": "2016-11-19 03:39:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "help-guide",
+    "full_name": "sfchronicle/help-guide",
+    "created_at": "2016-12-01 18:38:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "quiz-template",
+    "full_name": "sfchronicle/quiz-template",
+    "created_at": "2016-12-08 21:57:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "lms-update",
+    "full_name": "sfchronicle/lms-update",
+    "created_at": "2016-12-13 21:31:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "cow-palace",
+    "full_name": "sfchronicle/cow-palace",
+    "created_at": "2016-12-23 23:25:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "najee-school",
+    "full_name": "sfchronicle/najee-school",
+    "created_at": "2016-12-24 02:42:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "dispatch-data",
+    "full_name": "sfchronicle/dispatch-data",
+    "created_at": "2017-01-04 17:07:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "snowwater",
+    "full_name": "sfchronicle/snowwater",
+    "created_at": "2017-01-11 06:01:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "be-in-pdfs",
+    "full_name": "sfchronicle/be-in-pdfs",
+    "created_at": "2017-01-12 22:09:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "trump-v-cal",
+    "full_name": "sfchronicle/trump-v-cal",
+    "created_at": "2017-01-13 00:49:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "baseball-draft",
+    "full_name": "sfchronicle/baseball-draft",
+    "created_at": "2017-01-13 18:26:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "pensions-v2",
+    "full_name": "sfchronicle/pensions-v2",
+    "created_at": "2017-01-18 06:37:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "pensions",
+    "full_name": "sfchronicle/pensions",
+    "created_at": "2017-01-18 06:38:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "macncheese",
+    "full_name": "sfchronicle/macncheese",
+    "created_at": "2017-01-19 00:55:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "mission-bay-map",
+    "full_name": "sfchronicle/mission-bay-map",
+    "created_at": "2017-01-25 21:30:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "homicides",
+    "full_name": "sfchronicle/homicides",
+    "created_at": "2017-01-26 00:09:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "beer-map",
+    "full_name": "sfchronicle/beer-map",
+    "created_at": "2017-01-26 00:13:37",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "dc-women-march",
+    "full_name": "sfchronicle/dc-women-march",
+    "created_at": "2017-01-26 04:56:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "coach-vanderveer-animation",
+    "full_name": "sfchronicle/coach-vanderveer-animation",
+    "created_at": "2017-02-01 21:44:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "vanderveer",
+    "full_name": "sfchronicle/vanderveer",
+    "created_at": "2017-02-02 03:44:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "trump-100-days",
+    "full_name": "sfchronicle/trump-100-days",
+    "created_at": "2017-02-03 01:23:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "shadow-cabinet",
+    "full_name": "sfchronicle/shadow-cabinet",
+    "created_at": "2017-02-04 01:23:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "protest-map",
+    "full_name": "sfchronicle/protest-map",
+    "created_at": "2017-02-07 01:01:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "civic-center-timeline",
+    "full_name": "sfchronicle/civic-center-timeline",
+    "created_at": "2017-02-09 17:20:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "future-of-love",
+    "full_name": "sfchronicle/future-of-love",
+    "created_at": "2017-02-10 19:37:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "oroville-water",
+    "full_name": "sfchronicle/oroville-water",
+    "created_at": "2017-02-21 18:21:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "oroville-inline",
+    "full_name": "sfchronicle/oroville-inline",
+    "created_at": "2017-03-03 19:47:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sol-timeline",
+    "full_name": "sfchronicle/sol-timeline",
+    "created_at": "2017-03-10 02:42:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "green0319",
+    "full_name": "sfchronicle/green0319",
+    "created_at": "2017-03-16 17:27:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "farmers-markets-map",
+    "full_name": "sfchronicle/farmers-markets-map",
+    "created_at": "2017-03-20 23:19:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "ca-migration",
+    "full_name": "sfchronicle/ca-migration",
+    "created_at": "2017-03-22 20:55:41",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sol-landingpage",
+    "full_name": "sfchronicle/sol-landingpage",
+    "created_at": "2017-03-22 23:00:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "raiders-timelines",
+    "full_name": "sfchronicle/raiders-timelines",
+    "created_at": "2017-03-27 20:45:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "future-of-money",
+    "full_name": "sfchronicle/future-of-money",
+    "created_at": "2017-04-04 23:12:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "top100-2017-landing",
+    "full_name": "sfchronicle/top100-2017-landing",
+    "created_at": "2017-04-05 19:45:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "top100-2017",
+    "full_name": "sfchronicle/top100-2017",
+    "created_at": "2017-04-15 03:32:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "demo_repo",
+    "full_name": "sfchronicle/demo_repo",
+    "created_at": "2017-05-04 21:13:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "demo_repo2",
+    "full_name": "sfchronicle/demo_repo2",
+    "created_at": "2017-05-04 23:13:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "foster-shelters-inline",
+    "full_name": "sfchronicle/foster-shelters-inline",
+    "created_at": "2017-05-05 15:51:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "wcm-landing-page",
+    "full_name": "sfchronicle/wcm-landing-page",
+    "created_at": "2017-05-05 22:42:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "bart-lookup",
+    "full_name": "sfchronicle/bart-lookup",
+    "created_at": "2017-05-23 23:35:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "pot-lookup",
+    "full_name": "sfchronicle/pot-lookup",
+    "created_at": "2017-05-26 02:06:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "nba-timeline",
+    "full_name": "sfchronicle/nba-timeline",
+    "created_at": "2017-05-30 22:20:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "warriors-quiz",
+    "full_name": "sfchronicle/warriors-quiz",
+    "created_at": "2017-05-31 18:16:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "nba-chart",
+    "full_name": "sfchronicle/nba-chart",
+    "created_at": "2017-06-02 20:53:46",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "future-of-health",
+    "full_name": "sfchronicle/future-of-health",
+    "created_at": "2017-06-06 21:36:20",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfmarathon-2017",
+    "full_name": "sfchronicle/sfmarathon-2017",
+    "created_at": "2017-06-07 18:13:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "warriors_gallery",
+    "full_name": "sfchronicle/warriors_gallery",
+    "created_at": "2017-06-12 23:05:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "warriors-commemorative-galleries",
+    "full_name": "sfchronicle/warriors-commemorative-galleries",
+    "created_at": "2017-06-13 22:29:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "ups_shooting",
+    "full_name": "sfchronicle/ups_shooting",
+    "created_at": "2017-06-14 20:40:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "warriors-parade-live",
+    "full_name": "sfchronicle/warriors-parade-live",
+    "created_at": "2017-06-15 16:57:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "transchild",
+    "full_name": "sfchronicle/transchild",
+    "created_at": "2017-06-16 04:34:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "halu",
+    "full_name": "sfchronicle/halu",
+    "created_at": "2017-06-19 22:45:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "divisionstreet-update",
+    "full_name": "sfchronicle/divisionstreet-update",
+    "created_at": "2017-06-27 18:11:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "giants-allstar",
+    "full_name": "sfchronicle/giants-allstar",
+    "created_at": "2017-07-05 22:21:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "dtf-timeline",
+    "full_name": "sfchronicle/dtf-timeline",
+    "created_at": "2017-07-06 00:52:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "style-files",
+    "full_name": "sfchronicle/style-files",
+    "created_at": "2017-07-07 19:28:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "pullquote",
+    "full_name": "sfchronicle/pullquote",
+    "created_at": "2017-07-26 19:01:22",
+    "fork": true,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "transbay",
+    "full_name": "sfchronicle/transbay",
+    "created_at": "2017-08-01 17:31:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "anchor-timeline",
+    "full_name": "sfchronicle/anchor-timeline",
+    "created_at": "2017-08-03 05:45:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "bufano-statues",
+    "full_name": "sfchronicle/bufano-statues",
+    "created_at": "2017-08-04 17:32:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "tokalon",
+    "full_name": "sfchronicle/tokalon",
+    "created_at": "2017-08-07 23:44:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "outside-lands-timeline",
+    "full_name": "sfchronicle/outside-lands-timeline",
+    "created_at": "2017-08-08 17:13:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "ihotel",
+    "full_name": "sfchronicle/ihotel",
+    "created_at": "2017-08-16 19:23:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "jefferson-lawsuit-timeline",
+    "full_name": "sfchronicle/jefferson-lawsuit-timeline",
+    "created_at": "2017-08-18 20:31:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfocity",
+    "full_name": "sfchronicle/sfocity",
+    "created_at": "2017-08-18 20:46:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "looks-2017",
+    "full_name": "sfchronicle/looks-2017",
+    "created_at": "2017-08-24 23:42:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "audio-visualizer",
+    "full_name": "sfchronicle/audio-visualizer",
+    "created_at": "2017-08-25 22:50:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "rural-ca-homeless-map",
+    "full_name": "sfchronicle/rural-ca-homeless-map",
+    "created_at": "2017-08-29 00:30:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "cecilia-lam",
+    "full_name": "sfchronicle/cecilia-lam",
+    "created_at": "2017-08-31 01:53:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "japanese-markets",
+    "full_name": "sfchronicle/japanese-markets",
+    "created_at": "2017-09-06 23:14:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "monterey-jazz-festival-timeline",
+    "full_name": "sfchronicle/monterey-jazz-festival-timeline",
+    "created_at": "2017-09-13 22:41:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "las-vegas",
+    "full_name": "sfchronicle/las-vegas",
+    "created_at": "2017-10-02 18:39:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "napa-sonoma-fires",
+    "full_name": "sfchronicle/napa-sonoma-fires",
+    "created_at": "2017-10-09 16:15:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "calfire-tracker",
+    "full_name": "sfchronicle/calfire-tracker",
+    "created_at": "2017-10-13 18:01:35",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "podcast-landing",
+    "full_name": "sfchronicle/podcast-landing",
+    "created_at": "2017-10-26 23:19:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "social-card-generator",
+    "full_name": "sfchronicle/social-card-generator",
+    "created_at": "2017-11-10 20:43:36",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "plaza-poll",
+    "full_name": "sfchronicle/plaza-poll",
+    "created_at": "2017-11-22 22:20:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "2017-bar-stars",
+    "full_name": "sfchronicle/2017-bar-stars",
+    "created_at": "2017-11-23 01:38:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "greenstate-widget",
+    "full_name": "sfchronicle/greenstate-widget",
+    "created_at": "2017-11-29 19:37:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "socal-fire",
+    "full_name": "sfchronicle/socal-fire",
+    "created_at": "2017-12-05 20:13:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "newstips",
+    "full_name": "sfchronicle/newstips",
+    "created_at": "2017-12-06 19:57:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "doctor-jokes",
+    "full_name": "sfchronicle/doctor-jokes",
+    "created_at": "2017-12-11 21:04:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "mayorlee-death",
+    "full_name": "sfchronicle/mayorlee-death",
+    "created_at": "2017-12-12 20:47:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "woty2017",
+    "full_name": "sfchronicle/woty2017",
+    "created_at": "2017-12-27 02:22:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "chinese-regional",
+    "full_name": "sfchronicle/chinese-regional",
+    "created_at": "2017-12-29 20:55:41",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "pulitzer-entry",
+    "full_name": "sfchronicle/pulitzer-entry",
+    "created_at": "2018-01-08 23:24:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "gruden-timeline",
+    "full_name": "sfchronicle/gruden-timeline",
+    "created_at": "2018-01-09 18:09:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "project-pages",
+    "full_name": "sfchronicle/project-pages",
+    "created_at": "2018-01-17 01:58:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "panther-timeline",
+    "full_name": "sfchronicle/panther-timeline",
+    "created_at": "2018-02-06 04:18:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "flu-explainer",
+    "full_name": "sfchronicle/flu-explainer",
+    "created_at": "2018-02-16 23:50:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "curry-30-birthday",
+    "full_name": "sfchronicle/curry-30-birthday",
+    "created_at": "2018-02-27 17:49:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "break-ins",
+    "full_name": "sfchronicle/break-ins",
+    "created_at": "2018-03-09 23:41:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "top100-2018",
+    "full_name": "sfchronicle/top100-2018",
+    "created_at": "2018-03-19 18:16:49",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "election-endorsements",
+    "full_name": "sfchronicle/election-endorsements",
+    "created_at": "2018-03-19 22:53:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "mayor-candidate-widget",
+    "full_name": "sfchronicle/mayor-candidate-widget",
+    "created_at": "2018-03-21 22:52:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "trump-turnovers",
+    "full_name": "sfchronicle/trump-turnovers",
+    "created_at": "2018-03-24 02:01:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "old-elections-results-2018",
+    "full_name": "sfchronicle/old-elections-results-2018",
+    "created_at": "2018-04-30 23:57:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "react-newsapp",
+    "full_name": "sfchronicle/react-newsapp",
+    "created_at": "2018-05-09 22:35:06",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "fire-tracker-map",
+    "full_name": "sfchronicle/fire-tracker-map",
+    "created_at": "2018-06-12 17:49:33",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "mission-guide-map",
+    "full_name": "sfchronicle/mission-guide-map",
+    "created_at": "2018-06-14 00:07:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfhp-division-2018",
+    "full_name": "sfchronicle/sfhp-division-2018",
+    "created_at": "2018-06-20 00:22:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfhp-status-2018",
+    "full_name": "sfchronicle/sfhp-status-2018",
+    "created_at": "2018-06-20 00:26:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "audiogram",
+    "full_name": "sfchronicle/audiogram",
+    "created_at": "2018-07-02 17:51:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "soundcite",
+    "full_name": "sfchronicle/soundcite",
+    "created_at": "2018-07-17 17:26:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "cult-wine",
+    "full_name": "sfchronicle/cult-wine",
+    "created_at": "2018-08-21 22:34:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "wine-cult-map",
+    "full_name": "sfchronicle/wine-cult-map",
+    "created_at": "2018-08-22 23:00:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "web-map-maker",
+    "full_name": "sfchronicle/web-map-maker",
+    "created_at": "2018-08-29 19:39:39",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sfc-livechat-backend",
+    "full_name": "sfchronicle/sfc-livechat-backend",
+    "created_at": "2018-09-12 19:57:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "ai2html",
+    "full_name": "sfchronicle/ai2html",
+    "created_at": "2019-03-01 17:46:29",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "resilience",
+    "full_name": "sfchronicle/resilience",
+    "created_at": "2019-05-06 15:49:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "leaflet-side-by-side",
+    "full_name": "sfchronicle/leaflet-side-by-side",
+    "created_at": "2019-08-05 21:08:23",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "leaflet-velocity",
+    "full_name": "sfchronicle/leaflet-velocity",
+    "created_at": "2019-08-14 19:05:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "surviving-shutoff-analysis",
+    "full_name": "sfchronicle/surviving-shutoff-analysis",
+    "created_at": "2019-12-02 16:29:43",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "video-processing",
+    "full_name": "sfchronicle/video-processing",
+    "created_at": "2019-12-14 00:22:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "utils",
+    "full_name": "sfchronicle/utils",
+    "created_at": "2020-04-02 21:12:37",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "partytown-gatsby-test",
+    "full_name": "sfchronicle/partytown-gatsby-test",
+    "created_at": "2021-09-23 21:01:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sf-od-tracker-data",
+    "full_name": "sfchronicle/sf-od-tracker-data",
+    "created_at": "2021-11-01 19:19:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "boudindata",
+    "full_name": "sfchronicle/boudindata",
+    "created_at": "2022-03-03 00:50:16",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "amazon_textract",
+    "full_name": "sfchronicle/amazon_textract",
+    "created_at": "2022-05-10 17:42:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "stuff_you_should_know",
+    "full_name": "sfchronicle/stuff_you_should_know",
+    "created_at": "2022-07-01 15:59:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "sf-shapefiles",
+    "full_name": "sfchronicle/sf-shapefiles",
+    "created_at": "2022-07-01 17:51:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "progressive-voter-index",
+    "full_name": "sfchronicle/progressive-voter-index",
+    "created_at": "2022-07-01 20:23:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "monkeypox-datawrapper-meta",
+    "full_name": "sfchronicle/monkeypox-datawrapper-meta",
+    "created_at": "2022-07-29 22:43:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "sfchronicle",
+    "name": "cdc-USmap-counts",
+    "full_name": "sfchronicle/cdc-USmap-counts",
+    "created_at": "2022-08-17 16:15:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "tx-fire-feed",
+    "full_name": "sfchronicle/tx-fire-feed",
+    "created_at": "2022-08-24 17:16:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "nicar23-map-tiles-demo",
+    "full_name": "sfchronicle/nicar23-map-tiles-demo",
+    "created_at": "2022-12-01 23:56:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "sfchronicle",
+    "name": "maputnik-editor",
+    "full_name": "sfchronicle/maputnik-editor",
+    "created_at": "2022-12-05 19:25:34",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  }
+]

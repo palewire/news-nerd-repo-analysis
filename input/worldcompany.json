@@ -1,0 +1,82 @@
+[
+  {
+    "org": "worldcompany",
+    "name": "djangoembed",
+    "full_name": "worldcompany/djangoembed",
+    "created_at": "2010-07-27 22:41:16",
+    "fork": false,
+    "stargazers_count": 138,
+    "forks_count": 39,
+    "language": "Python"
+  },
+  {
+    "org": "worldcompany",
+    "name": "django-filter",
+    "full_name": "worldcompany/django-filter",
+    "created_at": "2010-08-06 21:47:50",
+    "fork": true,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "worldcompany",
+    "name": "django-paypal",
+    "full_name": "worldcompany/django-paypal",
+    "created_at": "2011-01-12 21:09:18",
+    "fork": true,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "worldcompany",
+    "name": "django-urlr",
+    "full_name": "worldcompany/django-urlr",
+    "created_at": "2011-01-17 20:16:14",
+    "fork": true,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "worldcompany",
+    "name": "django-reversion",
+    "full_name": "worldcompany/django-reversion",
+    "created_at": "2011-01-20 06:24:29",
+    "fork": true,
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "worldcompany",
+    "name": "django-socialregistration",
+    "full_name": "worldcompany/django-socialregistration",
+    "created_at": "2011-03-31 16:40:51",
+    "fork": true,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "worldcompany",
+    "name": "django-threadedcomments",
+    "full_name": "worldcompany/django-threadedcomments",
+    "created_at": "2011-08-08 16:25:55",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "worldcompany",
+    "name": "django-genericglue",
+    "full_name": "worldcompany/django-genericglue",
+    "created_at": "2012-04-17 19:56:48",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 3,
+    "language": "Python"
+  }
+]

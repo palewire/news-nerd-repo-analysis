@@ -1,0 +1,32 @@
+[
+  {
+    "org": "oregonian",
+    "name": "bikethefts",
+    "full_name": "oregonian/bikethefts",
+    "created_at": "2015-03-03 05:34:31",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "oregonian",
+    "name": "mapping",
+    "full_name": "oregonian/mapping",
+    "created_at": "2013-12-10 21:50:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "oregonian",
+    "name": "osm-quiet-la",
+    "full_name": "oregonian/osm-quiet-la",
+    "created_at": "2013-11-04 18:04:33",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  }
+]

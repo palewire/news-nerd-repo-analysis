@@ -1,0 +1,322 @@
+[
+  {
+    "org": "ireapps",
+    "name": "census",
+    "full_name": "ireapps/census",
+    "created_at": "2011-04-01 15:53:03",
+    "fork": false,
+    "stargazers_count": 141,
+    "forks_count": 33,
+    "language": "PLpgSQL"
+  },
+  {
+    "org": "ireapps",
+    "name": "mizzou-newsapp",
+    "full_name": "ireapps/mizzou-newsapp",
+    "created_at": "2013-01-02 17:34:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "ireapps",
+    "name": "lightning-talks",
+    "full_name": "ireapps/lightning-talks",
+    "created_at": "2014-11-24 01:55:08",
+    "fork": false,
+    "stargazers_count": 74,
+    "forks_count": 16,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "pycar",
+    "full_name": "ireapps/pycar",
+    "created_at": "2015-01-08 20:10:15",
+    "fork": true,
+    "stargazers_count": 101,
+    "forks_count": 35,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "coding-for-journalists",
+    "full_name": "ireapps/coding-for-journalists",
+    "created_at": "2015-05-27 23:33:40",
+    "fork": false,
+    "stargazers_count": 46,
+    "forks_count": 15,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "cfj-ire16",
+    "full_name": "ireapps/cfj-ire16",
+    "created_at": "2016-06-28 16:51:10",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "djnf-coding",
+    "full_name": "ireapps/djnf-coding",
+    "created_at": "2017-04-19 18:26:16",
+    "fork": true,
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "white-house-salaries-2017",
+    "full_name": "ireapps/white-house-salaries-2017",
+    "created_at": "2017-06-30 20:47:56",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 8,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "cfj-2017",
+    "full_name": "ireapps/cfj-2017",
+    "created_at": "2017-08-28 21:18:00",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "nicar-2018-schedule",
+    "full_name": "ireapps/nicar-2018-schedule",
+    "created_at": "2018-02-26 23:54:25",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "nicar18-intro-to-r",
+    "full_name": "ireapps/nicar18-intro-to-r",
+    "created_at": "2018-02-28 19:12:00",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 2,
+    "language": "PostScript"
+  },
+  {
+    "org": "ireapps",
+    "name": "install-guides",
+    "full_name": "ireapps/install-guides",
+    "created_at": "2018-03-05 15:24:06",
+    "fork": false,
+    "stargazers_count": 16,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "ire-2018-schedule",
+    "full_name": "ireapps/ire-2018-schedule",
+    "created_at": "2018-04-23 17:08:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "ire18-intro-to-r",
+    "full_name": "ireapps/ire18-intro-to-r",
+    "created_at": "2018-05-24 16:10:42",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "R"
+  },
+  {
+    "org": "ireapps",
+    "name": "cfj-2018",
+    "full_name": "ireapps/cfj-2018",
+    "created_at": "2018-07-10 17:25:35",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "nicar-2019-schedule",
+    "full_name": "ireapps/nicar-2019-schedule",
+    "created_at": "2019-01-29 15:46:44",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "teaching-guide-python-101",
+    "full_name": "ireapps/teaching-guide-python-101",
+    "created_at": "2019-03-27 22:16:11",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 6,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "teaching-guide-intro-to-pandas",
+    "full_name": "ireapps/teaching-guide-intro-to-pandas",
+    "created_at": "2019-03-28 18:19:35",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 17,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "teaching-guide-python-scraping",
+    "full_name": "ireapps/teaching-guide-python-scraping",
+    "created_at": "2019-03-28 18:20:28",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 5,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "ire-2019-schedule",
+    "full_name": "ireapps/ire-2019-schedule",
+    "created_at": "2019-05-23 20:39:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "nicar-2020-schedule",
+    "full_name": "ireapps/nicar-2020-schedule",
+    "created_at": "2019-10-28 18:57:28",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "ire-python-bootcamp-2020",
+    "full_name": "ireapps/ire-python-bootcamp-2020",
+    "created_at": "2020-01-10 20:06:25",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "dod-excess-property-transfers",
+    "full_name": "ireapps/dod-excess-property-transfers",
+    "created_at": "2020-06-09 02:38:56",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "ireapps",
+    "name": "byedoug",
+    "full_name": "ireapps/byedoug",
+    "created_at": "2020-12-11 22:31:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "python-mini-bootcamp-2021",
+    "full_name": "ireapps/python-mini-bootcamp-2021",
+    "created_at": "2021-01-31 15:33:15",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "jni-intermediate-2021",
+    "full_name": "ireapps/jni-intermediate-2021",
+    "created_at": "2021-07-29 22:28:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "python-web-scraping-2021",
+    "full_name": "ireapps/python-web-scraping-2021",
+    "created_at": "2021-10-11 20:02:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "prf-data",
+    "full_name": "ireapps/prf-data",
+    "created_at": "2022-03-22 14:23:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "teaching-guide-R-101",
+    "full_name": "ireapps/teaching-guide-R-101",
+    "created_at": "2022-04-21 20:58:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "interviewing-your-data-with-R",
+    "full_name": "ireapps/interviewing-your-data-with-R",
+    "created_at": "2022-06-13 14:43:39",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "ireapps",
+    "name": "python-for-data-analysis-2022",
+    "full_name": "ireapps/python-for-data-analysis-2022",
+    "created_at": "2022-07-14 19:41:22",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "ireapps",
+    "name": "R-for-data-analysis-2022",
+    "full_name": "ireapps/R-for-data-analysis-2022",
+    "created_at": "2022-10-19 15:15:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  }
+]

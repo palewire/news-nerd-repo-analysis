@@ -1,0 +1,222 @@
+[
+  {
+    "org": "chalkbeat",
+    "name": "MORI",
+    "full_name": "Chalkbeat/MORI",
+    "created_at": "2016-09-06 15:52:50",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "Chartbuilder",
+    "full_name": "Chalkbeat/Chartbuilder",
+    "created_at": "2017-03-22 18:51:09",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "2017-ny-renewal-grads",
+    "full_name": "Chalkbeat/2017-ny-renewal-grads",
+    "created_at": "2017-06-21 14:22:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "ai2html",
+    "full_name": "Chalkbeat/ai2html",
+    "created_at": "2019-02-06 16:39:13",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "dailygraphics-next",
+    "full_name": "Chalkbeat/dailygraphics-next",
+    "created_at": "2019-02-06 16:39:58",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "dailygraphics-templates",
+    "full_name": "Chalkbeat/dailygraphics-templates",
+    "created_at": "2019-02-06 16:41:05",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "lunchbox",
+    "full_name": "Chalkbeat/lunchbox",
+    "created_at": "2019-02-06 16:42:20",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "audiogram",
+    "full_name": "Chalkbeat/audiogram",
+    "created_at": "2019-02-06 16:47:02",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "app-template",
+    "full_name": "Chalkbeat/app-template",
+    "created_at": "2019-02-13 16:48:33",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "viz-app",
+    "full_name": "Chalkbeat/viz-app",
+    "created_at": "2019-02-27 23:11:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "interactive-template",
+    "full_name": "Chalkbeat/interactive-template",
+    "created_at": "2019-12-02 20:13:03",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "teacher-movement",
+    "full_name": "Chalkbeat/teacher-movement",
+    "created_at": "2020-09-08 18:36:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "nyc-covid-data",
+    "full_name": "Chalkbeat/nyc-covid-data",
+    "created_at": "2020-10-13 00:02:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "in-covid-data",
+    "full_name": "Chalkbeat/in-covid-data",
+    "created_at": "2020-10-13 14:30:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "tn-covid-data",
+    "full_name": "Chalkbeat/tn-covid-data",
+    "created_at": "2020-11-09 16:01:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "urlwatch",
+    "full_name": "Chalkbeat/urlwatch",
+    "created_at": "2020-11-30 04:31:04",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "chalkbeat",
+    "name": "mi-covid-data",
+    "full_name": "Chalkbeat/mi-covid-data",
+    "created_at": "2020-12-15 04:36:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "chalkbeat",
+    "name": "highcharts-editor",
+    "full_name": "Chalkbeat/highcharts-editor",
+    "created_at": "2021-02-06 17:53:00",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "chalkbeat",
+    "name": "powertoys",
+    "full_name": "Chalkbeat/powertoys",
+    "created_at": "2021-11-02 18:12:48",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "sidechain",
+    "full_name": "Chalkbeat/sidechain",
+    "created_at": "2021-12-14 21:42:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "sunshine",
+    "full_name": "Chalkbeat/sunshine",
+    "created_at": "2022-01-11 17:49:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "chalkbeat",
+    "name": "patchbay",
+    "full_name": "Chalkbeat/patchbay",
+    "created_at": "2022-09-07 20:23:24",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

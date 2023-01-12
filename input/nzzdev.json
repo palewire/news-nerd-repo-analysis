@@ -1,0 +1,472 @@
+[
+  {
+    "org": "nzzdev",
+    "name": "add-to-homescreen",
+    "full_name": "nzzdev/add-to-homescreen",
+    "created_at": "2011-11-29 18:11:36",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "red-zh-vote-crawler",
+    "full_name": "nzzdev/red-zh-vote-crawler",
+    "created_at": "2015-03-30 15:46:45",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "vds-suisse",
+    "full_name": "nzzdev/vds-suisse",
+    "created_at": "2015-11-02 15:50:10",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-chart",
+    "full_name": "nzzdev/Q-chart",
+    "created_at": "2015-11-12 10:41:06",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-renderer-skeleton",
+    "full_name": "nzzdev/Q-renderer-skeleton",
+    "created_at": "2015-11-26 22:54:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "ch-canton-symbols",
+    "full_name": "nzzdev/ch-canton-symbols",
+    "created_at": "2016-02-25 14:57:06",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "sophie-build-service",
+    "full_name": "nzzdev/sophie-build-service",
+    "created_at": "2016-06-29 22:31:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-party-slogans",
+    "full_name": "nzzdev/Q-party-slogans",
+    "created_at": "2016-07-21 12:57:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "policy-papertrails",
+    "full_name": "nzzdev/policy-papertrails",
+    "created_at": "2016-10-26 15:15:36",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-server",
+    "full_name": "nzzdev/Q-server",
+    "created_at": "2016-12-20 13:34:57",
+    "fork": false,
+    "stargazers_count": 39,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-election-votes",
+    "full_name": "nzzdev/Q-election-votes",
+    "created_at": "2017-01-12 15:16:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-election-executive",
+    "full_name": "nzzdev/Q-election-executive",
+    "created_at": "2017-01-23 16:52:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-editor",
+    "full_name": "nzzdev/Q-editor",
+    "created_at": "2017-02-13 19:56:44",
+    "fork": false,
+    "stargazers_count": 33,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-election-seats",
+    "full_name": "nzzdev/Q-election-seats",
+    "created_at": "2017-02-13 19:57:18",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "mh-web-sensible",
+    "full_name": "nzzdev/mh-web-sensible",
+    "created_at": "2017-02-22 08:52:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-server-demo",
+    "full_name": "nzzdev/Q-server-demo",
+    "created_at": "2017-02-28 14:56:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-loader-browser",
+    "full_name": "nzzdev/Q-loader-browser",
+    "created_at": "2017-03-13 08:31:29",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-map",
+    "full_name": "nzzdev/Q-map",
+    "created_at": "2017-03-24 13:24:17",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-poll-result",
+    "full_name": "nzzdev/Q-poll-result",
+    "created_at": "2017-03-31 12:19:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-quiz",
+    "full_name": "nzzdev/Q-quiz",
+    "created_at": "2017-05-03 14:12:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "ui-select",
+    "full_name": "nzzdev/ui-select",
+    "created_at": "2017-06-01 08:35:10",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "st-methods",
+    "full_name": "nzzdev/st-methods",
+    "created_at": "2017-10-23 12:12:52",
+    "fork": false,
+    "stargazers_count": 48,
+    "forks_count": 5,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-coalition-calculation",
+    "full_name": "nzzdev/Q-coalition-calculation",
+    "created_at": "2017-11-02 10:40:04",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-cli",
+    "full_name": "nzzdev/Q-cli",
+    "created_at": "2017-11-24 17:16:23",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-table",
+    "full_name": "nzzdev/Q-table",
+    "created_at": "2017-12-17 13:23:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-imageslider",
+    "full_name": "nzzdev/Q-imageslider",
+    "created_at": "2018-01-05 11:18:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-infographic",
+    "full_name": "nzzdev/Q-infographic",
+    "created_at": "2018-01-08 15:41:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-isotype",
+    "full_name": "nzzdev/Q-isotype",
+    "created_at": "2018-02-05 10:17:05",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "node-keycdn-api",
+    "full_name": "nzzdev/node-keycdn-api",
+    "created_at": "2018-06-20 08:56:36",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Storytelling-Styleguide",
+    "full_name": "nzzdev/Storytelling-Styleguide",
+    "created_at": "2018-06-25 18:18:10",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 6,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "json-editor",
+    "full_name": "nzzdev/json-editor",
+    "created_at": "2018-10-09 14:15:47",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-locator-map",
+    "full_name": "nzzdev/Q-locator-map",
+    "created_at": "2019-04-09 15:36:00",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "handsontable",
+    "full_name": "nzzdev/handsontable",
+    "created_at": "2020-02-19 15:57:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-choropleth",
+    "full_name": "nzzdev/Q-choropleth",
+    "created_at": "2020-02-20 16:41:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "osm-regions",
+    "full_name": "nzzdev/osm-regions",
+    "created_at": "2020-06-16 11:55:02",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-custom-code-update",
+    "full_name": "nzzdev/Q-custom-code-update",
+    "created_at": "2020-07-15 11:20:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nzzdev",
+    "name": "rancher-cli-k8s",
+    "full_name": "nzzdev/rancher-cli-k8s",
+    "created_at": "2021-02-19 17:05:53",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Dockerfile"
+  },
+  {
+    "org": "nzzdev",
+    "name": "Q-scroll-graphic",
+    "full_name": "nzzdev/Q-scroll-graphic",
+    "created_at": "2021-05-27 16:48:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "nzzdev",
+    "name": "SideMenu",
+    "full_name": "nzzdev/SideMenu",
+    "created_at": "2021-06-17 10:16:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "nzzdev",
+    "name": "gesundheit2021",
+    "full_name": "nzzdev/gesundheit2021",
+    "created_at": "2021-06-24 14:57:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Processing"
+  },
+  {
+    "org": "nzzdev",
+    "name": "ddj_sfgz",
+    "full_name": "nzzdev/ddj_sfgz",
+    "created_at": "2021-09-23 20:01:54",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "nzzdev",
+    "name": "ed-tech-components",
+    "full_name": "nzzdev/ed-tech-components",
+    "created_at": "2022-04-13 14:10:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "nzz-illustrator-scripts",
+    "full_name": "nzzdev/nzz-illustrator-scripts",
+    "created_at": "2022-04-21 15:24:22",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "ed-tech-nzz.ch-static",
+    "full_name": "nzzdev/ed-tech-nzz.ch-static",
+    "created_at": "2022-05-13 11:38:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "nzzdev",
+    "name": "estv_steuerdaten",
+    "full_name": "nzzdev/estv_steuerdaten",
+    "created_at": "2022-05-18 07:59:52",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "nzzdev",
+    "name": "ed-tech-utilities",
+    "full_name": "nzzdev/ed-tech-utilities",
+    "created_at": "2022-05-23 12:20:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript"
+  },
+  {
+    "org": "nzzdev",
+    "name": "energyconsumption-zurich-model",
+    "full_name": "nzzdev/energyconsumption-zurich-model",
+    "created_at": "2022-10-28 14:35:39",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "org": "dukechronicle",
+    "name": "chronjs",
+    "full_name": "dukechronicle/chronjs",
+    "created_at": "2011-04-25 19:43:51",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "qduke-old",
+    "full_name": "dukechronicle/qduke-old",
+    "created_at": "2012-02-02 21:51:03",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "dukechronicle",
+    "name": "chronline",
+    "full_name": "dukechronicle/chronline",
+    "created_at": "2012-12-17 05:17:07",
+    "fork": false,
+    "stargazers_count": 166,
+    "forks_count": 22,
+    "language": "Ruby"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "dukechronicle.github.com",
+    "full_name": "dukechronicle/dukechronicle.github.com",
+    "created_at": "2013-02-26 05:37:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "swordfish",
+    "full_name": "dukechronicle/swordfish",
+    "created_at": "2013-09-11 17:41:40",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "chronical",
+    "full_name": "dukechronicle/chronical",
+    "created_at": "2013-12-17 21:39:35",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "dukechronicle",
+    "name": "heroku-buildpack-ruby-bower",
+    "full_name": "dukechronicle/heroku-buildpack-ruby-bower",
+    "created_at": "2014-01-05 05:02:50",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "jade",
+    "full_name": "dukechronicle/jade",
+    "created_at": "2014-03-25 18:50:43",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Ruby"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "railstutorial-vagrant",
+    "full_name": "dukechronicle/railstutorial-vagrant",
+    "created_at": "2014-10-12 01:23:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "dukechronicle",
+    "name": "chron-ios",
+    "full_name": "dukechronicle/chron-ios",
+    "created_at": "2014-12-22 08:43:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Swift"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "chron-react",
+    "full_name": "dukechronicle/chron-react",
+    "created_at": "2015-03-28 17:56:45",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "chronjobs",
+    "full_name": "dukechronicle/chronjobs",
+    "created_at": "2015-04-08 18:18:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "brackets",
+    "full_name": "dukechronicle/brackets",
+    "created_at": "2016-01-17 18:30:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 3,
+    "language": "Ruby"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "special-pages",
+    "full_name": "dukechronicle/special-pages",
+    "created_at": "2016-01-31 17:56:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dukechronicle",
+    "name": "chatbot",
+    "full_name": "dukechronicle/chatbot",
+    "created_at": "2016-05-11 19:38:42",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  }
+]

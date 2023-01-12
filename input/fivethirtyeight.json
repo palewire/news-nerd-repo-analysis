@@ -1,0 +1,302 @@
+[
+  {
+    "org": "fivethirtyeight",
+    "name": "ap-election-loader",
+    "full_name": "fivethirtyeight/ap-election-loader",
+    "created_at": "2014-01-09 01:57:15",
+    "fork": false,
+    "stargazers_count": 38,
+    "forks_count": 15,
+    "language": "Ruby"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "data",
+    "full_name": "fivethirtyeight/data",
+    "created_at": "2014-03-17 13:49:17",
+    "fork": false,
+    "stargazers_count": 15992,
+    "forks_count": 10864,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "pym.js",
+    "full_name": "fivethirtyeight/pym.js",
+    "created_at": "2014-09-30 18:32:13",
+    "fork": true,
+    "stargazers_count": 28,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "multi-slider",
+    "full_name": "fivethirtyeight/multi-slider",
+    "created_at": "2015-07-24 20:48:22",
+    "fork": true,
+    "stargazers_count": 9,
+    "forks_count": 6,
+    "language": "JavaScript"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "uber-tlc-foil-response",
+    "full_name": "fivethirtyeight/uber-tlc-foil-response",
+    "created_at": "2015-08-28 18:38:16",
+    "fork": false,
+    "stargazers_count": 677,
+    "forks_count": 368,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "d3-pre-renderer",
+    "full_name": "fivethirtyeight/d3-pre-renderer",
+    "created_at": "2016-01-08 01:27:54",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "d3-pre-cli",
+    "full_name": "fivethirtyeight/d3-pre-cli",
+    "created_at": "2016-01-08 01:36:02",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "d3-pre",
+    "full_name": "fivethirtyeight/d3-pre",
+    "created_at": "2016-01-08 01:54:27",
+    "fork": false,
+    "stargazers_count": 607,
+    "forks_count": 20,
+    "language": "HTML"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "gulp-d3-pre",
+    "full_name": "fivethirtyeight/gulp-d3-pre",
+    "created_at": "2016-01-08 02:15:43",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "oscar-ads",
+    "full_name": "fivethirtyeight/oscar-ads",
+    "created_at": "2016-02-25 19:52:59",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 6,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "react-color",
+    "full_name": "fivethirtyeight/react-color",
+    "created_at": "2016-04-01 19:23:00",
+    "fork": true,
+    "stargazers_count": 23,
+    "forks_count": 7,
+    "language": "JavaScript"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "victory",
+    "full_name": "fivethirtyeight/victory",
+    "created_at": "2016-04-07 19:51:51",
+    "fork": true,
+    "stargazers_count": 49,
+    "forks_count": 7,
+    "language": "JavaScript"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "victory-chart",
+    "full_name": "fivethirtyeight/victory-chart",
+    "created_at": "2016-04-07 20:26:24",
+    "fork": true,
+    "stargazers_count": 13,
+    "forks_count": 3,
+    "language": "JavaScript"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "guns-data",
+    "full_name": "fivethirtyeight/guns-data",
+    "created_at": "2016-07-06 14:23:14",
+    "fork": false,
+    "stargazers_count": 298,
+    "forks_count": 276,
+    "language": "R"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "nfl-elo-game",
+    "full_name": "fivethirtyeight/nfl-elo-game",
+    "created_at": "2017-08-31 14:41:01",
+    "fork": false,
+    "stargazers_count": 268,
+    "forks_count": 216,
+    "language": "Python"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "redistricting-atlas-data",
+    "full_name": "fivethirtyeight/redistricting-atlas-data",
+    "created_at": "2018-01-24 14:55:45",
+    "fork": false,
+    "stargazers_count": 106,
+    "forks_count": 35,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "russian-troll-tweets",
+    "full_name": "fivethirtyeight/russian-troll-tweets",
+    "created_at": "2018-07-30 23:35:18",
+    "fork": false,
+    "stargazers_count": 747,
+    "forks_count": 210,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "actblue-analysis",
+    "full_name": "fivethirtyeight/actblue-analysis",
+    "created_at": "2018-10-25 16:24:19",
+    "fork": true,
+    "stargazers_count": 12,
+    "forks_count": 4,
+    "language": "HTML"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "checking-our-work-data",
+    "full_name": "fivethirtyeight/checking-our-work-data",
+    "created_at": "2019-04-03 14:29:48",
+    "fork": false,
+    "stargazers_count": 21,
+    "forks_count": 15,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "twitter-overlap",
+    "full_name": "fivethirtyeight/twitter-overlap",
+    "created_at": "2019-06-12 16:36:40",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "candidate-emails",
+    "full_name": "fivethirtyeight/candidate-emails",
+    "created_at": "2019-07-10 23:00:28",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 5,
+    "language": "HTML"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "nba-player-advanced-metrics",
+    "full_name": "fivethirtyeight/nba-player-advanced-metrics",
+    "created_at": "2020-03-05 13:03:28",
+    "fork": false,
+    "stargazers_count": 37,
+    "forks_count": 15,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "covid-19-polls",
+    "full_name": "fivethirtyeight/covid-19-polls",
+    "created_at": "2020-04-01 21:04:39",
+    "fork": false,
+    "stargazers_count": 40,
+    "forks_count": 30,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "WNBA-stats",
+    "full_name": "fivethirtyeight/WNBA-stats",
+    "created_at": "2020-05-25 13:39:20",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 9,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "superbowl-ads",
+    "full_name": "fivethirtyeight/superbowl-ads",
+    "created_at": "2021-02-03 21:41:27",
+    "fork": false,
+    "stargazers_count": 11,
+    "forks_count": 29,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "police-settlements",
+    "full_name": "fivethirtyeight/police-settlements",
+    "created_at": "2021-02-22 20:54:39",
+    "fork": false,
+    "stargazers_count": 140,
+    "forks_count": 21,
+    "language": "R"
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "negro-leagues-player-ratings",
+    "full_name": "fivethirtyeight/negro-leagues-player-ratings",
+    "created_at": "2021-02-25 20:53:07",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 4,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "election-results",
+    "full_name": "fivethirtyeight/election-results",
+    "created_at": "2021-05-27 14:43:42",
+    "fork": false,
+    "stargazers_count": 16,
+    "forks_count": 6,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "github-actions",
+    "full_name": "fivethirtyeight/github-actions",
+    "created_at": "2022-10-31 18:31:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "fivethirtyeight",
+    "name": "ai2html",
+    "full_name": "fivethirtyeight/ai2html",
+    "created_at": "2023-01-11 20:07:03",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

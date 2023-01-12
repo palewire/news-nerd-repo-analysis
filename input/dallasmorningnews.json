@@ -1,0 +1,1222 @@
+[
+  {
+    "org": "dallasmorningnews",
+    "name": "dmn-fusion",
+    "full_name": "DallasMorningNews/dmn-fusion",
+    "created_at": "2012-06-15 11:35:15",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "panda",
+    "full_name": "DallasMorningNews/panda",
+    "created_at": "2013-02-21 21:38:17",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "public-information-map-template-js",
+    "full_name": "DallasMorningNews/public-information-map-template-js",
+    "created_at": "2014-03-10 16:15:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "Medicare-metrics-data",
+    "full_name": "DallasMorningNews/Medicare-metrics-data",
+    "created_at": "2014-05-28 19:38:57",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "IRS-statistic-of-income",
+    "full_name": "DallasMorningNews/IRS-statistic-of-income",
+    "created_at": "2014-07-03 02:48:27",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "hexnet",
+    "full_name": "DallasMorningNews/hexnet",
+    "created_at": "2014-08-01 18:42:04",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "heroku-buildpack-geodjango",
+    "full_name": "DallasMorningNews/heroku-buildpack-geodjango",
+    "created_at": "2014-08-03 04:30:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "template",
+    "full_name": "DallasMorningNews/template",
+    "created_at": "2014-08-26 19:50:37",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "ardbeg",
+    "full_name": "DallasMorningNews/ardbeg",
+    "created_at": "2014-09-10 16:55:29",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "cowboys-gameday-template",
+    "full_name": "DallasMorningNews/cowboys-gameday-template",
+    "created_at": "2014-09-11 19:31:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "django-rolodex",
+    "full_name": "DallasMorningNews/django-rolodex",
+    "created_at": "2014-11-24 13:49:45",
+    "fork": false,
+    "stargazers_count": 35,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "card-slider",
+    "full_name": "DallasMorningNews/card-slider",
+    "created_at": "2014-12-04 18:37:47",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "theshrinkray",
+    "full_name": "DallasMorningNews/theshrinkray",
+    "created_at": "2015-03-24 18:38:16",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "cowboys-drafter",
+    "full_name": "DallasMorningNews/cowboys-drafter",
+    "created_at": "2015-03-25 14:01:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "photoTemplate",
+    "full_name": "DallasMorningNews/photoTemplate",
+    "created_at": "2015-04-13 18:00:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "sportsday-top-recruits",
+    "full_name": "DallasMorningNews/sportsday-top-recruits",
+    "created_at": "2015-04-28 21:54:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactives_starterkit",
+    "full_name": "DallasMorningNews/interactives_starterkit",
+    "created_at": "2015-05-20 18:51:14",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "tractorbeam",
+    "full_name": "DallasMorningNews/tractorbeam",
+    "created_at": "2015-05-28 14:06:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "heroku-buildpack-phantomjs",
+    "full_name": "DallasMorningNews/heroku-buildpack-phantomjs",
+    "created_at": "2015-05-29 19:18:55",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "flask-pullquote",
+    "full_name": "DallasMorningNews/flask-pullquote",
+    "created_at": "2015-06-03 17:08:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "Jobs",
+    "full_name": "DallasMorningNews/Jobs",
+    "created_at": "2015-07-28 20:49:01",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "easyslide-builder",
+    "full_name": "DallasMorningNews/easyslide-builder",
+    "created_at": "2015-08-30 15:54:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "cowboys-fantasy-draft",
+    "full_name": "DallasMorningNews/cowboys-fantasy-draft",
+    "created_at": "2015-08-30 16:04:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "GS3",
+    "full_name": "DallasMorningNews/GS3",
+    "created_at": "2015-08-31 15:38:16",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "nodeClub",
+    "full_name": "DallasMorningNews/nodeClub",
+    "created_at": "2015-09-30 17:58:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "generator-dmnapps",
+    "full_name": "DallasMorningNews/generator-dmnapps",
+    "created_at": "2015-10-09 04:34:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "generator-dmninteractives",
+    "full_name": "DallasMorningNews/generator-dmninteractives",
+    "created_at": "2015-10-12 23:09:40",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "pinpoint-editor",
+    "full_name": "DallasMorningNews/pinpoint-editor",
+    "created_at": "2016-01-11 18:31:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_texas-jobs-report",
+    "full_name": "DallasMorningNews/interactive_texas-jobs-report",
+    "created_at": "2016-01-22 22:59:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "pulitzer",
+    "full_name": "DallasMorningNews/pulitzer",
+    "created_at": "2016-02-29 16:08:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "Emphasis",
+    "full_name": "DallasMorningNews/Emphasis",
+    "created_at": "2016-03-14 15:49:15",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "gulp-archieml",
+    "full_name": "DallasMorningNews/gulp-archieml",
+    "created_at": "2016-03-17 20:55:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "chartwerk-editor",
+    "full_name": "DallasMorningNews/chartwerk-editor",
+    "created_at": "2016-03-18 15:25:33",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "generator-dmndjango",
+    "full_name": "DallasMorningNews/generator-dmndjango",
+    "created_at": "2016-04-10 15:38:27",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "flythrough",
+    "full_name": "DallasMorningNews/flythrough",
+    "created_at": "2016-04-14 21:33:04",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "easyslide",
+    "full_name": "DallasMorningNews/easyslide",
+    "created_at": "2016-04-25 22:05:48",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "driveshaft",
+    "full_name": "DallasMorningNews/driveshaft",
+    "created_at": "2016-05-05 18:30:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "need2know",
+    "full_name": "DallasMorningNews/need2know",
+    "created_at": "2016-05-30 17:19:26",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "fb-instant-article-insights",
+    "full_name": "DallasMorningNews/fb-instant-article-insights",
+    "created_at": "2016-06-07 19:11:25",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "dpd-force",
+    "full_name": "DallasMorningNews/dpd-force",
+    "created_at": "2016-06-09 21:36:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_farm-to-table",
+    "full_name": "DallasMorningNews/interactive_farm-to-table",
+    "created_at": "2016-06-15 21:19:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_on-demand-food",
+    "full_name": "DallasMorningNews/interactive_on-demand-food",
+    "created_at": "2016-07-01 21:40:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_frack-man",
+    "full_name": "DallasMorningNews/interactive_frack-man",
+    "created_at": "2016-07-26 21:58:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "jazz-audio",
+    "full_name": "DallasMorningNews/jazz-audio",
+    "created_at": "2016-07-29 15:40:41",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_dixon-circle",
+    "full_name": "DallasMorningNews/interactive_dixon-circle",
+    "created_at": "2016-07-29 21:46:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "django-datafreezer",
+    "full_name": "DallasMorningNews/django-datafreezer",
+    "created_at": "2016-08-17 14:38:22",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_memorials",
+    "full_name": "DallasMorningNews/interactive_memorials",
+    "created_at": "2016-08-24 20:57:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "django-dynamic-formsets",
+    "full_name": "DallasMorningNews/django-dynamic-formsets",
+    "created_at": "2016-08-29 16:56:09",
+    "fork": true,
+    "stargazers_count": 7,
+    "forks_count": 6,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "django-datafreezer-deployment",
+    "full_name": "DallasMorningNews/django-datafreezer-deployment",
+    "created_at": "2016-09-02 15:14:48",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_concussions",
+    "full_name": "DallasMorningNews/interactive_concussions",
+    "created_at": "2016-09-08 17:23:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "dpd-calls-scraper",
+    "full_name": "DallasMorningNews/dpd-calls-scraper",
+    "created_at": "2016-09-08 23:05:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_presidential-policy-quiz",
+    "full_name": "DallasMorningNews/interactive_presidential-policy-quiz",
+    "created_at": "2016-09-12 20:15:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_rangers-comeback-kings",
+    "full_name": "DallasMorningNews/interactive_rangers-comeback-kings",
+    "created_at": "2016-09-15 21:46:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "svg-style-inliner",
+    "full_name": "DallasMorningNews/svg-style-inliner",
+    "created_at": "2016-09-16 18:35:06",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "html2canvas",
+    "full_name": "DallasMorningNews/html2canvas",
+    "created_at": "2016-09-24 23:03:08",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_texas-oklahoma-gameday",
+    "full_name": "DallasMorningNews/interactive_texas-oklahoma-gameday",
+    "created_at": "2016-10-05 14:23:55",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "dn-custom-loader",
+    "full_name": "DallasMorningNews/dn-custom-loader",
+    "created_at": "2016-10-06 20:11:31",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_border-kids",
+    "full_name": "DallasMorningNews/interactive_border-kids",
+    "created_at": "2016-10-11 19:19:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_election-endgame",
+    "full_name": "DallasMorningNews/interactive_election-endgame",
+    "created_at": "2016-10-14 22:55:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_ninos-migrantes",
+    "full_name": "DallasMorningNews/interactive_ninos-migrantes",
+    "created_at": "2016-10-31 13:47:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "elex",
+    "full_name": "DallasMorningNews/elex",
+    "created_at": "2016-11-02 17:07:38",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "dmn-elex-vote-history",
+    "full_name": "DallasMorningNews/dmn-elex-vote-history",
+    "created_at": "2016-11-03 19:05:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_gun-fight",
+    "full_name": "DallasMorningNews/interactive_gun-fight",
+    "created_at": "2016-11-04 18:21:19",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "stateface",
+    "full_name": "DallasMorningNews/stateface",
+    "created_at": "2016-11-06 20:36:37",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_cowboys-gameday-2016",
+    "full_name": "DallasMorningNews/interactive_cowboys-gameday-2016",
+    "created_at": "2016-12-01 15:00:31",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "news-graphics-team",
+    "full_name": "DallasMorningNews/news-graphics-team",
+    "created_at": "2016-12-05 19:55:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "gulp-hotcopy",
+    "full_name": "DallasMorningNews/gulp-hotcopy",
+    "created_at": "2016-12-12 21:58:29",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "fec-downloader",
+    "full_name": "DallasMorningNews/fec-downloader",
+    "created_at": "2016-12-14 23:49:18",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_what-race-means",
+    "full_name": "DallasMorningNews/interactive_what-race-means",
+    "created_at": "2017-01-06 23:03:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_grading-texas-schools",
+    "full_name": "DallasMorningNews/interactive_grading-texas-schools",
+    "created_at": "2017-01-11 17:22:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_romo-career",
+    "full_name": "DallasMorningNews/interactive_romo-career",
+    "created_at": "2017-02-10 22:54:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "awesome-news-hacks",
+    "full_name": "DallasMorningNews/awesome-news-hacks",
+    "created_at": "2017-02-21 19:11:23",
+    "fork": false,
+    "stargazers_count": 39,
+    "forks_count": 6,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_buz",
+    "full_name": "DallasMorningNews/interactive_buz",
+    "created_at": "2017-02-22 15:20:50",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "klaxon",
+    "full_name": "DallasMorningNews/klaxon",
+    "created_at": "2017-02-23 16:44:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Ruby"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "nicar-d3-2017",
+    "full_name": "DallasMorningNews/nicar-d3-2017",
+    "created_at": "2017-02-27 19:28:18",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "meme-generator-app",
+    "full_name": "DallasMorningNews/meme-generator-app",
+    "created_at": "2017-03-07 19:46:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "embed_aca-acha-maps",
+    "full_name": "DallasMorningNews/embed_aca-acha-maps",
+    "created_at": "2017-03-09 18:25:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_healthcare-crossroads",
+    "full_name": "DallasMorningNews/interactive_healthcare-crossroads",
+    "created_at": "2017-03-21 21:54:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_texas-golf-2017",
+    "full_name": "DallasMorningNews/interactive_texas-golf-2017",
+    "created_at": "2017-04-05 03:54:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_borderland-project",
+    "full_name": "DallasMorningNews/interactive_borderland-project",
+    "created_at": "2017-05-11 03:57:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "python-testing-101",
+    "full_name": "DallasMorningNews/python-testing-101",
+    "created_at": "2017-05-15 20:14:43",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_waterparks",
+    "full_name": "DallasMorningNews/interactive_waterparks",
+    "created_at": "2017-05-30 19:36:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "django-chartwerk",
+    "full_name": "DallasMorningNews/django-chartwerk",
+    "created_at": "2017-05-31 18:42:46",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "onpremise",
+    "full_name": "DallasMorningNews/onpremise",
+    "created_at": "2017-06-12 22:25:19",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_new-moms",
+    "full_name": "DallasMorningNews/interactive_new-moms",
+    "created_at": "2017-06-18 23:53:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "bootstrap-material-design",
+    "full_name": "DallasMorningNews/bootstrap-material-design",
+    "created_at": "2017-07-14 15:52:45",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_skyline-map",
+    "full_name": "DallasMorningNews/interactive_skyline-map",
+    "created_at": "2017-07-21 15:00:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "embed_cityplace-slider",
+    "full_name": "DallasMorningNews/embed_cityplace-slider",
+    "created_at": "2017-07-25 14:55:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "embed_gas-availability",
+    "full_name": "DallasMorningNews/embed_gas-availability",
+    "created_at": "2017-09-01 20:09:20",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "jquery-opencage-autocomplete",
+    "full_name": "DallasMorningNews/jquery-opencage-autocomplete",
+    "created_at": "2017-09-18 16:27:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "restaurant-inspections-demo",
+    "full_name": "DallasMorningNews/restaurant-inspections-demo",
+    "created_at": "2017-09-29 17:03:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "django-budget",
+    "full_name": "DallasMorningNews/django-budget",
+    "created_at": "2017-11-20 22:39:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "tx-valhalla-docker",
+    "full_name": "DallasMorningNews/tx-valhalla-docker",
+    "created_at": "2018-01-04 21:28:06",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "mbox-tools",
+    "full_name": "DallasMorningNews/mbox-tools",
+    "created_at": "2018-01-25 23:44:18",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "pipenv-tutorial",
+    "full_name": "DallasMorningNews/pipenv-tutorial",
+    "created_at": "2018-04-03 18:05:04",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_every-shot-dirk-ever-took",
+    "full_name": "DallasMorningNews/interactive_every-shot-dirk-ever-took",
+    "created_at": "2018-04-10 16:25:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_redistricting-redux",
+    "full_name": "DallasMorningNews/interactive_redistricting-redux",
+    "created_at": "2018-04-20 15:32:22",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "s3replace",
+    "full_name": "DallasMorningNews/s3replace",
+    "created_at": "2018-05-18 21:29:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "django-assignment-desk",
+    "full_name": "DallasMorningNews/django-assignment-desk",
+    "created_at": "2018-06-18 15:08:11",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "audiogram",
+    "full_name": "DallasMorningNews/audiogram",
+    "created_at": "2018-06-22 20:52:58",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "embed_child-immigrant-map",
+    "full_name": "DallasMorningNews/embed_child-immigrant-map",
+    "created_at": "2018-06-26 13:23:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "python-lambda",
+    "full_name": "DallasMorningNews/python-lambda",
+    "created_at": "2018-07-09 19:50:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "nba-roty-tracker",
+    "full_name": "DallasMorningNews/nba-roty-tracker",
+    "created_at": "2018-07-24 18:17:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "nba_roty_scraper",
+    "full_name": "DallasMorningNews/nba_roty_scraper",
+    "created_at": "2018-10-22 16:31:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "socrata2sql",
+    "full_name": "DallasMorningNews/socrata2sql",
+    "created_at": "2019-02-07 20:47:25",
+    "fork": false,
+    "stargazers_count": 29,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "viz-app",
+    "full_name": "DallasMorningNews/viz-app",
+    "created_at": "2019-02-18 17:59:30",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "viz-app-config",
+    "full_name": "DallasMorningNews/viz-app-config",
+    "created_at": "2019-02-18 23:19:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "scraper_mlb-rookie-pitchers",
+    "full_name": "DallasMorningNews/scraper_mlb-rookie-pitchers",
+    "created_at": "2019-03-12 21:15:54",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive_rangers-top-prospects-2019",
+    "full_name": "DallasMorningNews/interactive_rangers-top-prospects-2019",
+    "created_at": "2019-03-21 18:51:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "nba-shot-logger",
+    "full_name": "DallasMorningNews/nba-shot-logger",
+    "created_at": "2019-04-16 03:28:41",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "foiatracker",
+    "full_name": "DallasMorningNews/foiatracker",
+    "created_at": "2019-09-16 20:36:11",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "interactive-furniture",
+    "full_name": "DallasMorningNews/interactive-furniture",
+    "created_at": "2019-09-25 17:27:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "elections-results-homepage-embed",
+    "full_name": "DallasMorningNews/elections-results-homepage-embed",
+    "created_at": "2020-02-20 21:26:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "COVID-county-trend-scraper",
+    "full_name": "DallasMorningNews/COVID-county-trend-scraper",
+    "created_at": "2020-05-27 03:03:38",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "dpd-shooting-incidents-scraper",
+    "full_name": "DallasMorningNews/dpd-shooting-incidents-scraper",
+    "created_at": "2020-06-02 18:55:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "Texas-Prison-Gerrymandering",
+    "full_name": "DallasMorningNews/Texas-Prison-Gerrymandering",
+    "created_at": "2022-01-24 07:06:41",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "Texas-School-Surveillance",
+    "full_name": "DallasMorningNews/Texas-School-Surveillance",
+    "created_at": "2022-01-24 07:09:37",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "TexasGuns",
+    "full_name": "DallasMorningNews/TexasGuns",
+    "created_at": "2022-06-03 22:24:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "tx_election_scraper",
+    "full_name": "DallasMorningNews/tx_election_scraper",
+    "created_at": "2022-11-09 00:47:16",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "judges_campiagn_finance",
+    "full_name": "DallasMorningNews/judges_campiagn_finance",
+    "created_at": "2022-11-10 20:49:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "acs_21",
+    "full_name": "DallasMorningNews/acs_21",
+    "created_at": "2022-12-08 21:32:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "dallasmorningnews",
+    "name": "censusdata",
+    "full_name": "DallasMorningNews/censusdata",
+    "created_at": "2022-12-09 16:07:23",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  }
+]

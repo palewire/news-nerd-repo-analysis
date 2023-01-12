@@ -1,0 +1,282 @@
+[
+  {
+    "org": "datawrapper",
+    "name": "datawrapper",
+    "full_name": "datawrapper/datawrapper",
+    "created_at": "2012-07-06 08:54:49",
+    "fork": false,
+    "stargazers_count": 1263,
+    "forks_count": 277,
+    "language": "PHP"
+  },
+  {
+    "org": "datawrapper",
+    "name": "plugin-publish-s3",
+    "full_name": "datawrapper/plugin-publish-s3",
+    "created_at": "2013-10-05 15:44:37",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 7,
+    "language": "PHP"
+  },
+  {
+    "org": "datawrapper",
+    "name": "plugin-signin-twitter",
+    "full_name": "datawrapper/plugin-signin-twitter",
+    "created_at": "2013-11-01 15:34:24",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "datawrapper",
+    "name": "plugin-hello-world",
+    "full_name": "datawrapper/plugin-hello-world",
+    "created_at": "2014-05-15 02:06:55",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "plugin-oembed",
+    "full_name": "datawrapper/plugin-oembed",
+    "created_at": "2014-07-23 12:52:52",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "plugin-options",
+    "full_name": "datawrapper/plugin-options",
+    "created_at": "2016-08-29 11:33:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "datawrapper",
+    "name": "jsPDF",
+    "full_name": "datawrapper/jsPDF",
+    "created_at": "2018-05-29 14:30:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "flag-icon-css",
+    "full_name": "datawrapper/flag-icon-css",
+    "created_at": "2018-06-15 07:57:02",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "datawrapper",
+    "name": "api",
+    "full_name": "datawrapper/api",
+    "created_at": "2018-11-08 15:05:20",
+    "fork": false,
+    "stargazers_count": 13,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "orm",
+    "full_name": "datawrapper/orm",
+    "created_at": "2018-11-22 11:40:12",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "frontend",
+    "full_name": "datawrapper/frontend",
+    "created_at": "2018-11-28 08:56:01",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "datawrapper",
+    "name": "polyfills",
+    "full_name": "datawrapper/polyfills",
+    "created_at": "2018-12-19 12:05:52",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "cli",
+    "full_name": "datawrapper/cli",
+    "created_at": "2019-01-11 11:37:59",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "dw-ci",
+    "full_name": "datawrapper/dw-ci",
+    "created_at": "2019-02-08 09:05:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Dockerfile"
+  },
+  {
+    "org": "datawrapper",
+    "name": "snippets",
+    "full_name": "datawrapper/snippets",
+    "created_at": "2019-02-28 11:47:58",
+    "fork": false,
+    "stargazers_count": 34,
+    "forks_count": 12,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "datawrapper",
+    "name": "shared",
+    "full_name": "datawrapper/shared",
+    "created_at": "2019-03-22 16:52:32",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "chart-core",
+    "full_name": "datawrapper/chart-core",
+    "created_at": "2019-07-23 14:46:19",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "expr-eval",
+    "full_name": "datawrapper/expr-eval",
+    "created_at": "2020-04-22 23:02:58",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "wordpress-datawrapper-oembed",
+    "full_name": "datawrapper/wordpress-datawrapper-oembed",
+    "created_at": "2020-05-15 18:41:57",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "datawrapper",
+    "name": "oembed",
+    "full_name": "datawrapper/oembed",
+    "created_at": "2020-06-25 09:36:26",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datawrapper",
+    "name": "twemoji-svg",
+    "full_name": "datawrapper/twemoji-svg",
+    "created_at": "2020-07-16 14:41:04",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datawrapper",
+    "name": "eslint-config",
+    "full_name": "datawrapper/eslint-config",
+    "created_at": "2021-03-01 10:04:29",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "pdfkit",
+    "full_name": "datawrapper/pdfkit",
+    "created_at": "2021-03-24 15:03:05",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "prettier-config",
+    "full_name": "datawrapper/prettier-config",
+    "created_at": "2021-06-07 11:20:28",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "handsontable",
+    "full_name": "datawrapper/handsontable",
+    "created_at": "2022-04-06 18:32:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datawrapper",
+    "name": "eslint-plugin-svelte3",
+    "full_name": "datawrapper/eslint-plugin-svelte3",
+    "created_at": "2022-06-28 17:36:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "datawrapper",
+    "name": "storybook-svelte2",
+    "full_name": "datawrapper/storybook-svelte2",
+    "created_at": "2022-08-18 06:06:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "datawrapper",
+    "name": "rollup-plugin-terser",
+    "full_name": "datawrapper/rollup-plugin-terser",
+    "created_at": "2022-09-21 17:08:57",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

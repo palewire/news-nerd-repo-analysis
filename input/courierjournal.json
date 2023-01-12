@@ -1,0 +1,202 @@
+[
+  {
+    "org": "courierjournal",
+    "name": "kentucky-voterdb-parser",
+    "full_name": "courierjournal/kentucky-voterdb-parser",
+    "created_at": "2015-08-06 19:14:30",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "courierjournal",
+    "name": "principles",
+    "full_name": "courierjournal/principles",
+    "created_at": "2016-08-02 21:13:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "courierjournal",
+    "name": "ky-geo-data",
+    "full_name": "courierjournal/ky-geo-data",
+    "created_at": "2017-04-25 18:58:42",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "courierjournal",
+    "name": "presto-embed-tool",
+    "full_name": "courierjournal/presto-embed-tool",
+    "created_at": "2017-11-10 14:44:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "courierjournal",
+    "name": "confederate-statue-map",
+    "full_name": "courierjournal/confederate-statue-map",
+    "created_at": "2017-11-16 18:05:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "courierjournal",
+    "name": "clark-county-school-vote-map",
+    "full_name": "courierjournal/clark-county-school-vote-map",
+    "created_at": "2017-11-17 21:17:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "courierjournal",
+    "name": "manifest-schema",
+    "full_name": "courierjournal/manifest-schema",
+    "created_at": "2018-03-21 19:28:33",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "courierjournal",
+    "name": "election-results",
+    "full_name": "courierjournal/election-results",
+    "created_at": "2019-05-15 23:41:55",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "courierjournal",
+    "name": "quiz-maker",
+    "full_name": "courierjournal/quiz-maker",
+    "created_at": "2019-05-16 02:06:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "courierjournal",
+    "name": "2019-jcps-vacination-scraper",
+    "full_name": "courierjournal/2019-jcps-vacination-scraper",
+    "created_at": "2019-05-23 18:21:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "courierjournal",
+    "name": "newscarr-frontend",
+    "full_name": "courierjournal/newscarr-frontend",
+    "created_at": "2019-05-29 22:37:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "courierjournal",
+    "name": "newscarr-backend",
+    "full_name": "courierjournal/newscarr-backend",
+    "created_at": "2019-06-04 03:34:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "courierjournal",
+    "name": "2019-kprep-scores",
+    "full_name": "courierjournal/2019-kprep-scores",
+    "created_at": "2019-09-27 00:39:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "courierjournal",
+    "name": "projects-kit",
+    "full_name": "courierjournal/projects-kit",
+    "created_at": "2019-10-07 00:11:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "courierjournal",
+    "name": "in-depth-scroll",
+    "full_name": "courierjournal/in-depth-scroll",
+    "created_at": "2019-10-28 03:48:25",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "courierjournal",
+    "name": "clarity-elections-finder",
+    "full_name": "courierjournal/clarity-elections-finder",
+    "created_at": "2019-10-28 18:05:32",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "courierjournal",
+    "name": "cartel-big-wall",
+    "full_name": "courierjournal/cartel-big-wall",
+    "created_at": "2019-12-02 20:38:24",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "courierjournal",
+    "name": "bevin-pardon-database",
+    "full_name": "courierjournal/bevin-pardon-database",
+    "created_at": "2019-12-18 01:25:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  },
+  {
+    "org": "courierjournal",
+    "name": "covid-tracker-api",
+    "full_name": "courierjournal/covid-tracker-api",
+    "created_at": "2020-03-11 07:34:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "courierjournal",
+    "name": "cv19-chart",
+    "full_name": "courierjournal/cv19-chart",
+    "created_at": "2020-05-01 20:06:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Vue"
+  }
+]

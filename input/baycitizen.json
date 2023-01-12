@@ -1,0 +1,92 @@
+[
+  {
+    "org": "baycitizen",
+    "name": "salesforce-python-toolkit",
+    "full_name": "BayCitizen/salesforce-python-toolkit",
+    "created_at": "2011-03-31 00:36:42",
+    "fork": false,
+    "stargazers_count": 14,
+    "forks_count": 9,
+    "language": "Python"
+  },
+  {
+    "org": "baycitizen",
+    "name": "django-embedly",
+    "full_name": "BayCitizen/django-embedly",
+    "created_at": "2011-05-02 18:59:15",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 8,
+    "language": "Python"
+  },
+  {
+    "org": "baycitizen",
+    "name": "python-documentcloud",
+    "full_name": "BayCitizen/python-documentcloud",
+    "created_at": "2011-06-07 22:14:41",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "baycitizen",
+    "name": "django-doccloud",
+    "full_name": "BayCitizen/django-doccloud",
+    "created_at": "2011-06-16 19:17:59",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "baycitizen",
+    "name": "django-boundaryservice",
+    "full_name": "BayCitizen/django-boundaryservice",
+    "created_at": "2011-08-01 20:11:09",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "baycitizen",
+    "name": "baycitizen.apps.salesforce",
+    "full_name": "BayCitizen/baycitizen.apps.salesforce",
+    "created_at": "2011-10-05 21:52:46",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": null
+  },
+  {
+    "org": "baycitizen",
+    "name": "dotspotting",
+    "full_name": "BayCitizen/dotspotting",
+    "created_at": "2011-10-21 17:28:23",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "baycitizen",
+    "name": "public_art_finder",
+    "full_name": "BayCitizen/public_art_finder",
+    "created_at": "2011-11-08 23:51:07",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "baycitizen",
+    "name": "bork",
+    "full_name": "BayCitizen/bork",
+    "created_at": "2012-08-07 20:34:19",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  }
+]

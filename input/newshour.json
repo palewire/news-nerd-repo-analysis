@@ -1,0 +1,112 @@
+[
+  {
+    "org": "newshour",
+    "name": "speeches",
+    "full_name": "newshour/speeches",
+    "created_at": "2011-01-25 17:58:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "newshour",
+    "name": "map_center",
+    "full_name": "newshour/map_center",
+    "created_at": "2011-09-26 20:26:11",
+    "fork": false,
+    "stargazers_count": 56,
+    "forks_count": 14,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newshour",
+    "name": "reveal.js",
+    "full_name": "newshour/reveal.js",
+    "created_at": "2011-12-05 18:05:27",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newshour",
+    "name": "popcorn-quiz-design",
+    "full_name": "newshour/popcorn-quiz-design",
+    "created_at": "2012-04-18 22:50:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newshour",
+    "name": "adventure",
+    "full_name": "newshour/adventure",
+    "created_at": "2012-12-03 22:26:11",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newshour",
+    "name": "second_screen",
+    "full_name": "newshour/second_screen",
+    "created_at": "2012-12-10 17:53:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newshour",
+    "name": "bingo",
+    "full_name": "newshour/bingo",
+    "created_at": "2013-01-07 20:30:06",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newshour",
+    "name": "news-quiz",
+    "full_name": "newshour/news-quiz",
+    "created_at": "2014-04-04 21:26:32",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "newshour",
+    "name": "newshour-wordpress-skeleton",
+    "full_name": "newshour/newshour-wordpress-skeleton",
+    "created_at": "2017-09-14 17:40:23",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "newshour",
+    "name": "wp-core-theme-components",
+    "full_name": "newshour/wp-core-theme-components",
+    "created_at": "2021-10-26 15:20:12",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "newshour",
+    "name": "wp-core-theme-components-docs",
+    "full_name": "newshour/wp-core-theme-components-docs",
+    "created_at": "2021-11-29 15:59:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  }
+]

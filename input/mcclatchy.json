@@ -1,0 +1,432 @@
+[
+  {
+    "org": "mcclatchy",
+    "name": "DrawStates",
+    "full_name": "mcclatchy/DrawStates",
+    "created_at": "2014-03-07 20:52:48",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "mcclatchy",
+    "name": "McLocator",
+    "full_name": "mcclatchy/McLocator",
+    "created_at": "2014-10-17 15:44:59",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "lunchbox",
+    "full_name": "mcclatchy/lunchbox",
+    "created_at": "2015-09-21 19:50:31",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "honeycomb",
+    "full_name": "mcclatchy/honeycomb",
+    "created_at": "2016-11-23 15:05:51",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "trump-election-verse",
+    "full_name": "mcclatchy/trump-election-verse",
+    "created_at": "2017-01-18 18:30:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "vfx-landing",
+    "full_name": "mcclatchy/vfx-landing",
+    "created_at": "2017-01-19 22:04:13",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "superbowl-dropdown",
+    "full_name": "mcclatchy/superbowl-dropdown",
+    "created_at": "2017-01-27 19:14:58",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "vfx-project",
+    "full_name": "mcclatchy/vfx-project",
+    "created_at": "2017-02-06 16:31:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "mccelections",
+    "full_name": "mcclatchy/mccelections",
+    "created_at": "2017-03-02 21:05:08",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "ahca-opinions",
+    "full_name": "mcclatchy/ahca-opinions",
+    "created_at": "2017-03-09 16:42:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "PHP"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "3D-gallery",
+    "full_name": "mcclatchy/3D-gallery",
+    "created_at": "2017-04-05 16:03:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "derby-cards",
+    "full_name": "mcclatchy/derby-cards",
+    "created_at": "2017-04-27 14:01:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "charlotte-prisons",
+    "full_name": "mcclatchy/charlotte-prisons",
+    "created_at": "2017-05-15 21:29:05",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "docpub",
+    "full_name": "mcclatchy/docpub",
+    "created_at": "2017-05-29 19:31:26",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "derby-flipbook",
+    "full_name": "mcclatchy/derby-flipbook",
+    "created_at": "2017-05-31 11:13:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "honeycomb-derby",
+    "full_name": "mcclatchy/honeycomb-derby",
+    "created_at": "2017-05-31 11:19:09",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "locator",
+    "full_name": "mcclatchy/locator",
+    "created_at": "2017-08-16 17:51:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "pinpoint-editor",
+    "full_name": "mcclatchy/pinpoint-editor",
+    "created_at": "2017-08-28 20:13:39",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "outage-tracker",
+    "full_name": "mcclatchy/outage-tracker",
+    "created_at": "2017-09-13 16:06:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "volu-vid",
+    "full_name": "mcclatchy/volu-vid",
+    "created_at": "2017-10-31 13:19:31",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 4,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "tttx",
+    "full_name": "mcclatchy/tttx",
+    "created_at": "2017-11-10 19:01:20",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "lipsum",
+    "full_name": "mcclatchy/lipsum",
+    "created_at": "2017-11-22 19:53:43",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "lexington",
+    "full_name": "mcclatchy/lexington",
+    "created_at": "2017-11-28 21:48:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "belleville",
+    "full_name": "mcclatchy/belleville",
+    "created_at": "2017-12-04 18:23:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "fort-worth",
+    "full_name": "mcclatchy/fort-worth",
+    "created_at": "2018-01-05 20:33:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "sacramento",
+    "full_name": "mcclatchy/sacramento",
+    "created_at": "2018-02-09 02:26:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "saratoga",
+    "full_name": "mcclatchy/saratoga",
+    "created_at": "2018-03-21 14:13:35",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "webar-demo",
+    "full_name": "mcclatchy/webar-demo",
+    "created_at": "2018-04-08 21:11:13",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "influencers",
+    "full_name": "mcclatchy/influencers",
+    "created_at": "2018-04-17 21:23:38",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "WebXR-Hello-World",
+    "full_name": "mcclatchy/WebXR-Hello-World",
+    "created_at": "2018-10-17 13:59:40",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "florida-elections",
+    "full_name": "mcclatchy/florida-elections",
+    "created_at": "2018-10-18 20:51:15",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "design",
+    "full_name": "mcclatchy/design",
+    "created_at": "2018-12-03 16:33:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "pill-boxer",
+    "full_name": "mcclatchy/pill-boxer",
+    "created_at": "2018-12-13 20:10:01",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "gun-deaths",
+    "full_name": "mcclatchy/gun-deaths",
+    "created_at": "2019-01-21 15:19:12",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 4,
+    "language": "Python"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "since-parkland-lp",
+    "full_name": "mcclatchy/since-parkland-lp",
+    "created_at": "2019-02-25 18:12:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "SCSS"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "interactive-bracket-app",
+    "full_name": "mcclatchy/interactive-bracket-app",
+    "created_at": "2019-03-09 20:11:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "SCSS"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "access-for-sale",
+    "full_name": "mcclatchy/access-for-sale",
+    "created_at": "2019-08-08 17:28:36",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "rusty_api",
+    "full_name": "mcclatchy/rusty_api",
+    "created_at": "2020-12-08 16:29:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Rust"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "data-diabetic-amputations",
+    "full_name": "mcclatchy/data-diabetic-amputations",
+    "created_at": "2022-02-25 00:05:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "security-for-sale",
+    "full_name": "mcclatchy/security-for-sale",
+    "created_at": "2022-03-28 17:54:19",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "data-security-for-sale",
+    "full_name": "mcclatchy/data-security-for-sale",
+    "created_at": "2022-04-28 02:28:47",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "svelte-map",
+    "full_name": "mcclatchy/svelte-map",
+    "created_at": "2022-10-18 14:14:39",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Svelte"
+  },
+  {
+    "org": "mcclatchy",
+    "name": "zones",
+    "full_name": "mcclatchy/zones",
+    "created_at": "2022-12-16 20:54:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "org": "hartfordcourant",
+    "name": "colt_park",
+    "full_name": "hartfordcourant/colt_park",
+    "created_at": "2015-05-22 20:09:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "ctnow_blarkers",
+    "full_name": "hartfordcourant/ctnow_blarkers",
+    "created_at": "2015-05-29 16:06:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "flapper-news",
+    "full_name": "hartfordcourant/flapper-news",
+    "created_at": "2015-10-23 16:53:39",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "google-sheets-table",
+    "full_name": "hartfordcourant/google-sheets-table",
+    "created_at": "2015-05-15 20:22:30",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "marteka_hiking",
+    "full_name": "hartfordcourant/marteka_hiking",
+    "created_at": "2015-05-08 16:30:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "mytowns_headlines",
+    "full_name": "hartfordcourant/mytowns_headlines",
+    "created_at": "2015-05-01 18:38:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "traffic",
+    "full_name": "hartfordcourant/traffic",
+    "created_at": "2015-06-02 20:25:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "CSS"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "trending",
+    "full_name": "hartfordcourant/trending",
+    "created_at": "2015-08-03 17:51:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "uconn_scoreboards",
+    "full_name": "hartfordcourant/uconn_scoreboards",
+    "created_at": "2015-04-30 17:02:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "PHP"
+  },
+  {
+    "org": "hartfordcourant",
+    "name": "v247",
+    "full_name": "hartfordcourant/v247",
+    "created_at": "2017-09-28 19:47:30",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "PHP"
+  }
+]

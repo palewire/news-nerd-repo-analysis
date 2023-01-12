@@ -1,0 +1,1152 @@
+[
+  {
+    "org": "the-politico",
+    "name": "generator-politico-interactives",
+    "full_name": "The-Politico/generator-politico-interactives",
+    "created_at": "2017-04-11 15:40:26",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 8,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "generator-politico-django",
+    "full_name": "The-Politico/generator-politico-django",
+    "created_at": "2017-04-17 15:19:24",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "jobs",
+    "full_name": "The-Politico/jobs",
+    "created_at": "2017-04-19 14:00:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-politico",
+    "name": "python-congressapi",
+    "full_name": "The-Politico/python-congressapi",
+    "created_at": "2017-04-20 20:55:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "archieml-pipe",
+    "full_name": "The-Politico/archieml-pipe",
+    "created_at": "2017-05-12 17:19:25",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "src",
+    "full_name": "The-Politico/src",
+    "created_at": "2017-05-22 14:45:15",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-politico",
+    "name": "chartwerk-editor",
+    "full_name": "The-Politico/chartwerk-editor",
+    "created_at": "2017-05-29 18:25:09",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "generator-politico-embeds",
+    "full_name": "The-Politico/generator-politico-embeds",
+    "created_at": "2017-05-31 03:19:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "interactive-news-developer-guide",
+    "full_name": "The-Politico/interactive-news-developer-guide",
+    "created_at": "2017-06-02 15:46:40",
+    "fork": false,
+    "stargazers_count": 17,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-politico",
+    "name": "ai2html",
+    "full_name": "The-Politico/ai2html",
+    "created_at": "2017-06-06 20:17:57",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "generator-politico-graphics",
+    "full_name": "The-Politico/generator-politico-graphics",
+    "created_at": "2017-06-14 02:52:03",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "module-georgia-turnout-chart",
+    "full_name": "The-Politico/module-georgia-turnout-chart",
+    "created_at": "2017-06-20 18:36:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "interactive_trump-urls",
+    "full_name": "The-Politico/interactive_trump-urls",
+    "created_at": "2017-06-21 17:25:17",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "CSS"
+  },
+  {
+    "org": "the-politico",
+    "name": "comida",
+    "full_name": "The-Politico/comida",
+    "created_at": "2017-06-22 14:54:59",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "factcheck-db",
+    "full_name": "The-Politico/factcheck-db",
+    "created_at": "2017-06-29 14:39:23",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "chartwerk_chart-templates",
+    "full_name": "The-Politico/chartwerk_chart-templates",
+    "created_at": "2017-07-11 18:46:14",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "census_pgeoloader",
+    "full_name": "The-Politico/census_pgeoloader",
+    "created_at": "2017-07-13 21:16:18",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-megadraft-image-plugin",
+    "full_name": "The-Politico/politico-megadraft-image-plugin",
+    "created_at": "2017-08-06 22:56:01",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-megadraft-qa-plugin",
+    "full_name": "The-Politico/politico-megadraft-qa-plugin",
+    "created_at": "2017-08-07 19:53:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-megadraft-ad-plugin",
+    "full_name": "The-Politico/politico-megadraft-ad-plugin",
+    "created_at": "2017-08-07 22:59:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-megadraft-code-plugin",
+    "full_name": "The-Politico/politico-megadraft-code-plugin",
+    "created_at": "2017-08-08 00:41:24",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "pym.js",
+    "full_name": "The-Politico/pym.js",
+    "created_at": "2017-08-12 23:50:22",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "gulp-responsive",
+    "full_name": "The-Politico/gulp-responsive",
+    "created_at": "2017-09-12 13:37:11",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "html2canvas",
+    "full_name": "The-Politico/html2canvas",
+    "created_at": "2017-09-14 20:10:27",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-elections",
+    "full_name": "The-Politico/politico-elections",
+    "created_at": "2017-10-05 15:06:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "python-opencivicdata",
+    "full_name": "The-Politico/python-opencivicdata",
+    "created_at": "2017-10-18 12:56:03",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "markslack",
+    "full_name": "The-Politico/markslack",
+    "created_at": "2017-11-13 04:49:47",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-kanban-budget",
+    "full_name": "The-Politico/django-kanban-budget",
+    "created_at": "2017-11-15 20:38:56",
+    "fork": false,
+    "stargazers_count": 45,
+    "forks_count": 18,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-slackchat-serializer",
+    "full_name": "The-Politico/django-slackchat-serializer",
+    "created_at": "2017-11-15 23:03:00",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 3,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-crosswalk",
+    "full_name": "The-Politico/django-crosswalk",
+    "created_at": "2017-12-03 19:59:16",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-crosswalk-client",
+    "full_name": "The-Politico/django-crosswalk-client",
+    "created_at": "2017-12-04 00:26:05",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "generator-politico-python-package",
+    "full_name": "The-Politico/generator-politico-python-package",
+    "created_at": "2017-12-18 16:33:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "generator-politico-django-package",
+    "full_name": "The-Politico/generator-politico-django-package",
+    "created_at": "2017-12-18 16:34:08",
+    "fork": false,
+    "stargazers_count": 7,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "simple-bundler",
+    "full_name": "The-Politico/simple-bundler",
+    "created_at": "2017-12-19 20:15:47",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "c-span_opened_captions_server",
+    "full_name": "The-Politico/c-span_opened_captions_server",
+    "created_at": "2017-12-29 16:28:13",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic",
+    "full_name": "The-Politico/politico-civic",
+    "created_at": "2018-01-02 15:19:03",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-election",
+    "full_name": "The-Politico/politico-civic-election",
+    "created_at": "2018-01-02 15:20:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-entity",
+    "full_name": "The-Politico/politico-civic-entity",
+    "created_at": "2018-01-02 15:20:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-geography",
+    "full_name": "The-Politico/politico-civic-geography",
+    "created_at": "2018-01-02 15:20:56",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-government",
+    "full_name": "The-Politico/politico-civic-government",
+    "created_at": "2018-01-02 15:21:27",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-vote",
+    "full_name": "The-Politico/politico-civic-vote",
+    "created_at": "2018-01-02 15:22:20",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "anno-docs-addon",
+    "full_name": "The-Politico/anno-docs-addon",
+    "created_at": "2018-01-02 16:32:24",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-stump",
+    "full_name": "The-Politico/politico-civic-stump",
+    "created_at": "2018-01-02 17:00:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "gspan",
+    "full_name": "The-Politico/gspan",
+    "created_at": "2018-01-02 19:16:01",
+    "fork": false,
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "copydoc",
+    "full_name": "The-Politico/copydoc",
+    "created_at": "2018-01-03 18:30:41",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-demography",
+    "full_name": "The-Politico/politico-civic-demography",
+    "created_at": "2018-01-05 16:22:53",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-biography",
+    "full_name": "The-Politico/politico-civic-biography",
+    "created_at": "2018-01-05 20:10:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "The-Politico.github.io",
+    "full_name": "The-Politico/The-Politico.github.io",
+    "created_at": "2018-01-07 13:14:14",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-almanac",
+    "full_name": "The-Politico/politico-civic-almanac",
+    "created_at": "2018-01-07 21:27:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-election-night",
+    "full_name": "The-Politico/politico-civic-election-night",
+    "created_at": "2018-01-16 16:15:23",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "nicar18-reusable-charts",
+    "full_name": "The-Politico/nicar18-reusable-charts",
+    "created_at": "2018-01-17 19:08:26",
+    "fork": false,
+    "stargazers_count": 12,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "nicar2018_reactive-frameworks",
+    "full_name": "The-Politico/nicar2018_reactive-frameworks",
+    "created_at": "2018-01-23 17:28:16",
+    "fork": false,
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "parcel-plugin-nunjucks",
+    "full_name": "The-Politico/parcel-plugin-nunjucks",
+    "created_at": "2018-01-24 12:01:14",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-politico-slackchat-renderer",
+    "full_name": "The-Politico/django-politico-slackchat-renderer",
+    "created_at": "2018-02-05 16:10:25",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "election-calendar",
+    "full_name": "The-Politico/election-calendar",
+    "created_at": "2018-02-06 20:43:23",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-style",
+    "full_name": "The-Politico/politico-style",
+    "created_at": "2018-02-21 15:31:20",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "parcel-plugin-react-markdown",
+    "full_name": "The-Politico/parcel-plugin-react-markdown",
+    "created_at": "2018-03-05 05:34:05",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "react-flipcard",
+    "full_name": "The-Politico/react-flipcard",
+    "created_at": "2018-03-20 01:58:56",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "lunchbox",
+    "full_name": "The-Politico/lunchbox",
+    "created_at": "2018-03-23 18:14:18",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "secondlunch",
+    "full_name": "The-Politico/secondlunch",
+    "created_at": "2018-03-28 19:57:34",
+    "fork": false,
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "data_news-deserts-analysis",
+    "full_name": "The-Politico/data_news-deserts-analysis",
+    "created_at": "2018-04-09 15:50:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-foreignform",
+    "full_name": "The-Politico/django-foreignform",
+    "created_at": "2018-04-13 06:27:33",
+    "fork": false,
+    "stargazers_count": 15,
+    "forks_count": 6,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "hotshot",
+    "full_name": "The-Politico/hotshot",
+    "created_at": "2018-05-23 03:27:12",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-botshot",
+    "full_name": "The-Politico/politico-botshot",
+    "created_at": "2018-05-24 17:37:14",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-s3-image-service",
+    "full_name": "The-Politico/django-s3-image-service",
+    "created_at": "2018-07-17 20:40:44",
+    "fork": false,
+    "stargazers_count": 6,
+    "forks_count": 2,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-politico-oembed-service",
+    "full_name": "The-Politico/django-politico-oembed-service",
+    "created_at": "2018-07-18 00:18:10",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-services-api",
+    "full_name": "The-Politico/politico-services-api",
+    "created_at": "2018-07-24 15:56:01",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "module_district-locator-map",
+    "full_name": "The-Politico/module_district-locator-map",
+    "created_at": "2018-08-26 20:37:03",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "module_density-rank-chart",
+    "full_name": "The-Politico/module_density-rank-chart",
+    "created_at": "2018-08-28 12:17:06",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "module_parliament-chart",
+    "full_name": "The-Politico/module_parliament-chart",
+    "created_at": "2018-08-29 16:10:18",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "mit-elections-data",
+    "full_name": "The-Politico/mit-elections-data",
+    "created_at": "2018-09-04 15:27:11",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-politico",
+    "name": "markdown-react-loader",
+    "full_name": "The-Politico/markdown-react-loader",
+    "created_at": "2018-09-13 02:03:44",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-civic-ap-loader",
+    "full_name": "The-Politico/politico-civic-ap-loader",
+    "created_at": "2018-09-17 16:19:50",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "api-to-sheets",
+    "full_name": "The-Politico/api-to-sheets",
+    "created_at": "2018-09-24 18:13:19",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "constituency-returns",
+    "full_name": "The-Politico/constituency-returns",
+    "created_at": "2018-10-02 13:56:09",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null
+  },
+  {
+    "org": "the-politico",
+    "name": "django-politico-slackchat-2018-midterms-bakery",
+    "full_name": "The-Politico/django-politico-slackchat-2018-midterms-bakery",
+    "created_at": "2018-10-02 20:18:42",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-2018-district-similarity-maps",
+    "full_name": "The-Politico/politico-2018-district-similarity-maps",
+    "created_at": "2018-10-04 01:57:26",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-politico",
+    "name": "presidential-county-data",
+    "full_name": "The-Politico/presidential-county-data",
+    "created_at": "2018-10-04 18:40:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Shell"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-slack-forms",
+    "full_name": "The-Politico/django-slack-forms",
+    "created_at": "2018-12-03 17:39:06",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 3,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "gspan.js",
+    "full_name": "The-Politico/gspan.js",
+    "created_at": "2019-01-14 23:46:11",
+    "fork": false,
+    "stargazers_count": 18,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-politico-staff",
+    "full_name": "The-Politico/django-politico-staff",
+    "created_at": "2019-01-16 20:11:07",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "meme",
+    "full_name": "The-Politico/meme",
+    "created_at": "2019-01-22 19:44:15",
+    "fork": true,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "nicar2019_reactive-d3-workbook",
+    "full_name": "The-Politico/nicar2019_reactive-d3-workbook",
+    "created_at": "2019-01-27 22:20:35",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 1,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "newsroom-coding-style",
+    "full_name": "The-Politico/newsroom-coding-style",
+    "created_at": "2019-02-03 13:30:08",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "django-slack-events-router",
+    "full_name": "The-Politico/django-slack-events-router",
+    "created_at": "2019-02-12 18:18:34",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-interactive-templates",
+    "full_name": "The-Politico/politico-interactive-templates",
+    "created_at": "2019-02-22 16:41:06",
+    "fork": false,
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "chartwerk-ui-components",
+    "full_name": "The-Politico/chartwerk-ui-components",
+    "created_at": "2019-03-01 17:52:50",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "module_nicar2019-map",
+    "full_name": "The-Politico/module_nicar2019-map",
+    "created_at": "2019-03-05 16:02:52",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "module_nicar2019-linechart",
+    "full_name": "The-Politico/module_nicar2019-linechart",
+    "created_at": "2019-03-05 16:04:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "viz-app",
+    "full_name": "The-Politico/viz-app",
+    "created_at": "2019-03-05 17:47:30",
+    "fork": true,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "gootenberg",
+    "full_name": "The-Politico/gootenberg",
+    "created_at": "2019-03-05 22:51:36",
+    "fork": false,
+    "stargazers_count": 40,
+    "forks_count": 5,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "template_hello-world",
+    "full_name": "The-Politico/template_hello-world",
+    "created_at": "2019-03-19 17:32:41",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "politico-graphics-kit",
+    "full_name": "The-Politico/politico-graphics-kit",
+    "created_at": "2019-04-16 17:29:18",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "template_lambda-bakery",
+    "full_name": "The-Politico/template_lambda-bakery",
+    "created_at": "2019-05-01 20:53:08",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "template_lambda-etl",
+    "full_name": "The-Politico/template_lambda-etl",
+    "created_at": "2019-05-20 13:31:33",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "lambda_layer-pandas",
+    "full_name": "The-Politico/lambda_layer-pandas",
+    "created_at": "2019-05-21 00:59:56",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HCL"
+  },
+  {
+    "org": "the-politico",
+    "name": "artisan",
+    "full_name": "The-Politico/artisan",
+    "created_at": "2019-07-17 15:21:07",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "jsx2jpg",
+    "full_name": "The-Politico/jsx2jpg",
+    "created_at": "2019-07-19 14:57:07",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "react-snap",
+    "full_name": "The-Politico/react-snap",
+    "created_at": "2019-08-07 15:28:27",
+    "fork": true,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "us-elections",
+    "full_name": "The-Politico/us-elections",
+    "created_at": "2019-09-16 22:38:51",
+    "fork": false,
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": "Python"
+  },
+  {
+    "org": "the-politico",
+    "name": "template_lambda-next-bakery",
+    "full_name": "The-Politico/template_lambda-next-bakery",
+    "created_at": "2019-10-01 00:46:21",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "notebook_non-voter-decision-tree",
+    "full_name": "The-Politico/notebook_non-voter-decision-tree",
+    "created_at": "2020-02-04 21:49:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-politico",
+    "name": "interactive_nonvoters-knight",
+    "full_name": "The-Politico/interactive_nonvoters-knight",
+    "created_at": "2020-02-10 19:43:40",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "nicar-2020-geopandas",
+    "full_name": "The-Politico/nicar-2020-geopandas",
+    "created_at": "2020-02-19 17:08:55",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "org": "the-politico",
+    "name": "react-stateface",
+    "full_name": "The-Politico/react-stateface",
+    "created_at": "2020-02-21 20:39:18",
+    "fork": false,
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "module_elections-2020-delegate-map",
+    "full_name": "The-Politico/module_elections-2020-delegate-map",
+    "created_at": "2020-03-02 20:35:49",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "interactive_coronavirus-endangered-workers",
+    "full_name": "The-Politico/interactive_coronavirus-endangered-workers",
+    "created_at": "2020-03-20 15:38:02",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "interactive_coronavirus-rate-of-change",
+    "full_name": "The-Politico/interactive_coronavirus-rate-of-change",
+    "created_at": "2020-03-23 16:55:50",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "tool_code-politico-sandbox",
+    "full_name": "The-Politico/tool_code-politico-sandbox",
+    "created_at": "2021-02-16 22:02:32",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "gootenberg-lambda",
+    "full_name": "The-Politico/gootenberg-lambda",
+    "created_at": "2021-03-11 17:26:31",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "tool_thoth",
+    "full_name": "The-Politico/tool_thoth",
+    "created_at": "2021-06-10 16:36:51",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "recoverylab-capstone",
+    "full_name": "The-Politico/recoverylab-capstone",
+    "created_at": "2021-12-13 20:04:46",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "tween-titan",
+    "full_name": "The-Politico/tween-titan",
+    "created_at": "2022-02-01 22:22:51",
+    "fork": false,
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "language": "JavaScript"
+  },
+  {
+    "org": "the-politico",
+    "name": "react-tween-titan",
+    "full_name": "The-Politico/react-tween-titan",
+    "created_at": "2022-02-05 18:31:45",
+    "fork": false,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "HTML"
+  },
+  {
+    "org": "the-politico",
+    "name": "fema-elevation",
+    "full_name": "The-Politico/fema-elevation",
+    "created_at": "2022-05-17 20:15:47",
+    "fork": false,
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "language": null
+  }
+]
