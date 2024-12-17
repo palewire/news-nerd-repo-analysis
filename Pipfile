@@ -8,10 +8,10 @@ jupyterlab = "*"
 pandas = "*"
 altair = "*"
 pygithub = "*"
-bs4 = "*"
-markdown = "*"
 rich = "*"
 ipywidgets = "*"
+click = "*"
+altair-latimes = "*"
 
 [dev-packages]
 

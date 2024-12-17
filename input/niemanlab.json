@@ -3,10 +3,18 @@
     "org": "niemanlab",
     "name": "openfuego",
     "full_name": "niemanlab/openfuego",
-    "created_at": "2013-04-29 17:33:24",
+    "homepage": "http://www.niemanlab.org/fuego",
+    "description": "Watching Twitter all day\u2014so you don\u2019t have to.",
+    "language": "PHP",
+    "created_at": "2013-04-29 17:33:24+00:00",
+    "updated_at": "2024-09-10 02:43:48+00:00",
+    "pushed_at": "2014-04-24 03:03:32+00:00",
     "fork": false,
-    "stargazers_count": 172,
-    "forks_count": 52,
-    "language": "PHP"
+    "stargazers_count": 176,
+    "watchers_count": 176,
+    "forks_count": 53,
+    "open_issues_count": 20,
+    "license": "MIT License",
+    "topics": []
   }
 ]
